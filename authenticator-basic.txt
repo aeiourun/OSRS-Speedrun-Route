@@ -1,16 +1,19 @@
-Routed by Muffyn
-Notes revised by TheDarkestUno and aeiou
- 
 Setup
-Make a new account using the new account button in the client
-Its email should be a throwaway email you have because verification is required
-With gmail you can do email+1@gmail.com to use the same name each time
+Create an email account for runs, as email verification is required
+The best thing you can do is setup a short and memorable gmail account "usernamerun@gmail.com"
+Then, when setting up the runescape account, you can use the email "usernamerun+1@gmail.com", and increment it by one each run
+Your runescape login email will be "usernamerun+1@gmail.com" and the authentication email will go to "usernamerun@gmail.com"
+Make a new oldschool runescape account
 Go to the main oldschool page and click enable authenticator
 Open google authenticator on your phone and scan the code
 Enter the code on the web page to enable authenticator
 Log in on the client and enter the authenticator code
+
+Note: The first time you change world with this account you will be brought back to the authenicater verification
+    Hit cancel, and then enter your username and password again
  
-Timer starts when you press accept on the character creation screen
+Start
+    Timer starts when you press accept on the character creation screen
  
 Tut island
     Runescape guide [3]
@@ -144,7 +147,7 @@ Lumbridge
     WITHDRAW Fally East chronicle and spade ONLY
     Finish PT
     Start BKF
-    !Die to a white knight (They can hit up to 5)
+    Die to a white knight (They can hit up to 5)
     Chronicle teleport, bank at V West for cadava berries, chronicle, cabbage, dyes, iron chain, bronze med and 5ish wines
     Run to BKF
     Hidden route, then door, drop cabbage down hole
