@@ -69,7 +69,8 @@ General Running Knowledge
     The first time you change world with an authenticator account you will be brought back to the authenticator verification.
         Hit cancel, and then enter your username and password again.
 
-    Hold spacebar through all dialog.
+    Hold spacebar through all dialogue.
+    Use number keys for all dialogue.
     
     Run depletes faster the more weight you are carrying.
     Stockpile run energy while carrying a heavy load, and run when you have a light load.
