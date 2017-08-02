@@ -138,18 +138,19 @@ Lumbridge
     Exit Draynor Manor, grabbing bronze helm
     Run to Falador
     Buy iron chainbody with ETC money
+	Bank: Deposit fally east, deposit all ONLY and withdraw chronicle and spade
     Finish PT
     Start BKF
-    !Die to a white knight with only chronicle, iron chain, bronze med
-    Chronicle teleport, bank at V West for cadava berries, cabbage, dyes, iron chain, bronze med and a few wines
+    !Die to a white knight
+    Chronicle teleport, bank at V West for cadava berries, cabbage, dyes, iron chain, bronze med and 5ish wines
     Run to BKF
     Hidden route, then door, drop cabbage down hole
     Run through wilderness to GD
-    Do Goblin Diplomacy
+    Do Goblin Diplo macy
     Goblin mail locations: Up ladder, in mid-left hut, behind generals’ (right side) for the goblin bodies
     Run back to Falador
     Finish BKF
-    !Clan wars tele for run
+    Clan wars tele for run
     Chronicle teleport
     Apothecary, Juliet
     WITHDRAW Varrock West: 3 DS keys, cadava berry, chronicle and final fight stuff(Armor, shield, cape, gloves, ale, wine)
