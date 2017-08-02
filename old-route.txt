@@ -1,0 +1,234 @@
+Old route for archiving purposes, check out the authenticator files for more up to date information.
+
+Just a note.
+Whenever BANK: is mentioned, this is telling you the items you want to have in your inventory/equipped after you're done banking.
+I put [Split] where a few of the runners tend to split, but obviously you use whatever splits you want.
+Deathwarp = kill yourself via the method provided.
+Numbers in brackets are the dialogue options you'll want to select when speaking to an NPC. I.E [1,2,1,4]
+
+
+Tutorial Island
+-	Start timer when you click "Accept"
+-	Runescape guide [1st option]
+-	Drop your items to not run out of run
+-	Don’t forget to become Ironman [2nd dialogue option]
+-	Split when you reach Lumbridge
+
+Lumbridge I
+-	Claim runes from Magic tutor (drop your mind and air runes beforehand, and repick them up after you claim runes from magic tutor)
+-	Claim training shield from Melee Tutor
+-	Go to the General Store
+	1) SELL dagger, sword, shield, pot , body runes, axe, bow, bread, and fishing net
+	2) BUY hammer and shears
+-	Claim Ironman armor from Adam/Paul
+-	Head up the north side of Lumbridge Castle
+-   Go up to the bank on the top floor and pick up a log along the way (log spawns on top floor)
+-	BANK: put everything away
+-	Start Rune Mysteries by talking to Duke Horacio (RM) [He's on the second floor] [1,1]
+-	Head down the stairs and toward Lumbridge Church
+-	Start Restless Ghost by talking to Father Aereck (RG) [3,1]
+-	Head to Father Urhney’s house and tell him that Father Aereck has a ghost haunting him [2,1]
+-	Grab leather gloves
+-   Minigame teleport to clan wars, step inside white/grey portal, home teleport
+-	Talk to ghost (w/ ghost amulet equipped) [1]
+-	DROP GHOSTSPEAK AMULET AFTER TALKING TO THE GHOST
+-	Go to Wizard’s Tower (You can hit a wizard outside on your way to speed up the deathwarp process)
+-	Talk to Sedridor for RM [3,1,1]
+-	Search the altar to get the skull for RM
+-	Deathwarp via Wizard (Make sure to protect SKULL, PACKAGE, and leather gloves)  [Split]
+-	Run out the back of Lumbridge Castle and head to Draynor
+
+Draynor I
+-	BANK: all coins, air and mind runes, pickaxe @Draynor bank
+-	Buy 20 wines from Fortunato  (Depending on how many wines you're getting per world, I would buy at least 10 wines minimum, and 20 wines maximum) [World hop between each buy]  [[IF YOU HAVE GOOD WINES (4-5 each world) I WOULD JUST RECOMMEND BUYING ALL THE WINES (up to 20) HERE]] 
+-	BANK: put away all the wines you just purchased, keep everything else
+-	Start Vampire Slayer by talking to Morgan (VS), grab garlic from the upstairs of his house. (It's in the cupboard) [2]
+-	Head towards Draynor Manor
+-	Start Ernest the Chicken (ETC) by talking to Veronica [1]
+	1) Go upstairs and grab the fish food first
+	2) Go back to the first floor and grab the poison in the kitchen, use the poison on the fish food, then click the bookcase in the following room and go down the ladder
+	3) Complete the puzzle (ordering: pull A&B down, D down leave C up, A&B back up, E&F down, C down and leave D as is, E up, grab oil can)
+	4) Head back up the ladder and head towards the back end of the manor
+	5) Pick up a spade near the exit (You can pick up the bucket here, or save a little time and pick it up right before you leave the Manor the second time)
+	6) Use spade on compost pile near cabbages to get a key
+	7) Use poisoned fish food on the fountain south of the compost pile to get a pressure gauge
+	8) Go back inside Draynor Manor and go in the room with the skeleton and rubber tube that's underneath the stairs, and pick up the rubber tube
+	9) Head upstairs and talk to Dr. Oddenstein to finish the quest [1,2]
+Finish ETC (Pick up the bucket if you didn't beforehand and keep spade)
+-   Drop key from ETC
+-	Head to Port Sarim
+-   [Split] at completion of ETC
+
+Port Sarim I
+-	Start Pirate’s Treasure by talking to Redbeard Frank (PT) [1,1]
+-	Go to Karamja (Pay-Fare/Talk to one of the sailors to travel there)
+	1) Go up to Zambo (Beer shop owner) and buy a Karamja rum and 3 beers
+	2) Go to Karamja's General store and pick up a rope from the rope spawn there
+	3) Pick 10 bananas (two trees worth)
+	4) Talk to Luthas and ask if you can do a job for him (he's in the house by the docks where you arrived from) [1]
+	5) Put the Karamja rum in the crate and then press the "Fill" crate option
+	6) Receive your payment from Luthas
+	7) Head back to Port Sarim (Wish to travel -> Go ahead and search -> Ok) [1,2,1]
+-	Grab white apron from fishing store
+-	Buy 2 pots of flour and raw meat from Wydin's Food Store
+-	Put on your white apron and click the door in Wydin's store to ask if you can get a job there, get the Karamja Rum from the banana crate (You can drop the white apron after doing this)
+-	Talk to Redbeard Frank to get a key 
+-	Go to Betty's Magic Shop and buy an eye of newt and a wizard hat
+-   Equp Wizard hat and bronze pickaxe
+-	Head towards Rimmington
+-	Grab 5 onions + cabbage (BEFORE Witch's Potion)
+-	Go to house with a range, burn the meat, and fill the bucket up with water. (If you get Cooked Meat, just reuse it on the range to get it to be burnt)
+-	Start Witch's Potion by talking to Hetty [1,1]
+-	Go kill a rat in the Archery shop to get a rat's tail (Use air strike to kill the rat)
+-	Talk to Hetty again and drink from the cauldron to complete Witch's Potion
+-   Mine tin, clay, and copper. (This can take awhile due to the amount of F2P bots, consider world hops if too many people)
+-   Soften the clay with water.
+-	Head to Falador
+-	Buy woad leaves from gardener on east end of park (20 gp) [Split] [1,4]
+-	Smelt your copper and tin into bronze bar
+-	Buy 6 WIZARD’S MIND BOMB and 1 ASGARNIAN ALE from Falador Pub
+-   Fill bucket back up with water at the faucet next to hair stylist
+-	Bank everything at Falador West Bank (including what you’re wearing)
+-	Deathwarp to Falador guards
+
+Varrock I
+-	Go to top floor of Lumbridge Castle
+-	BANK: PACKAGE, KEY, SKULL, bucket, bucket of water, air and mind runes, shears, food, all coins, 1 BEER
+-	Run to Sheep pen in Lumbridge (by General store) and shear 3 sheep
+-	Start to head toward Varrock
+-	Milk the cow for a BUCKET OF MILK along the way 
+-   Grab an egg from the chicken coop
+-	Run north toward the redberry and cadava berry bushes that on the outskirts of Varrock's southern wall 
+-	Get 1 cadava berries and 4 redberries
+-	Head over to the Blue Moon Inn: talk to Dr.Harlow, and then buy 1 beer [2, re-talk and stop talking to him once stake is acquired]
+-	Head upstairs of the Blue Moon Inn and use the PT key on the chest
+-	Read the Pirate's Notes and then drop them, head back downstairs
+-	Head out the back of the Blue Moon Inn (through the kitchen area) and head toward Aubury's Magic shop
+-	Deliver package to Aubury and talk to him again to get notes, buy 38 water runes
+-	Buy a pink skirt and red cape from Thessalia
+-	Start Demon Slayer by talking to the Gypsy (DS), PRINT SCREEN THE INCANTATION [1,3,3, cutscene, 4]
+-	Start Romeo and Juliet (RJ) by talking to JULIET [1,1] (You don't need to talk to Romeo first)
+-	Talk to Romeo
+-	Buy a staff from Zaff (Should have 50~ gp left)
+-	Equip red cape and staff
+-	Talk to Sir Prysin about the Silverlight [3,1,2,1]
+-	Get Sir Rovin’s key, he's on the 2nd floor if you go up the northwestern staircase. [3,1,2,2,3,1]
+-	Go back down to the bottom floor and go to the northeastern room (looks like a kitchen)
+-	Pour water down the drain (located just outside of the building)
+-   Refill bucket with water
+-	Talk to Father Lawrence
+-	Get Sir Prysin’s key from sewer
+-	Home teleport [Split]
+
+Lumbridge II
+-   Reclaim runes from Mage Tutor (drop your mind and air runes beforehand, and repick them up after you claim runes from magic tutor)
+-   Complete RG (Open the coffin and use the skull on it)
+-   Clan Wars teleport and restore your run energy via white/grey portal.
+-	BANK @ clan wars bank: 10 coins, logs, tinderbox, air mind and water runes, MIND BOMB x5, Wizard’s hat (Should have the staff and red cape equipped already)
+-	Start Prince Ali’s Rescue by talking to Hassan in the Al Kharid palace (PAR) [1]
+-	TALK TO OSMAN!~!~!~! [1,2]
+-	Go north and pay 10 coins to go through the gate that separates Al Kharid and Lumbridge
+-	Kill chickens for bones (This is for DS, we'll need 25 bones in total)
+	1) 	You can kill chickens in the chicken coop a little northwest of Farmer Fred's house (also consider world hopping here if there's too many people competing for chickens) [RECOMMENDED OPTION]
+		a) You can use the chicken coop that you got the egg from [NOT RECOMMENDED, USUALLY CROWDED]
+	2)	Once you get to the chicken coop, light a fire (Drop the tinderbox after doing so) [MAKE SURE TO PICK UP YOUR ASHES]
+	3)  Use Wizard Mind Bombs to accelerate this, with 5 wizard mind bombs, we can use one per level up 
+		a) Also use Mystic Might (magic boosting prayer) to help accelerate this as well
+	4)	Use water strikes first, then air strikes, then bash with staff if need be
+-	After you get 25 bones, head to the top floor of Lumbridge Castle
+-	BANK @ Lumbridge: all coins, 2x flour, milk, egg, 3x wool, bucket of water, ashes, 4x redberries, 4x onions, woad leaves, SOFT CLAY, wine
+-	Go to the second floor of Lumbridge castle and use the spinning wheel to SPIN YOUR BALLS OF WOOL.
+-	Start Cook's Assistant by talking to the Cook on Lumbridge's first floor [1,1, re-talk to him]
+-	Finish Cook's Assistant [Split]
+-	Head out the back of castle
+-	Head to Draynor Jail
+
+ Draynor II
+-	40 gp needed for this chunk (assuming you got the rope off of Karamja)
+-	Talk to Lady Keli in order to make imprint of jail key [1,2,3,1,1]
+	1) Drink your wine if need to defend from guards
+-	Have Ned make you a wig [1,2,1]
+-	Have Aggie make dyes and skin paste
+	1) You can use the ingredients for dyes on Aggie to have her make them quicker
+	2) You should have a red, 2 yellows, and a blue dye
+	3) [1,1] for skin paste dialogue
+-	Use yellow dye on wig
+-   Mix red and yellow into orange.
+-	BANK @ Draynor: notes, 25 bones [Deposit anything you're wearing too]
+-	Head to Wizards’ Tower
+-	Go upstairs and talk to Wizard Traiborn to get DS key [3,3,2, then re-talk]
+-	Go down to the bottom floor 
+-	Talk to Sedridor to complete RM
+-	Drop Air talisman
+-	Deathwarp to Wizard [Making sure to keep DS key]
+-	BANK: 20 gp, clay imprint, bronze bar, a wine, 3x beers, rope, pink skirt, skin paste, wig
+-   Head to Al Kharid
+-	Give imprint and bronze bar to Osman
+-	Return to Draynor
+-	Talk to Leela (You have to make sure you have everything you need for the disguise/infiltration when you talk to her)
+-	Go into the jail and offer the jailor some drinks/beers [1]
+-	Use rope on Lady Keli 
+-	Go inside the jail cell and talk to Prince Ali to unofficially finish up PAR
+-   Deathwarp via Jail Guards
+-   Head to Al Kharid
+-	Talk to Hassan and finish PAR officially
+-	BANK: air/mind/earth runes, all your gp, garlic, hammer, stake, staff, wizard's hat, gloves, cape, training shield, wizard’s mind bomb, wines
+-	Head to Port Sarim via jail method by Shantay’s Pass [1,1,2,2]
+-	Pick the lock to get out of your jail cell and head over to Betty's Magic shop
+-	Buy runes for earth strike (aiming for around 40-45 casts here) and try to leave 210 gp
+-	Head to Draynor Manor
+-	Go downstairs and fight Count Draynor (His max hit is 3)
+	1) Use wizard's mind bomb at the start of the fight
+	2) Don't forget to use magic bonus prayer 
+	3) If you only have 8 magic from killing chickens, you can use to wizard's mind bomb to be able to cast earth strike
+-	Complete VS, grab bronze med helm as you're leaving the manor [Split]
+-	LEAVE OUT THE WEST SIDE OF THE MANOR TO FALADOR 
+-	Head to Falador
+
+Falador I
+-	Buy iron chainbody from Wayne's Chains
+-	BANK @ Falador bank near park: spade, dyes, cabbage, 3 wines, cadava berries, bronze med helm, iron chain [Deposit training shield, red cape, gloves, everything else]
+-	Complete PT [GARDENER SKIP, dig where you’re suppose to, run out/far away enough to despawn the gardener, and run back in and dig in the spot]
+-	Drop casket from PT (OR open it and buy iron chainbody if you didn't have enough money beforehand)
+-	Start Black knight’s fortress by talking to Sir Amik Varze (BKF) [he's located on the 2nd floor of the western tower of the White Knights' Castle] [1,1,1]
+-	Head over to Goblin Village
+-	Up ladder, in mid-left hut, behind generals’ (right side) for the goblin bodies
+-	Use your blue dye on one goblin mail and your orange dye on another. (You should have 1 blue, 1 orange, and 1 brown/normal)
+-	Talk to Wartface and start Goblin Diplomacy (GD) [3,3]
+-	Complete Goblin Diplomacy (GD) [Just use dyed armor as needed]
+-	Drop the gold bar you got from GD
+-	Outside of Goblin Village, go west then north until get to the wilderness ditch. (http://imgur.com/a/S4akg IMAGE FOR REFERENCE, YELLOW IS GOBLIN VILLAGE -> BKF, BLACK IS AFTER YOU'VE THROWN THE CABBAGE IN AND ARE RETURNING TO FALADOR)
+	1) Cross the ditch and then head east until you see another wilderness ditch and cross that one as well.
+	2) Head southeast to Black Knights' Fortress
+-	Head inside the Black Knights' Fortress (make sure you have your Bronze med helm and iron chainbody equipped)
+	1) Once your inside the BKF, push through the false wall (eat at any point in time you need to, Black Knights can hit up to 4s)
+	2) From this point on, it's basically just following the closest ladder near you until you get to a grill
+	3) Once you get to the grill, click on it to listen and then head back to the room with the false wall (where you entered from)
+	4) Open the door to the east and climb up the ladder on the northern wall of the room
+	5) Follow the path and find a wall that you can push, then use your cabbage on the hole
+	6) After the cutscene, DROP EVERYTHING THAT's NOT CADAVA BERRIES AND IRON CHAIN (PROTECT THESE AT ALL COST)
+	7) Deathwarp via Black Knights from the floor below
+-	Talk to Count Check (in Lumbridge Graveyard) [4,1]
+-	Run back to Sir Amik Varze and complete BKF [Split]
+-	Clan wars teleport, enter the grey portal, and then home teleport to Lumbridge
+
+Varrock II
+-   Run to Draynor
+-   Buy wines from Fortunato if you're running low. 
+-   Buy the Chronicle and 5 teleport cards from Diango (Although we'll only use 3, it's faster to use the buy 5 option)
+-   Use teleport cards on the Chronicle and teleport via Chronicle
+-   Set quick prayer to Burst of Strength (Str bonus) and Clarity of Thought (Atk bonus)
+-	Go to Apothecary, make cadava potion [3,1]
+-	Talk to Juliet 
+-	BANK: Ironman armor, red cape, leather gloves, three DS keys, chronicle, training shield, ASGARNIAN ALE, whatever food you have left
+-	Talk to Romeo to complete RJ
+-	Get Silverlight by talking to Sir Prysin
+-   Teleport via Chronicle (We can teleport as soon as we get the text of "You got the silverlight", this saves time on animation and text)
+-   Set attack option to Slash (Strength)
+-	Walk towards the Wizard's Circle and complete DS [Video guide's on how to set-up Delrith and the fight are listed in the notes of Cguild on the speedrun.com page]
+	1) Be patient when setting up Delrith, the mages can be a hassle
+	2) Attack Delrith when he seems to be isolated, and if the mages attack you, walk outside the ruins and restart the instance
+	3) When you have Delrith attacking you, use Asgarnian Ale immediately
+	4) MAKE SURE TO TURN OFF YOUR PRAYER BEFORE SAYING THE INCANTATION, THIS WILL SCREW YOU OVER IF YOU DON'T
+-	After the fight and completion of DS, teleport via Chronicle and run to Champions' Guild
+-	Split once you enter the Guild
