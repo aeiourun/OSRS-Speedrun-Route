@@ -1,126 +1,176 @@
-#) stuff written by TheDarkestUno, rest is written by Muffyn
+Based on notes by TheDarkestUno, Muffyn, and aeiou.
 
+Setup
 Make a new account using the new account button in the client
 Its email should be a throwaway email you have because verification is required
 With gmail you can do email+1@gmail.com to use the same name each time
 Go to the main oldschool page and click enable authenticator
 Open google authenticator on your phone and scan the code
 Log in on the client and enter the authenticator code
+
 Timer starts when you press accept on the character creation screen
 
 Tut island
-Normal Lumbridge I (but not visiting wizard's tower)
-	Sell useless stuff, buy hammer shears bucket from general store
+	Runescape guide [3]
+	Drop your items to not run out of run
+	Don’t forget to become Ironman [2nd dialogue option]
+
+
+Lumbridge I (but not visiting wizard's tower)
+	SELL: dagger, sword, shield, pot , body runes, axe, bow, bread, and fishing net
+	BUY: hammer, shears, bucket from general store
 	Shear 3 sheep
-    1) Started RM 
-    2) Started RG 
-	Get ghostspeak
-	Clan wars the home teleport
-Count Check TP
-	Return skull
+	Claim Ironman armor from Adam/Paul
+	Grab log from upstairs lumby castle bank
+	BANK: put everything away
+    Start RM [1,1]
+    Start RG [3,1]
+	Get ghostspeak [2,1]
+	Grab leather gloves
+	Clan wars teleport, walk in portal to restore run
+	Home teleport
+	Talk to ghost about skull [1]
 	Count Check teleport (4-1)
+	
 First level of Stronghold of Security
+	Go along far north path to first treasure chest
+	Claim it
+	Use the ladder to exit
 
 Run to Falador
-    1) Bank at Falador West
-    2) Grab out money, pickaxe, air/mind runes, 2 buckets
-    3) Buy 1 Asgarnian Ale and 6 Mind Bombs
-    4) Buy woad leaves
-    5) Run down towards Falador Farm/Cow Pasture
-    6) Milk a cow
-    7) Grab egg from farm (southwest pen)
-Run to Port Sarim
-    1) Talk to Redbeard to start PT
-	Buy from betty: Eye of Newt, Wizard hat, ~50 air runes, ~60 mind runes, ~50 water runes, ?earth runes saving ~300 gp
-    2) Karamja stuff
-	Rope, 3 beers, rum
-    3) White apron
-    4) Wydin = 2 pot of flour, raw meat
-    5) Grab rum
+    Buy 1 Asgarnian Ale and 6 Mind Bombs
+    Buy woad leaves [1,4]
+	BANK Fal east: Deposit all 
+		WITHDRAW: money, pickaxe, air/mind runes, 2 buckets
+    Run down towards Falador Farm/Cow Pasture
+    Milk a cow
+    Grab egg from farm (southwest pen)
+	Run to Port Sarim
+    Talk to Redbeard to start PT [1,1]
+    Karamja stuff
+		Rope, 3 beers, rum
+    White apron
+    Wydin = 2 pot of flour, raw meat
+    Grab rum
+	Buy from betty: Eye of Newt, Wizard hat, ~50 air runes, ~60 mind runes, ~50 water runes, ~40 earth runes
+		Try to save 1100 gp
+
 Head to Rimmington
-    1) Get 5 onions and cabbage
-    2) Burn meat
-    3) Start WP
-    4) Kill rat
-    5) End WP
-    6) Mine copper, tin, and clay
+    Get 5 onions and cabbage
+    Burn meat
+    Start WP
+    Kill rat
+    End WP
+    Mine copper, tin, and clay
+		Pray to God Ash for good bot luck
  
 Head to Draynor Village
-    1) Start VS and grab garlic
-    2) Bank and grab some money
-    3) Buy 20 wines and chronicle + 5 pages
-    4) Bank, put everything away, grab out air talisman, chronicle.
-Run to Wizard's tower
-    1) Talk to Wizard for RM
-    2) Grab skull
-    3) Deathwarp
-        a) Our invent should be package, skull, chronicle.
+	Give rum to redbeard
+    Start VS [2] and grab garlic
+    Bank
+	WITHDRAW: all money
+    Buy ~20 wines and chronicle + 3 pages
+    Bank, put everything away, grab out air talisman, chronicle.
+	Run to Wizard's tower
+    Talk to Wizard for RM
+    Grab skull
+    Deathwarp
+		Our invent should be package, skull, chronicle.
+		
 Lumbridge
-    1) Complete RG
-    2) Chronicle Teleport
+    Complete RG
+    Chronicle Teleport
+	
 Varrock
-    1) Run up to Juliet
-        a) Start RJ
-    2) Run to VWest Bank
-        a) Grab out money, notes, shears, bucket, key, beer, clay
-    3) Buy staff/magic staff
-    4) Talk to Gypsy and start DS
-    5) Buy pink skirt and red cape
-    6) Talk to Romeo
-    7) Go down to Blue Moon Inn
-        a) Give/buy a beer for Dr.Harlow
-        b) Get stake
-        c) PT Chest upstairs
-    8) Talk to Aubury
-        a) Get Package
-    7) Buy iron chainbody
+	Grab 1 cadava and 4 redberries
+    Run up to Juliet
+		Start RJ
+    Run to V West Bank
+		WITHDRAW: all money, package, shears, bucket, key, beer, clay, love letter
+    Buy staff from Zaff
+    Talk to Gypsy and start DS [1,3,3, cutscene, 4]
+    Buy pink skirt and red cape
+    Talk to Romeo
+    Go down to Blue Moon Inn
+		BUY A BEER and give to Dr.Harlow
+        PT Chest upstairs
+    Talk to Aubury [3]
+        Get Package
+    Buy iron chainbody
 	Fill bucket at fountain, wet the clay, fill bucket
-    8) Talk to Sir Prysin
-    9) Get Sir Rovin's key
-    10) Get water and pour down drain
-    11) Reobtain water at fountain
-    12) Talk to Father Lawrence
-    13) Go down into sewers and get key
-    14) Chronicle tp
-    16) Grab 1 cadava and 4 redberries
-    17) Clan wars tp/home tp
+	Talk to Sir Prysin about the Silverlight [3,1,2,1]
+	Get Sir Rovin’s key, he's on the 2nd floor if you go up the northwestern staircase. [3,1,2,2,3,1]
+    Get water and pour down drain
+    Reobtain water at fountain
+    Talk to Father Lawrence
+    Go down into sewers and get key
+    Clan wars tp
+	
 Clan Wars
-    1) Get mage gear, runes, wizard mind bombs, log, tinderbox from bank
-	Start PAR
+    Clan wars bank
+	WITHDRAW: Get mage gear, runes, wizard mind bombs, log, tinderbox from bank
+	Start PAR, then =*=*=*=talk to osman [1,2]=*=*=*=
 	Home teleport
 	Relclaim runes
 	Light fire at chicken coop
 	Run to chickens, get 25 bones, sip a mind bomb every time you level up
 	Run to lumbridge bank
-	Grab a ton of things (coins, egg, milk, flour, 3 wool, onions, red berries, woad leaves, soft clay, bucket of water, ashes)
+	WITHDRAW: coins, egg, milk, flour, 3 wool, onions, red berries, woad leaves, soft clay, bucket of water, ashes, 2-3 wine
 	Spin wool
 	Finish cook's assistant
-	Get key mould at prison
+	Talk to Lady Keli in order to make imprint of jail key [1,2,3,1,1]
 	Make all dyes and skin paste, make orange dye
-	Get wig, dye yellow
-	Bank everything at draynor, get 25 bones and RM notes
-	Turn in bones and notes
+		3) [1,1] for skin paste dialogue
+	Have Ned make you a wig [1,2,1], dye yellow
+	Bank at draynor, deposit everything
+	WITHDRAW: 25 bones and RM notes
+	Turn in bones and then notes
 	Die to wizard
-Lumbridge bank 
-	Copper, tin, mould, 20 gp, pink skirt, wig, skin paste, rope, 3 beers
+	
+Lumbridge 
+	Run to bank 
+	WITHDRAW: Copper, tin, mould, 20 gp, pink skirt, wig, skin paste, rope, 3 beers
 	Run to Al k, smelt bronze bar, give to Osman
-	Run to prison, give beers, tie up kelly, rescue Prince Ali
+	Run to prison,talk to leela, give guard beers, tie up kelly, rescue Prince Ali
 	Deathwarp
 	Run to finish PAR
-	Bank at Al k for mage gear, stake, hammer, garlic, cadava berry, 3 DS keys, iron chain, spade, coins, chronicle, wines (leave 3 inv spaces)
+	Bank at Al k 
+	WITHDRAW: mage gear, stake, hammer, garlic, iron chain, coins, chronicle, wines, cabbage, dyes (leave 3 inv spaces)
 	Shantay Pass warp
-	Run to Draynor manor, stop at betty's if you need more runes
+	Run to Draynor manor, stop at betty's if you need more runes (50ish earth strike casts)
 	Start ETC
+	
+	ETC lever puzzle notes
+		Pull Levers A and B down.
+		Enter Door 1.
+		Pull Lever D down; leave C up.
+		Enter Door 1.
+		Pull Levers A and B up.
+		Enter Doors 3, 4 and 5.
+		Pull Levers E and F down.
+		Enter Doors 6 and 7.
+		Pull Lever C down.
+		Enter Doors 7 and 6.
+		Pull Lever E up.
+		Enter Doors 6, 8 and 3.
+
 	Complete VS whenever you run past the staircase
 	Finish ETC
+	Exit draynor manner, grabbing spade and bronze helm
 	Run to Falador park, finish PT
 	Start BKF
 	Do Goblin Diplomacy
+	Goblin mail locations:
+		Up ladder, in mid-left hut, behind generals’ (right side) for the goblin bodies
 	Run through wilderness to BKF
 	Hidden route, then door, drop cabbage down hole
-	Run back to finish BKF
+	Run back to falador
+	bank at west bank deposit all, then get final inventory
+	WITHDRAW: 3 DS keys, cadava berry, chronical, and final fight stuff(Armor, shield, cape, gloves, ale, wine)
+	finish BKF
+	clan wars tele for run
 	Chronicle teleport
 	Apothecary, Juliet, Romeo
-	Get Silverlight, Chronicle teleport when you get the message that you have it
+	Get Silverlight, Chronicle teleport (if you have the pages) when you get the message that you have it
 	Fight Delrith
-	Chronicle and finish
+	Chronicle and finish (if you have the pages)
