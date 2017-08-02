@@ -1,16 +1,19 @@
-Routed by Muffyn
-Notes revised by TheDarkestUno and aeiou
- 
 Setup
-Make a new account using the new account button in the client
-Its email should be a throwaway email you have because verification is required
-With gmail you can do email+1@gmail.com to use the same name each time
+Create an email account for runs, as email verification is required
+The best thing you can do is setup a short and memorable gmail account "usernamerun@gmail.com"
+Then, when setting up the runescape account, you can use the email "usernamerun+1@gmail.com", and increment it by one each run
+Your runescape login email will be "usernamerun+1@gmail.com" and the authentication email will go to "usernamerun@gmail.com"
+Make a new oldschool runescape account
 Go to the main oldschool page and click enable authenticator
 Open google authenticator on your phone and scan the code
 Enter the code on the web page to enable authenticator
 Log in on the client and enter the authenticator code
+
+Note: The first time you change world with this account you will be brought back to the authenicater verification
+    Hit cancel, and then enter your username and password again
  
-Timer starts when you press accept on the character creation screen
+Start
+    Timer starts when you press accept on the character creation screen
  
 Tut island
     Runescape guide [3]
@@ -22,7 +25,7 @@ Lumbridge I (but not visiting wizard's tower)
     BUY: hammer, shears, bucket
     Shear 3 sheep
     Claim Ironman armor from Adam/Paul
-    !Spin wool
+    Spin wool
     Start RM [1,1]
     Grab log from upstairs lumby castle bank
     BANK: put everything away
@@ -48,11 +51,11 @@ Run to Falador
     Grab egg from farm (southwest pen)
     Run to Port Sarim
     Talk to Redbeard to start PT [1,1]
+	Buy from betty: Eye of Newt, Wizard hat, 30 air runes, 40 mind runes, 55 water runes, 65 earth runes
     Travel to Karamja for 3 beers, rum
     White apron
     Buy from Wydin 2 pot of flour, raw meat
     Grab rum
-    Buy from betty: Eye of Newt, Wizard hat, 30 air runes, 40 mind runes, 55 water runes, 75 earth runes
  
 Head to Rimmington
     Get 5 onions and 1 cabbage
@@ -114,11 +117,11 @@ Clan Wars
     Reclaim runes
     Light fire at chicken coop
     Run to chickens, get 25 bones, sip a mind bomb every time you level up, USE MAGE PRAYER
-    !Run to Draynor bank
+    Run to Draynor bank
     WITHDRAW: coins, onions, red berries, woad leaves, bucket of water, flour, ashes, 3 beers, 3 wool, skirt
     Make all dyes and skin paste, make orange dye, [1,1] for skin paste dialogue
     Have Ned make you a wig [1,2,1], dye yellow
-    !Buy a rope from Ned
+    Buy a rope from Ned
     Get key from Leela
     Give guard beers, tie up Keli, rescue Prince Ali
     Bank at draynor, deposit everything
@@ -144,8 +147,8 @@ Lumbridge
     WITHDRAW Fally East chronicle and spade ONLY
     Finish PT
     Start BKF
-    !Die to a white knight (They can hit up to 5)
-    Chronicle teleport, bank at V West for cadava berries, cabbage, dyes, iron chain, bronze med and 5ish wines
+    Die to a white knight (They can hit up to 5)
+    Chronicle teleport, bank at V West for cadava berries, chronicle, cabbage, dyes, iron chain, bronze med and 5ish wines
     Run to BKF
     Hidden route, then door, drop cabbage down hole
     Run through wilderness to GD
@@ -160,4 +163,5 @@ Lumbridge
     Finish RJ
     Get Silverlight, Chronicle teleport when you get the message that you have it
     Fight Delrith (use prayer and ale, turn off when incantations)
-    Timer stops when dialog appears upon entering Champion's Guild
+    
+Timer stops when dialog appears upon entering Champion's Guild
