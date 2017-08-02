@@ -129,8 +129,9 @@ Varrock
         [Split]
    
 Clan Wars
+    Restore run energy in portal.
     Clan wars bank.
-    [BANK]: Mage gear, mind/air/water runes, wizard mind bombs, log, tinderbox, mould, copper, tin, milk, egg, flour
+        [BANK]: Mage gear, mind/air/water runes, wizard mind bombs, log, tinderbox, mould, copper, tin, milk, egg, flour
     Start PAR.
     Smelt bronze bar.
     Talk to Osman to learn what to do [1,2].
