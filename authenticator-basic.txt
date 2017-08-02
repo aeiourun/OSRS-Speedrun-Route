@@ -1,7 +1,7 @@
 Terms
-    "BANK:" This is telling you the items you want to have in your inventory/equipped after you're done banking.
+    "[BANK]" Deposit all inventory and worn items, withdraw the listed items.
     "[Split]" Commonly used split locations.
-    "Deathwarp" Kill yourself via the method provided.
+    "[Deathwarp]" Kill yourself via the method provided.
     "[numbers in brackets] i.e. [1,2,1,4]" Dialogue options you'll want to select when speaking to an NPC.
 
 Setup
@@ -15,7 +15,8 @@ Setup
     Enter the code on the web page to enable authenticator.
     Log in on the client and enter the authenticator code.
 
-Note: The first time you change world with this account you will be brought back to the authenicater verification.
+Note
+    The first time you change world with this account you will be brought back to the authenicater verification.
     Hit cancel, and then enter your username and password again.
  
 Start
@@ -24,7 +25,7 @@ Start
 Tutorial island
     Runescape guide [1]
     Drop your items to not run out of run
-    Don’t forget to become Ironman [2nd dialogue option]
+    Don’t forget to become Ironman [2]
 
 Lumbridge I
     Save run energy until after depositing at bank.
@@ -37,8 +38,9 @@ Lumbridge I
     Walk up south lumby castle stairs.
     Spin wool.
     Start RM [1,1].
-    Grab log from upstairs lumby castle bank.
-        BANK: put everything away
+    Grab log from upstairs lumby castle.
+    Deposit all items at upstairs bank.
+        [BANK]: Nothing
     Start RG [3,1].
     Get ghostspeak amulet [2,1].
     Grab leather gloves.
@@ -57,7 +59,7 @@ Head to Falador
     Buy 1 Asgarnian Ale and 6 Mind Bombs.
     Buy woad leaves [1,4].
     Bank at falador east.
-        BANK: money, pickaxe, air/mind runes, 2 buckets
+        [BANK]: money, pickaxe, air/mind runes, 2 buckets
     Run down towards Falador Farm.
     Milk a cow.
     Grab egg from farm (southwest pen).
@@ -88,13 +90,13 @@ Head to Draynor Village
     Give rum to redbeard.
     Start VS [2] and grab garlic.
     Talk to Lady Keli in order to make imprint of jail key [1,2,3,1,1].
-        BANK: All money
+        [BANK]: All money
     Buy ~20 wines and chronicle + 5 teleports
-        BANK: Air talisman, chronicle
+        [BANK]: Air talisman, chronicle
     Run to Wizard's tower.
     Talk to Wizard for RM.
     Grab skull.
-    Deathwarp with package, skull, chronicle. 
+    [Deathwarp] with package, skull, chronicle. 
        
 Lumbridge
     Complete RG.
@@ -105,7 +107,7 @@ Varrock
     Chronicle teleport.
     Start RJ at JULIET [1,1].
     Run to V West bank.
-        BANK: all money, package, bucket, key, beer, love letter
+        [BANK]: all money, package, bucket, key, beer, love letter
     Buy staff from Zaff.
     Talk to Gypsy and start DS [1,3,3, cutscene, 4] (screenshot incantation).
     Talk to Romeo.
@@ -123,7 +125,7 @@ Varrock
    
 Clan Wars
     Clan wars bank.
-    BANK: Mage gear, mind/air/water runes, wizard mind bombs, log, tinderbox, mould, copper, tin, milk, egg, flour
+    [BANK]: Mage gear, mind/air/water runes, wizard mind bombs, log, tinderbox, mould, copper, tin, milk, egg, flour
     Start PAR.
     Smelt bronze bar.
     Talk to Osman to learn what to do [1,2].
@@ -134,14 +136,14 @@ Clan Wars
     Light fire at chicken coop.
     Run to chickens, get 25 bones, sip a mind bomb every time you level up, use magic prayer.
     Run to Draynor bank.
-        BANK: Coins, onions, red berries, woad leaves, bucket of water, flour, ashes, 3 beers, 3 wool, skirt
+        [BANK]: Coins, onions, red berries, woad leaves, bucket of water, flour, ashes, 3 beers, 3 wool, skirt
     Make all dyes and skin paste, make orange dye, [1,1] for skin paste dialogue.
     Have Ned make you a wig [1,2,1], dye yellow.
     Buy a rope from Ned.
     Get key from Leela.
     Give guard beers, tie up Keli, rescue Prince Ali.
     Bank at draynor.
-        BANK: 25 bones and RM notes
+        [BANK]: 25 bones and RM notes
     Turn in bones upstairs [3,3,2, then re-talk].
     Turn in notes downstairs.
     Die to wizard.
@@ -149,7 +151,7 @@ Clan Wars
 Lumbridge
     Run to finish PAR.
     Bank at Al Kharid bank.
-        BANK: Mage gear, all runes, mind bomb, stake, hammer, garlic, chronicle, 10 wines. (Coins if more runes are needed)
+        [BANK]: Mage gear, all runes, mind bomb, stake, hammer, garlic, chronicle, 10 wines. (Coins if more runes are needed)
     Shantay Pass warp [1, 1, 2, 2].
     Stop by betty to buy more runes if needed.
     Run to Draynor Manor.
@@ -162,13 +164,13 @@ Lumbridge
     Run to Falador.
     Buy iron chainbody with ETC money.
     Bank at fally east.
-        BANK: Space, chronicle.
+        [BANK]: Space, chronicle.
     Finish PT.
     Start BKF.
     Die to a white knight (Max hit 5).
     Chronicle teleport.
     Bank at V West.
-        BANK: Cadava berries, chronicle, cabbage, dyes, iron chain, bronze med and 4 wines
+        [BANK]: Cadava berries, chronicle, cabbage, dyes, iron chain, bronze med and 4 wines
     Run to BKF.
     Hidden route, then door, drop cabbage down hole.
     Run through wilderness to GD.
@@ -181,7 +183,7 @@ Lumbridge
     Make potion at Apothecary.
     Run to Juliet.
     Bank at V West
-        BANK: 3 DS keys, chronicle, final fight stuff (Armor, shield, cape, gloves, ale, wine, bread)
+        [BANK]: 3 DS keys, chronicle, final fight stuff (Armor, shield, cape, gloves, ale, wine, bread)
     Finish RJ
     Get Silverlight, Chronicle teleport when you get the message that you have it
     Fight Delrith (use prayer and ale, turn off pray when killed)
