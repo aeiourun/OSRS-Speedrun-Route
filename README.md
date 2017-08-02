@@ -1,6 +1,10 @@
 # OSRS-Speedrun-Route
 
-## Routes:
+## Overview:
+
+This git repository stores up to date and archived route notes for the "Champion's Guild" category of Oldschool RuneScape speedrunning.
+
+#### Files
 
 **authenticator-basic.txt:** Bare bones route notes. Technically contains all information needed for a run, but not for the uninitiated.
 
@@ -28,7 +32,7 @@ TheDarkestUno, Muffyn, and aeiou
 
 aeiou
 
-**Questions? Suggestions? Mistakes?**
+#### Questions? Suggestions? Mistakes?
 
 Drop by the discord or shoot me an email.
 
