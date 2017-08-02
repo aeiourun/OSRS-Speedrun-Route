@@ -11,16 +11,16 @@
 http://www.speedrun.com/2007scape
 
 
-#### Routed and revised by:
+### Routed and revised by:
 
 TheDarkestUno, Muffyn, aeiou
-
+(Big shoutout to Muffyn for the good work)
 
 ### Notes currently managed by:
 
 aeiou
 
 
-### Questions? Suggestions?
+### Questions? Suggestions? Mistakes?
 
 aeiourun14@gmail.com
