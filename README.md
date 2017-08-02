@@ -6,7 +6,7 @@
 **authenticator-verbose.txt:** More verbose route. Recommended for non-experienced runners.
 
 
-### speedrun.com page:
+### Speedrun.com page:
 
 http://www.speedrun.com/2007scape
 
