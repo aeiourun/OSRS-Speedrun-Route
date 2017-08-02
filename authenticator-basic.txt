@@ -38,8 +38,8 @@ First level of Stronghold of Security
  
 Head to Falador
     Buy 1 Asgarnian Ale and 6 Mind Bombs.
-    Buy woad leaves [1,4].
-    Bank at falador east.
+    Buy wood leaves [1,4].
+    Bank at Falador east.
         [BANK]: All coins, pickaxe, air/mind runes, 2 buckets
     Run down towards Falador Farm.
     Milk a cow.
@@ -51,7 +51,7 @@ Head to Falador
     Travel to Karamja.
     Buy from Zambo: 3 beers, rum
     Pick 10 bananas.
-    Get a job with Luthas, fill banana crate, deposit rum in crate, claim payment from luthas.
+    Get a job with Luthas, fill banana crate, deposit rum in crate, claim payment from Luthas.
     Travel back to the mainland.
         [Split]
     Grab white apron.
@@ -110,7 +110,7 @@ Varrock
 Clan Wars
     Restore run energy in portal.
     Clan wars bank.
-        [BANK]: Mage gear, mind/air/water runes, wizard mind bombs, log, tinderbox, mould, copper, tin, milk, egg, flour
+        [BANK]: Mage gear, mind/air/water runes, wizard mind bombs, log, tinderbox, mold, copper, tin, milk, egg, flour
     Start PAR.
     Smelt bronze bar.
     Talk to Osman to learn what to do [1,2].
@@ -150,7 +150,7 @@ Lumbridge
     Exit Draynor Manor, grabbing bronze helm.
     Run to Falador.
     Buy iron chainbody with ETC coins.
-    Bank at fally east.
+    Bank at Fally east.
         [BANK]: Space, chronicle.
     Finish PT.
     Start BKF.
@@ -179,3 +179,4 @@ Lumbridge
 Finish
     Timer stops when dialog appears upon entering Champion's Guild
         [Split]
+
