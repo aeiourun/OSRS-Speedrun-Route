@@ -1,24 +1,3 @@
-Terms
-    "[BANK]" Deposit all inventory and worn items, withdraw the listed items.
-    "[Split]" Commonly used split locations.
-    "[Deathwarp]" Kill yourself via the method provided.
-    "[numbers in brackets] i.e. [1,2,1,4]" Dialogue options you'll want to select when speaking to an NPC.
-
-Setup
-    Create an email account for runs, as email verification is required.
-    The best thing you can do is setup a short and memorable gmail account "usernamerun@gmail.com".
-    When setting up the runescape account, you can use the email "usernamerun+1@gmail.com", and increment it by one each run.
-    Your runescape login will be "usernamerun+1@gmail.com" and the authentication email will go to "usernamerun@gmail.com".
-    Make a new oldschool runescape account.
-    Go to the main oldschool page and click enable authenticator.
-    Open google authenticator on your phone and scan the code.
-    Enter the code on the web page to enable authenticator.
-    Log in on the client and enter the authenticator code.
-
-Note
-    The first time you change world with this account you will be brought back to the authenicater verification.
-    Hit cancel, and then enter your username and password again.
- 
 Start
     Timer starts when you press accept on the character creation screen.
  
