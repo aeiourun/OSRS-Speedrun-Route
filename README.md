@@ -26,7 +26,4 @@ TheDarkestUno, Muffyn, and aeiou
 
 aeiou
 
-
-## Questions? Suggestions? Mistakes?
-
-aeiourun14@gmail.com
+**Questions? Suggestions? Mistakes?: **aeiourun14@gmail.com
