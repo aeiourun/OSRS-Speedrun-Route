@@ -17,7 +17,6 @@ Introduction
 Rules
     Timing starts upon clicking "Accept" on the character creation screen on Tutorial Island. 
     Timing ends upon entering the Champions guild, which requires 32 quest points. 
-    
         -Must be an Ironman account.
         -The account must not login to a Members' only world during the run. 
         -Skippy is not allowed. 
@@ -90,6 +89,8 @@ Start
  
 Tutorial Island
     Talk to the runescape guide [1].
+    Click the door to exit the starting building as soon as the guide's first dialogue set has completed.
+    (You do not need to talk to him the 2nd time)
     Chop a tree, light a fire, click the exp window. 
     Talk to the runescape guide.
     Fish two shrimp.
