@@ -69,10 +69,10 @@ Head to Falador
     Talk to Redbeard to start PT [1,1].
     Run to Betty's magic store.
     Buy from Betty: Eye of Newt, Wizard hat, 30 air runes, 40 mind runes, 55 water runes, 65 earth runes
-    Travel to Karamja
+    Travel to Karamja.
     Buy from Zambo: 3 beers, rum
-    Pick 10 bananas
-    Get a job with luthas, fill banana crate, deposit rum in crate, claim payment from luthas.
+    Pick 10 bananas.
+    Get a job with Luthas, fill banana crate, deposit rum in crate, claim payment from luthas.
     Travel back to the mainland.
         [Split]
     Grab white apron.
@@ -80,13 +80,13 @@ Head to Falador
     Grab rum.
  
 Head to Rimmington
+    Mine copper, tin, and clay (BlessRNG God Ash).
     Pick 5 onions and 1 cabbage.
     Burn meat.
     Fill bucket with water.
     Start WP.
     Kill rat.
     End WP.
-    Mine copper, tin, and clay (BlessRNG God Ash).
  
 Head to Draynor Village
     Use water on clay.
