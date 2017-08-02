@@ -1,4 +1,5 @@
-Based on notes by TheDarkestUno, Muffyn, and aeiou.
+Routed by Muffyn
+Notes revised by TheDarkestUno and aeiou
  
 Setup
 Make a new account using the new account button in the client
@@ -6,6 +7,7 @@ Its email should be a throwaway email you have because verification is required
 With gmail you can do email+1@gmail.com to use the same name each time
 Go to the main oldschool page and click enable authenticator
 Open google authenticator on your phone and scan the code
+Enter the code on the web page to enable authenticator
 Log in on the client and enter the authenticator code
  
 Timer starts when you press accept on the character creation screen
@@ -14,24 +16,23 @@ Tut island
     Runescape guide [3]
     Drop your items to not run out of run
     Don’t forget to become Ironman [2nd dialogue option]
- 
- 
+
 Lumbridge I (but not visiting wizard's tower)
-    SELL: dagger, sword, shield, pot, body runes, axe, bow, bread, and fishing net
-    BUY: hammer, shears, bucket from general store
+    SELL: axe (don't bother selling the rest, we have enough money)
+    BUY: hammer, shears, bucket
     Shear 3 sheep
     Claim Ironman armor from Adam/Paul
     !Spin wool
     Start RM [1,1]
     Grab log from upstairs lumby castle bank
-    BANK: put everything away, WITHDRAW air tally
+    BANK: put everything away
     Start RG [3,1]
     Get ghostspeak [2,1]
     Grab leather gloves
     Clan wars teleport, walk in portal to restore run
     Home teleport
     Talk to ghost about skull [1]
-    Count Check teleport [4-1]
+    Count Check teleport [4,1]
    
 First level of Stronghold of Security
     Go along far north path to first treasure chest
@@ -47,34 +48,34 @@ Run to Falador
     Grab egg from farm (southwest pen)
     Run to Port Sarim
     Talk to Redbeard to start PT [1,1]
-    Travel to Karamja for 3 beers, rum, rope
+	Buy from betty: Eye of Newt, Wizard hat, 30 air runes, 40 mind runes, 55 water runes, 65 earth runes
+    Travel to Karamja for 3 beers, rum
     White apron
-    Wydin = 2 pot of flour, raw meat
+    Buy from Wydin 2 pot of flour, raw meat
     Grab rum
-    Buy from betty: Eye of Newt, Wizard hat, 40 air runes, 40 mind runes, 60 water runes, 80 earth runes
  
 Head to Rimmington
     Get 5 onions and 1 cabbage
     Burn meat
-	Fill bucket with water
+    Fill bucket with water
     Start WP
     Kill rat
     End WP
     Mine copper, tin, and clay (BlessRNG God Ash)
  
 Head to Draynor Village
-	Use water on clay
+    Use water on clay
     Give rum to redbeard
     Start VS [2] and grab garlic
     Talk to Lady Keli in order to make imprint of jail key [1,2,3,1,1]
     Bank
     WITHDRAW: all money
-    Buy ~20 wines and chronicle + 4 teleports
+    Buy ~20 wines and chronicle + 5 teleports
     Bank, put everything away, grab out air talisman, chronicle.
     Run to Wizard's tower
     Talk to Wizard for RM
     Grab skull
-    Deathwarp with package, skull, chronicle.
+    Deathwarp with package, skull, chronicle. 
        
 Lumbridge
     Complete RG
@@ -82,6 +83,7 @@ Lumbridge
    
 Varrock
     Grab 1 cadava and 4 redberries
+    Chronicle teleport
     Start RJ at JULIET
     WITHDRAW Varrock West: all money, package, bucket, key, beer, love letter
     Buy staff from Zaff
@@ -103,58 +105,59 @@ Varrock
 Clan Wars
     Clan wars bank
     WITHDRAW: mage gear, runes, wizard mind bombs, log, tinderbox, mould, copper, tin, milk, egg, flour
-	Start PAR
+    Start PAR
     Smelt bronze bar
-	Talk to Osman to learn what to do[1,2]
-	Talk to osman to give bar
+    Talk to Osman to learn what to do [1,2]
+    Talk to Osman to give bar
     Home teleport
     Finish Cook's Assistant
     Reclaim runes
     Light fire at chicken coop
     Run to chickens, get 25 bones, sip a mind bomb every time you level up, USE MAGE PRAYER
     !Run to Draynor bank
-    WITHDRAW: coins, onions, red berries, woad leaves, bucket of water, flour, ashes, 3 beers, rope, 3 wool, skirt
+    WITHDRAW: coins, onions, red berries, woad leaves, bucket of water, flour, ashes, 3 beers, 3 wool, skirt
     Make all dyes and skin paste, make orange dye, [1,1] for skin paste dialogue
     Have Ned make you a wig [1,2,1], dye yellow
-    Get key from Leela, THEN TALK TO HER AGAIN
+    !Buy a rope from Ned
+    Get key from Leela
     Give guard beers, tie up Keli, rescue Prince Ali
     Bank at draynor, deposit everything
     WITHDRAW: 25 bones and RM notes
-    Turn in bones upstaris [3,3,2, then re-talk]
-	Turn in notes downstairs
+    Turn in bones upstairs [3,3,2, then re-talk]
+    Turn in notes downstairs
     Die to wizard
    
 Lumbridge
     Run to finish PAR
-    WITHDRAW Al Kharid: mage gear, all runes, mind bomb, stake, hammer, garlic, coins, chronicle, wines (save 3 spaces) (withdraw money if more runes are needed)
+    WITHDRAW Al Kharid: mage gear, all runes, mind bomb, stake, hammer, garlic, chronicle, 10 wines
     Shantay Pass warp [1, 1, 2, 2]
-	Stop by betty to buy more runes if needed
+    Stop by betty to buy more runes if needed
     Run to Draynor Manor
     Start ETC (fish food, poison, oil can, VS, spade, compost heap, fountain, rubber tube)
     ETC lever puzzle [BA, D, BA, EF, C, E]
     Complete VS when you run past the staircase
-    Drop all mage equipment and wines
+    Drop all mage equipment
     Finish ETC
     Exit Draynor Manor, grabbing bronze helm
     Run to Falador
     Buy iron chainbody with ETC money
-	Bank: Deposit fally east, deposit all ONLY and withdraw chronicle and spade
+    WITHDRAW Fally East chronicle and spade ONLY
     Finish PT
     Start BKF
-    !Die to a white knight
-    Chronicle teleport, bank at V West for cadava berries, cabbage, dyes, iron chain, bronze med and 5ish wines
+    !Die to a white knight (They can hit up to 5)
+    Chronicle teleport, bank at V West for cadava berries, chronicle, cabbage, dyes, iron chain, bronze med and 5ish wines
     Run to BKF
     Hidden route, then door, drop cabbage down hole
     Run through wilderness to GD
-    Do Goblin Diplo macy
+    Do Goblin Diplomacy
     Goblin mail locations: Up ladder, in mid-left hut, behind generals’ (right side) for the goblin bodies
     Run back to Falador
     Finish BKF
-    Clan wars tele for run
+    Die to a white knight
     Chronicle teleport
     Apothecary, Juliet
-    WITHDRAW Varrock West: 3 DS keys, cadava berry, chronicle and final fight stuff(Armor, shield, cape, gloves, ale, wine)
+    WITHDRAW Varrock West: 3 DS keys, chronicle and final fight stuff (Armor, shield, cape, gloves, ale, wine, bread)
     Finish RJ
-    Get Silverlight, Chronicle teleport (if you have the teleports) when you get the message that you have it
+    Get Silverlight, Chronicle teleport when you get the message that you have it
     Fight Delrith (use prayer and ale, turn off when incantations)
     Timer stops when dialog appears upon entering Champion's Guild
