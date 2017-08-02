@@ -6,6 +6,8 @@
 
 **authenticator-verbose.txt:** More verbose route notes. Recommended for non-experienced runners.
 
+ **old-route.txt:** Deprecated route notes. Outdated, but neat.
+
 
 ### Speedrun.com page:
 
