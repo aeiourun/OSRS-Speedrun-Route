@@ -31,6 +31,7 @@ Quests
     CA: Cook's Assistant
     ETC: Ernest The Chicken
     BKF: Black Knight's Fortress
+    GD: Goblin Diplomacy
 
 Setup
     Create an email account for runs, as email verification is required.
@@ -267,7 +268,6 @@ Lumbridge
         Fish food on the 2nd floor
         Poison in the kitchen
         Oil can in the basement [BA, D, BA, EF, C, E]
-        
     Complete VS by killing Count Draynor.
     Drop all mage equipment as you walk. (Wizard hat, staff, runes)
     Exit manor in east room, collecting the spade before you do so.
@@ -278,34 +278,48 @@ Lumbridge
     Go to manor top floor.
     Start and finish ETC.
         [Split]
-    Exit Draynor Manor, grabbing bronze helm.
-    Run to Falador.
-    Buy iron chainbody with ETC coins.
+    Exit Draynor Manor, grabbing bronze helm on the way out.
+    Run to Falador hugging the south falador wall.
+    Buy iron chainbody from Wayne's Chains with ETC coins.
     Bank at fally east.
         [BANK]: Space, chronicle.
-    Finish PT.
-    Start BKF.
+    Finish PT by digging in the park, running away from gardener, digging again.
+    Drop spade and chest.
+    Run to Fally castle.
+    Start BKF. [1,1]
     Die to a white knight (Max hit 5).
     Chronicle teleport.
     Bank at V West.
         [BANK]: Cadava berries, chronicle, cabbage, dyes, iron chain, bronze med and 4 wines
     Run to BKF.
-    Hidden route, then door, drop cabbage down hole.
-    Run through wilderness to GD.
-    Do GD.
-    Goblin mail locations: Up ladder, in mid-left hut, behind generals’ (right side) for the goblin bodies.
-    Run back to Falador.
+    Equip bronze helm and iron chainbody.
+    Enter castle and follow hidden route to spy at grate.
+    Go back to the main enterance and follow east path to drop cabbage in hole.
+    Run directly west from the fortress through wilderness to the goblin village.
+    Pick up 3 goblin mail locations: Up ladder, in mid-left hut, behind generals’ (right side) for the goblin bodies.
+    Dye 1 mail blue and 1 mail orange.
+    Do GD by talking to generals and giving armor.
+    Run south to Falador castle.
     Finish BKF.
         [Split]
-    Die to a white knight.
+    Go upstairs and die to a white knight.
     Chronicle teleport.
-    Make potion at Apothecary.
-    Run to Juliet.
+    Make RJ potion at Varrock Apothecary.
+    Run to Juliet and give her the potion.
     Bank at V West
         [BANK]: 3 DS keys, chronicle, final fight stuff (Armor, shield, cape, gloves, ale, wine, bread)
-    Finish RJ
-    Get Silverlight, Chronicle teleport when you get the message that you have it
-    Fight Delrith (use prayer and ale, turn off pray when killed)
+    Finish RJ by talking to romeo and watching cutscene.
+    Run to Varrock castle.
+    Get Silverlight from Sir Prysin. (Chronicle teleport when you get the message that you have it)
+    Fight Delrith
+        This fight is actually very tricky and difficult
+        The fight is an instance that can be freely entered and reset by walking in and out of the circle
+        Get to the southeast of the circle and reset the instance as needed to get delrith alone
+        You DO NOT want a wizard aggro'd on you
+        Pull delrith as far southeast or southwest as you can without exiting the instance to get him alone
+    Enter the incantation, and be sure to turn of prayer before you do so.
+        If prayer is left on it can bug the ending when your prayer runs out.
+    Run to and enter the Champion's Guild.
     
 Finish
     Timer stops when dialog appears upon entering Champion's Guild
