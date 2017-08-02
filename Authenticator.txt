@@ -69,7 +69,7 @@ Head to Draynor Village
     Start VS [2] and grab garlic
     Bank
 	WITHDRAW: all money
-    Buy ~20 wines and chronicle + 3 pages
+    Buy ~20 wines and chronicle + 4 teleports
     Bank, put everything away, grab out air talisman, chronicle.
 	Run to Wizard's tower
     Talk to Wizard for RM
@@ -96,7 +96,6 @@ Varrock
         PT Chest upstairs
     Talk to Aubury [3]
         Get Package
-    Buy iron chainbody
 	Fill bucket at fountain, wet the clay, fill bucket
 	Talk to Sir Prysin about the Silverlight [3,1,2,1]
 	Get Sir Rovin’s key, he's on the 2nd floor if you go up the northwestern staircase. [3,1,2,2,3,1]
@@ -108,12 +107,12 @@ Varrock
 	
 Clan Wars
     Clan wars bank
-	WITHDRAW: Get mage gear, runes, wizard mind bombs, log, tinderbox from bank
+	WITHDRAW: Get mage gear, runes, wizard mind bombs MINUS ONE, log, tinderbox from bank
 	Start PAR, then =*=*=*=talk to osman [1,2]=*=*=*=
 	Home teleport
 	Relclaim runes
 	Light fire at chicken coop
-	Run to chickens, get 25 bones, sip a mind bomb every time you level up
+	Run to chickens, get 25 bones, sip a mind bomb every time you level up, USE MAGE PRAYER
 	Run to lumbridge bank
 	WITHDRAW: coins, egg, milk, flour, 3 wool, onions, red berries, woad leaves, soft clay, bucket of water, ashes, 2-3 wine
 	Spin wool
@@ -131,11 +130,13 @@ Lumbridge
 	Run to bank 
 	WITHDRAW: Copper, tin, mould, 20 gp, pink skirt, wig, skin paste, rope, 3 beers
 	Run to Al k, smelt bronze bar, give to Osman
-	Run to prison,talk to leela, give guard beers, tie up kelly, rescue Prince Ali
+	Run to draynor,
+	talk to spy to get key
+	give guard beers, tie up kelly, rescue Prince Ali
 	Deathwarp
 	Run to finish PAR
 	Bank at Al k 
-	WITHDRAW: mage gear, stake, hammer, garlic, iron chain, coins, chronicle, wines, cabbage, dyes (leave 3 inv spaces)
+	WITHDRAW: mage gear, all runes, mind bomb, stake, hammer, garlic, coins, chronicle, wines
 	Shantay Pass warp
 	Run to Draynor manor, stop at betty's if you need more runes (50ish earth strike casts)
 	Start ETC
@@ -157,7 +158,11 @@ Lumbridge
 	Complete VS whenever you run past the staircase
 	Finish ETC
 	Exit draynor manner, grabbing spade and bronze helm
-	Run to Falador park, finish PT
+	Run to Falador
+    Buy iron chainbody with ETC money
+	bank fally east, deposit everything
+	WITHDRAW: cabbage, dyes 
+	park, finish PT
 	Start BKF
 	Do Goblin Diplomacy
 	Goblin mail locations:
@@ -171,6 +176,6 @@ Lumbridge
 	clan wars tele for run
 	Chronicle teleport
 	Apothecary, Juliet, Romeo
-	Get Silverlight, Chronicle teleport (if you have the pages) when you get the message that you have it
+	Get Silverlight, Chronicle teleport (if you have the teleports) when you get the message that you have it
 	Fight Delrith
-	Chronicle and finish (if you have the pages)
+	Chronicle and finish (if you have the teleports)
