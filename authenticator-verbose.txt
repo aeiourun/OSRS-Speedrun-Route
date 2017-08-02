@@ -1,326 +1,327 @@
 Introduction
-    Welcome to the wonderful world of speedrunning Oldschool RuneScape.
-    This is currently the fastest known route for the "Champions Guild" category.
-    The goal and endpoint for the run is entering the Champions guild, which requires 32 quest points.
-    
-    Timing starts upon clicking "Accept" on the character creation screen on Tutorial Island. 
-    Timing ends upon entering the Champions' guild. 
+    Welcome to the wonderful world of Oldschool RuneScape speedrunning.
+    OSRS offers a surprisingly unique, challenging, and rewarding speedrun.
+    This is currently the fastest known route for the "Champions Guild" category.
+    The goal and endpoint for the run is entering the Champions guild, which requires 32 quest points.
+    
+    Timing starts upon clicking "Accept" on the character creation screen on Tutorial Island. 
+    Timing ends upon entering the Champions' guild. 
 
-        -Skippy is not allowed. 
-        -Timing must be RTA. 
-        -The account must not login to a Members' Only World during the run. 
-        -Mouse cursor must be visible.
+        -Skippy is not allowed. 
+        -Timing must be RTA. 
+        -The account must not login to a Members' Only World during the run. 
+        -Mouse cursor must be visible.
 
-    Account type must be Ironman.
+    Account type must be Ironman.
 
 Terms
-    "[BANK]" Deposit all inventory and worn items, withdraw the listed items.
-    "[Split]" Commonly used split locations.
-    "[Deathwarp]" Kill yourself via the method provided.
-    "[numbers in brackets] i.e. [1,2,1,4]" Dialogue options you'll want to select when speaking to an NPC.
-    
+    "[BANK]" Deposit all inventory and worn items, withdraw the listed items.
+    "[Split]" Commonly used split locations.
+    "[Deathwarp]" Kill yourself via the method provided.
+    "[numbers in brackets] i.e. [1,2,1,4]" Dialogue options you'll want to select when speaking to an NPC.
+    
 Quests
-    RM: Rune Mysteries
-    RG: Restless Ghost
-    PT: Pirate's Treasure
-    WP: Witch's Potion
-    VS: Vampire Slayer
-    RJ: Romeo and Juliet
-    DS: Demon Slayer
-    PAR: Prince Ali Rescue
-    CA: Cook's Assistant
-    ETC: Ernest The Chicken
-    BKF: Black Knight's Fortress
-    GD: Goblin Diplomacy
+    RM: Rune Mysteries
+    RG: Restless Ghost
+    PT: Pirate's Treasure
+    WP: Witch's Potion
+    VS: Vampire Slayer
+    RJ: Romeo and Juliet
+    DS: Demon Slayer
+    PAR: Prince Ali Rescue
+    CA: Cook's Assistant
+    ETC: Ernest The Chicken
+    BKF: Black Knight's Fortress
+    GD: Goblin Diplomacy
 
 Setup
-    Create an email account for runs, as email verification is required.
-    The best thing you can do is setup a short and memorable gmail account "usernamerun@gmail.com".
-    When setting up the runescape account, you can use the email "usernamerun+1@gmail.com", and increment it by one each run.
-    Your runescape login will be "usernamerun+1@gmail.com" and the authentication email will go to "usernamerun@gmail.com".
-    Make a new oldschool runescape account.
-    Go to the main oldschool page and click enable authenticator.
-    Open google authenticator on your phone and scan the code.
-    Enter the code on the web page to enable authenticator.
-    Log in on the client and enter the authenticator code.
+    Create an email account for runs, as email verification is required.
+    The best thing you can do is setup a short and memorable gmail account "usernamerun@gmail.com".
+    When setting up the runescape account, you can use the email "usernamerun+1@gmail.com", and increment it by one each run.
+    Your runescape login will be "usernamerun+1@gmail.com" and the authentication email will go to "usernamerun@gmail.com".
+    Make a new oldschool runescape account.
+    Go to the main oldschool page and click enable authenticator.
+    Open google authenticator on your phone and scan the code.
+    Enter the code on the web page to enable authenticator.
+    Log in on the client and enter the authenticator code.
 
 Note
-    The first time you change world with this account you will be brought back to the authenicater verification.
-    Hit cancel, and then enter your username and password again.
- 
+    The first time you change world with this account you will be brought back to the authenticator verification.
+    Hit cancel, and then enter your username and password again.
+ 
 Start
-    Timer starts when you press accept on the character creation screen.
-    Note that if you log in, log out without finishing character creation, and then log back in:
-        You will no longer have the character creation screen, and the run is considered started here.
-    Hold spacebar through all dialog.
- 
+    Timer starts when you press accept on the character creation screen.
+    Note that if you log in, log out without finishing character creation, and then log back in:
+        You will no longer have the character creation screen, and the run is considered started here.
+    Hold spacebar through all dialog.
+ 
 Tutorial Island
-    Talk to the runescape guide [1].
-    Chop a tree, light a fire, click the exp window. 
-    Talk to the runescape guide.
-    Fish two shrimp.
-    Cook the first shrimp, then the second. (The first will always burn).
-    As you have time running around, enable shift click drop.
-    Drop your items as you can to not run out of run.
-    Finish the cooking, quest, and mining guide segments.
-    Complete the combat guide segment, using aggresive melee and rapid ranged.
-    Complete the bank segment.
-    Skip the poll booth segment by:
-        Clicking the poll both, keeping a "Open Door" prompt open
-        Clicking that prompt when the poll booth text starts
-    Finish the prayer guide segment.
-    Don’t forget to become an Ironman [2].
-    Finish the magic guide segment
-    Teleport off of Tutorial Island.
-        [Split]
+    Talk to the runescape guide [1].
+    Chop a tree, light a fire, click the exp window. 
+    Talk to the runescape guide.
+    Fish two shrimp.
+    Cook the first shrimp, then the second. (The first will always burn).
+    As you have time running around, enable shift click drop.
+    Drop your items as you can to not run out of run.
+    Finish the cooking, quest, and mining guide segments.
+    Complete the combat guide segment, using aggressive melee and rapid ranged.
+    Complete the bank segment.
+    Skip the poll booth segment by:
+        Clicking the poll both, keeping a "Open Door" prompt open
+        Clicking that prompt when the poll booth text starts
+    Finish the prayer guide segment.
+    Don’t forget to become an Ironman [2].
+    Finish the magic guide segment
+    Teleport off of Tutorial Island.
+        [Split]
 
 Lumbridge I
-    Keep run energy at about 70% until after depositing all items at bank.
-    Drop and "Reclaim" air and mind runes from the magic tutor.
-        If you drop your runes a few tiles or more away from the magic tutor;
-        Then every 30 minutes you can claim more runes.
-        So here we drop them, claim runes, and then pick the runes back up.
-    Drop(while walking around lumby): Pot, arrows, body runes, fishing net, sword, dagger, shield.
-    Walk to Lumby general store.
-    SELL: Axe, bow
-    BUY: Hammer, shears, bucket
-    Shear 3 sheep in the nearby sheep pen.
-    Walk back to claim Ironman armor from Adam/Paul/Juan.
-    Walk up south lumby castle stairs.
-    Spin wool.
-    Start RM by speaking to the duke [1,1].
-    Grab log from upstairs lumby castle.
-    Deposit all items at upstairs bank.
-        [BANK]: Nothing
-    Start RG by talking to priest at lumby church [3,1].
-    Walk to Father Urhney in west lumby swamp.
-    Get ghostspeak amulet from him [2,1].
-    Grab leather gloves.
-    Clan wars teleport, walk in portal to the west to restore run.
-    Home teleport.
-    Talk to ghost about skull in lumby graveyard [1].
-    Teleport to the Stronghold of Security by talking to Count Check [4,1].
-   
+    Keep run energy at about 70% until after depositing all items at bank.
+    Drop and "Reclaim" air and mind runes from the magic tutor.
+        If you drop your runes a few tiles or more away from the magic tutor;
+        Then every 30 minutes you can claim more runes.
+        So here we drop them, claim runes, and then pick the runes back up.
+    Drop(while walking around lumby): Pot, arrows, body runes, fishing net, sword, dagger, shield.
+    Walk to lumby general store.
+    SELL: Axe, bow
+    BUY: Hammer, shears, bucket
+    Shear 3 sheep in the nearby sheep pen.
+    Walk back to claim Ironman armor from Adam/Paul/Juan.
+    Walk up south lumby castle stairs.
+    Spin wool.
+    Start RM by speaking to the duke [1,1].
+    Grab log from upstairs lumby castle.
+    Deposit all items at upstairs bank.
+        [BANK]: Nothing
+    Start RG by talking to priest at lumby church [3,1].
+    Walk to Father Urhney in west lumby swamp.
+    Get ghostspeak amulet from him [2,1].
+    Grab leather gloves.
+    Clan wars teleport, walk in portal to the west to restore run.
+    Home teleport.
+    Talk to ghost about skull in lumby graveyard [1].
+    Teleport to the Stronghold of Security by talking to Count Check [4,1].
+   
 First level of Stronghold of Security
-    Enter Stronghold of Security.
-    Go along far north path to first treasure chest.
-    Claim first level coins and flap emote.
-    Use the ladder to exit.
-        [Split]
- 
+    Enter Stronghold of Security.
+    Go along far north path to first treasure chest.
+    Claim first level coins and flap emote.
+    Use the ladder to exit.
+        [Split]
+ 
 Head to Falador
-    Run to Fally bar.
-    Buy 1 Asgarnian Ale and 6 Mind Bombs.
-    Buy woad leaves from Wynston in Fally park [1,4].
-    Bank at falador east.
-        [BANK]: All coins, pickaxe, air/mind runes, 2 buckets
-    Run down towards Falador Farm.
-    Milk a cow in the cow pen.
-    Grab egg from chicken pen.
-    Run to Port Sarim.
-    Talk to Redbeard to start PT [1,1].
-    Run to Betty's magic store. (Watch for highwaymen).
-    Buy from Betty: Eye of Newt, Wizard hat, 30 air runes, 40 mind runes, 55 water runes, 65 earth runes
-    Travel to Karamja.
-    Head to Karamja bar.
-    Buy from Zambo: 3 beers, rum
-    Pick 10 bananas at the plantation.
-    Walk east to Luthas.
-    Get a job with Luthas: 
-        Fill banana crate
-        Deposit rum in crate
-        Claim payment from luthas
-    Travel back to the mainland.
-        [Split]
-    Grab white apron from fishing store.
-    Walk south to food store.
-    Buy from Wydin 2 pot of flour, raw meat.
-    Eqiup apron, to enter back room and grab rum from banana crate.
- 
+    Run to Fally bar.
+    Buy 1 Asgarnian Ale and 6 Mind Bombs.
+    Buy woad leaves from Wynston in Fally park [1,4].
+    Bank at falador east.
+        [BANK]: All coins, pickaxe, air/mind runes, 2 buckets
+    Run down towards Falador Farm.
+    Milk a cow in the cow pen.
+    Grab egg from chicken pen.
+    Run to Port Sarim.
+    Talk to Redbeard to start PT [1,1].
+    Run to Betty's magic store. (Watch for highwaymen).
+    Buy from Betty: Eye of Newt, Wizard hat, 30 air runes, 40 mind runes, 55 water runes, 65 earth runes
+    Travel to Karamja.
+    Head to Karamja bar.
+    Buy from Zambo: 3 beers, rum
+    Pick 10 bananas at the plantation.
+    Walk east to Luthas.
+    Get a job with Luthas: 
+        Fill banana crate
+        Deposit rum in crate
+        Claim payment from Luthas
+    Travel back to the mainland.
+        [Split]
+    Grab white apron from fishing store.
+    Walk south to food store.
+    Buy from Wydin 2 pot of flour, raw meat.
+    Equip apron, to enter back room and grab rum from banana crate.
+ 
 Head to Rimmington
-    Head to Rimmington mine.
-    Mine 1 copper, 1 tin, and 1 clay. (Note, this mining can be difficult due to bots. Switch worlds as needed.)
-    Walk northeast to farming patch.
-    Pick 5 onions and 1 cabbage.
-    Walk southeast to the house in Rimmington with both a sink and range.
-    Burn the meat. (If it cooks successfully, use it on the range again)
-    Fill bucket with water.
-    Start WP by talking to witch in house to the south.[1,1]
-    Air strike a rat in the archery shop and pick up the tail.
-    Turn in everything to complete WP.
+    Head to Rimmington mine.
+    Mine 1 copper, 1 tin, and 1 clay. (Note, this mining can be difficult due to bots. Switch worlds as needed.)
+    Walk northeast to farming patch.
+    Pick 5 onions and 1 cabbage.
+    Walk southeast to the house in Rimmington with both a sink and range.
+    Burn the meat. (If it cooks successfully, use it on the range again)
+    Fill bucket with water.
+    Start WP by talking to witch in house to the south.[1,1]
+    Air strike a rat in the archery shop and pick up the tail.
+    Turn in everything to complete WP.
 
- 
+ 
 Head to Draynor Village
-    Use water on clay.
-    Give rum to redbeard and get key from him.
-    Walk to house with Morgan in Draynor.
-    Start VS by talking to Morgan [2]
-    Go upstairs in the same house, search cabinet to grab garlic.
-    Walk to Draynor jail.
-    Be very careful of guards, switch worlds if there is a guard inside the jail, or if Lady Keli is outside.
-    Talk to Lady Keli in order to make imprint of jail key [1,2,3,1,1].
-    Run to Draynor bank.
-        [BANK]: All coins
-    Buy ~20 wines from Fortunato in the main square. (Switch worlds as needed)
-    Buy chronicle and 5 teleports from Django.
-    Use teleport cards on chronicle to store them.
-    Run to Draynor bank.
-        [BANK]: Air talisman, chronicle
-    Run south to Wizard's tower.
-    Use ladder to go to basement.
-    Talk to Wizard for RM.
-    Grab skull from basement.
-    [Deathwarp] on wizard with package, skull, chronicle.
-        [Split]
-       
+    Use water on clay.
+    Give rum to redbeard and get key from him.
+    Walk to house with Morgan in Draynor.
+    Start VS by talking to Morgan [2]
+    Go upstairs in the same house, search cabinet to grab garlic.
+    Walk to Draynor jail.
+    Be very careful of guards, switch worlds if there is a guard inside the jail, or if Lady Keli is outside.
+    Talk to Lady Keli in order to make imprint of jail key [1,2,3,1,1].
+    Run to Draynor bank.
+        [BANK]: All coins
+    Buy ~20 wines from Fortunato in the main square. (Switch worlds as needed)
+    Buy chronicle and 5 teleports from Django.
+    Use teleport cards on chronicle to store them.
+    Run to Draynor bank.
+        [BANK]: Air talisman, chronicle
+    Run south to Wizard's tower.
+    Use ladder to go to basement.
+    Talk to Wizard for RM.
+    Grab skull from basement.
+    [Deathwarp] on wizard with package, skull, chronicle.
+        [Split]
+       
 Lumbridge
-    Complete RG by using skull on coffin.
-    Chronicle teleport.
-   
+    Complete RG by using skull on coffin.
+    Chronicle teleport.
+   
 Varrock
-    Run east of the dark wizard circle and pick 1 cadava and 4 redberries.
-    Chronicle teleport.
-    Run northwest.
-    Start RJ at JULIET [1,1].
-    Run to V West bank.
-        [BANK]: All coins, package, bucket, key, beer, love letter
-    Buy staff from Zaff.
-    Talk to Gypsy and start DS [1,3,3, cutscene, 4] (screenshot incantation).
-    Talk to Romeo.
-    Buy pink skirt and red cape from varrock clothes store.
-    Run to Varrock bar south of general store.
-    Talk to Dr. Harlow about Morgan [2].
-    Give Dr. Harlow a beer to get stake.
-    Buy a beer from the bartender.
-    Get message from PT Chest upstairs in the bar.
-    Talk to Aubury in the rune shop [3], speak again for package.
-    Run to Varrock castle.
-    Head to the southwest corner of the inner castle.
-    Talk to Sir Prysin about the Silverlight [3,1,2,1].
-    Head up the northwest staircase.
-    Get Sir Rovin’s key. [3,1,2,2,3,1].
-    Head back to the first floor kitchen, in the northeast corner of the castle.
-    Fill bucket from sink and pour down drain just outside.
-    Refill bucket water at sink.
-    Talk to Father Lawrence in the northeast church.
-    Go down into sewers to the southwest of church.
-    Head down the north path, and pick up key.
-    Clan wars teleport.
-        [Split]
-   
+    Run east of the dark wizard circle and pick 1 cadava and 4 redberries.
+    Chronicle teleport.
+    Run northwest.
+    Start RJ at JULIET [1,1].
+    Run to V West bank.
+        [BANK]: All coins, package, bucket, key, beer, love letter
+    Buy staff from Zaff.
+    Talk to Gypsy and start DS [1,3,3, cutscene, 4] (screenshot incantation).
+    Talk to Romeo.
+    Buy pink skirt and red cape from varrock clothes store.
+    Run to Varrock bar south of general store.
+    Talk to Dr. Harlow about Morgan [2].
+    Give Dr. Harlow a beer to get stake.
+    Buy a beer from the bartender.
+    Get message from PT Chest upstairs in the bar.
+    Talk to Aubury in the rune shop [3], speak again for package.
+    Run to Varrock castle.
+    Head to the southwest corner of the inner castle.
+    Talk to Sir Prysin about the Silverlight [3,1,2,1].
+    Head up the northwest staircase.
+    Get Sir Rovin’s key. [3,1,2,2,3,1].
+    Head back to the first floor kitchen, in the northeast corner of the castle.
+    Fill bucket from sink and pour down drain just outside.
+    Refill bucket water at sink.
+    Talk to Father Lawrence in the northeast church.
+    Go down into sewers to the southwest of church.
+    Head down the north path, and pick up key.
+    Clan wars teleport.
+        [Split]
+   
 Clan Wars
-    Restore run energy by entering and exiting clan wars portal to the west.
-    Clan wars bank.
-        [BANK]: Wizard hat, staff, all mind/air/water runes, 5 wizard mind bombs, 
-        log, tinderbox, mould, copper, tin, milk, egg, flour
-    Walk to Al Kharid Palace.
-    Start PAR [1].
-    Smelt bronze bar in furnace to the west.
-    Talk to Osman to learn what to do [1,2].
-    Talk to Osman to give bar and mold.
-    Home teleport.
-    Start CA by talking to cook in Lumby Kitchen.
-    Finish CA by talking to cook again.
-    Reclaim runes at magic tutor.
-    Walk to chicken coop east of draynor manor.
-    Light fire as soon as you get there chicken coop.
-    Watch this fire and kill chickens, and pick up the ashes quickly.
-    Kill 25 chickens with magic
-        Pick up 25 bones in the process.
-        Use magic prayer.
-        Use a mind bomb to start, and then once every level up.
-        Use water strike while you have the runes, then air strike, then melee if needed.
-        Drop tinder box, beer glasses, and water runes last. (Keeping 25 bones, ashes, air/mind runes)
-    Run to Draynor bank.
-        [BANK]: Coins, onions, red berries, woad leaves, bucket of water, flour, ashes, 3 beers, 3 wool, skirt
-    Walk north to the house with the witch Aggie.
-    Talk to her to make skin paste [1,1].
-    Use ingredients on her to make: 1 Blue dye, 2 yellow dye, 1 red dye. 
-    Mix red and yellow dye to make orange.
-    Walk southeast to Ned, and have him make you a wig [1,2,1].
-    Dye wig yellow.
-    Buy a rope from Ned.
-    Walk east to Leela, who is northwest of the jail.
-    Talk to Leela to get key.
-    Enter Draynor jail, minding the guards.
-    Give guard that you can talk to beers.
-    Use rope on Keli to tie her up.
-    Enter the jail cell and talk to Prince Ali to rescue him.
-    Bank at draynor.
-        [BANK]: 25 bones and RM notes
-    Walk south to wizards tower.
-    Turn in bones upstairs by talking to trailborn [3,3,2, then re-talk].
-    Turn in notes in basement.
-    Die to wizard.
-   
+    Restore run energy by entering and exiting clan wars portal to the west.
+    Clan wars bank.
+        [BANK]: Wizard hat, staff, all mind/air/water runes, 5 wizard mind bombs, 
+        log, tinderbox, mold, copper, tin, milk, egg, flour
+    Walk to Al Kharid Palace.
+    Start PAR [1].
+    Smelt bronze bar in furnace to the west.
+    Talk to Osman to learn what to do [1,2].
+    Talk to Osman to give bar and mold.
+    Home teleport.
+    Start CA by talking to cook in Lumby Kitchen.
+    Finish CA by talking to cook again.
+    Reclaim runes at magic tutor.
+    Walk to chicken coop east of Draynor manor.
+    Light fire as soon as you get there chicken coop.
+    Watch this fire and kill chickens, and pick up the ashes quickly.
+    Kill 25 chickens with magic
+        Pick up 25 bones in the process.
+        Use magic prayer.
+        Use a mind bomb to start, and then once every level up.
+        Use water strike while you have the runes, then air strike, then melee if needed.
+        Drop tinder box, beer glasses, and water runes last. (Keeping 25 bones, ashes, air/mind runes)
+    Run to Draynor bank.
+        [BANK]: Coins, onions, red berries, wood leaves, bucket of water, flour, ashes, 3 beers, 3 wool, skirt
+    Walk north to the house with the witch Aggie.
+    Talk to her to make skin paste [1,1].
+    Use ingredients on her to make: 1 Blue dye, 2 yellow dye, 1 red dye. 
+    Mix red and yellow dye to make orange.
+    Walk southeast to Ned, and have him make you a wig [1,2,1].
+    Dye wig yellow.
+    Buy a rope from Ned.
+    Walk east to Leela, who is northwest of the jail.
+    Talk to Leela to get key.
+    Enter Draynor jail, minding the guards.
+    Give guard that you can talk to beers.
+    Use rope on Keli to tie her up.
+    Enter the jail cell and talk to Prince Ali to rescue him.
+    Bank at Draynor.
+        [BANK]: 25 bones and RM notes
+    Walk south to wizards tower.
+    Turn in bones upstairs by talking to trailborn [3,3,2, then re-talk].
+    Turn in notes in basement.
+    Die to wizard.
+   
 Lumbridge
-    Run to Al Kharid palace to finish PAR.
-        [Split]
-    Bank at Al Kharid bank.
-        [BANK]: Mage gear, all runes, mind bomb, stake, hammer, garlic, chronicle, 10 wines. (Coins if more runes are needed)
-    Run south to Shantay Pass.
-    Talk to Shantay to Shantay Pass warp [1, 1, 2, 2].
-    Pick the jail cell lock.
-    Stop by Betty to buy more runes if needed.
-    Run to Draynor Manor.
-    Start ETC by talking to veronica outside of manor [1].
-    Enter manor and collect in this order:
-        Fish food on the 2nd floor
-        Poison in the kitchen
-        Oil can in the basement [BA, D, BA, EF, C, E]
-    Complete VS by killing Count Draynor.
-    Drop all mage equipment as you walk. (Wizard hat, staff, runes)
-    Exit manor in east room, collecting the spade before you do so.
-    Use spade on compost heap to west of manor for key.
-    Use poisoned fish food on fountain to southwest of manor, then search fountain.
-    Enter the manor.
-    Collect rubber tube from skeleton room.
-    Go to manor top floor.
-    Start and finish ETC.
-        [Split]
-    Exit Draynor Manor, grabbing bronze helm on the way out.
-    Run to Falador hugging the south falador wall.
-    Buy iron chainbody from Wayne's Chains with ETC coins.
-    Bank at fally east.
-        [BANK]: Space, chronicle.
-    Finish PT by digging in the park, running away from gardener, digging again.
-    Drop spade and chest.
-    Run to Fally castle.
-    Start BKF. [1,1]
-    Die to a white knight (Max hit 5).
-    Chronicle teleport.
-    Bank at V West.
-        [BANK]: Cadava berries, chronicle, cabbage, dyes, iron chain, bronze med and 4 wines
-    Run to BKF.
-    Equip bronze helm and iron chainbody.
-    Enter castle and follow hidden route to spy at grate.
-    Go back to the main enterance and follow east path to drop cabbage in hole.
-    Run directly west from the fortress through wilderness to the goblin village.
-    Pick up 3 goblin mail locations: Up ladder, in mid-left hut, behind generals’ (right side) for the goblin bodies.
-    Dye 1 mail blue and 1 mail orange.
-    Do GD by talking to generals and giving armor.
-    Run south to Falador castle.
-    Finish BKF.
-        [Split]
-    Go upstairs and die to a white knight.
-    Chronicle teleport.
-    Make RJ potion at Varrock Apothecary.
-    Run to Juliet and give her the potion.
-    Bank at V West
-        [BANK]: 3 DS keys, chronicle, final fight stuff (Armor, shield, cape, gloves, ale, wine, bread)
-    Finish RJ by talking to romeo and watching cutscene.
-    Run to Varrock castle.
-    Get Silverlight from Sir Prysin. (Chronicle teleport when you get the message that you have it)
-    Fight Delrith
-        This fight is actually very tricky and difficult
-        The fight is an instance that can be freely entered and reset by walking in and out of the circle
-        Get to the southeast of the circle and reset the instance as needed to get delrith alone
-        You DO NOT want a wizard aggro'd on you
-        Pull delrith as far southeast or southwest as you can without exiting the instance to get him alone
-    Enter the incantation, and be sure to turn of prayer before you do so.
-        If prayer is left on it can bug the ending when your prayer runs out.
-    Run to and enter the Champion's Guild.
-    
+    Run to Al Kharid palace to finish PAR.
+        [Split]
+    Bank at Al Kharid bank.
+        [BANK]: Mage gear, all runes, mind bomb, stake, hammer, garlic, chronicle, 10 wines. (Coins if more runes are needed)
+    Run south to Shantay Pass.
+    Talk to Shantay to Shantay Pass warp [1, 1, 2, 2].
+    Pick the jail cell lock.
+    Stop by Betty to buy more runes if needed.
+    Run to Draynor Manor.
+    Start ETC by talking to veronica outside of manor [1].
+    Enter manor and collect in this order:
+        Fish food on the 2nd floor
+        Poison in the kitchen
+        Oil can in the basement [BA, D, BA, EF, C, E]
+    Complete VS by killing Count Draynor.
+    Drop all mage equipment as you walk. (Wizard hat, staff, runes)
+    Exit manor in east room, collecting the spade before you do so.
+    Use spade on compost heap to west of manor for key.
+    Use poisoned fish food on fountain to southwest of manor, then search fountain.
+    Enter the manor.
+    Collect rubber tube from skeleton room.
+    Go to manor top floor.
+    Start and finish ETC.
+        [Split]
+    Exit Draynor Manor, grabbing bronze helm on the way out.
+    Run to Falador hugging the south Falador wall.
+    Buy iron chainbody from Wayne's Chains with ETC coins.
+    Bank at fally east.
+        [BANK]: Space, chronicle.
+    Finish PT by digging in the park, running away from gardener, digging again.
+    Drop spade and chest.
+    Run to Fally castle.
+    Start BKF. [1,1]
+    Die to a white knight (Max hit 5).
+    Chronicle teleport.
+    Bank at V West.
+        [BANK]: Cadava berries, chronicle, cabbage, dyes, iron chain, bronze med and 4 wines
+    Run to BKF.
+    Equip bronze helm and iron chainbody.
+    Enter castle and follow hidden route to spy at grate.
+    Go back to the main entrance and follow east path to drop cabbage in hole.
+    Run directly west from the fortress through wilderness to the goblin village.
+    Pick up 3 goblin mail locations: Up ladder, in mid-left hut, behind generals’ (right side) for the goblin bodies.
+    Dye 1 mail blue and 1 mail orange.
+    Do GD by talking to generals and giving armor.
+    Run south to Falador castle.
+    Finish BKF.
+        [Split]
+    Go upstairs and die to a white knight.
+    Chronicle teleport.
+    Make RJ potion at Varrock Apothecary.
+    Run to Juliet and give her the potion.
+    Bank at V West
+        [BANK]: 3 DS keys, chronicle, final fight stuff (Armor, shield, cape, gloves, ale, wine, bread)
+    Finish RJ by talking to Romeo and watching cutscene.
+    Run to Varrock castle.
+    Get Silverlight from Sir Prysin. (Chronicle teleport when you get the message that you have it)
+    Fight Delrith
+        This fight is actually very tricky and difficult
+        The fight is an instance that can be freely entered and reset by walking in and out of the circle
+        Get to the southeast of the circle and reset the instance as needed to get delrith alone
+        You DO NOT want a wizard aggro'd on you
+        Pull delrith as far southeast or southwest as you can without exiting the instance to get him alone
+    Enter the incantation, and be sure to turn of prayer before you do so.
+        If prayer is left on it can bug the ending when your prayer runs out.
+    Run to and enter the Champion's Guild.
+    
 Finish
-    Timer stops when dialog appears upon entering Champion's Guild
-        [Split]
+    Timer stops when dialog appears upon entering Champion's Guild
+        [Split]
