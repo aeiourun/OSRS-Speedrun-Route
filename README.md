@@ -19,7 +19,7 @@ Discord: https://discord.gg/cS6w8z6
 ## Routed and revised by:
 
 TheDarkestUno, Muffyn, aeiou
-(Big shoutout to Muffyn for the good work)
+(Big shoutout to Muffyn for putting in work)
 
 ## Notes currently managed by:
 
