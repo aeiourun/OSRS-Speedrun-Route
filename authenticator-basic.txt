@@ -22,10 +22,10 @@ Note
 Start
     Timer starts when you press accept on the character creation screen.
  
-Tutorial island
-    Runescape guide [1]
-    Drop your items to not run out of run
-    Don’t forget to become an Ironman [2]
+Tutorial Island
+    Runescape guide [1].
+    Drop your items to not run out of run.
+    Don’t forget to become an Ironman [2].
         [Split]
 
 Lumbridge I
