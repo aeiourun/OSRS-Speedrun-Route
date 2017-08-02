@@ -9,9 +9,11 @@
  **old-route.txt:** Deprecated route notes. Outdated, but neat.
 
 
-### Speedrun.com page:
+### Links:
 
-http://www.speedrun.com/2007scape
+Speedrun.com: http://www.speedrun.com/2007scape
+
+Discord: https://discord.gg/cS6w8z6
 
 
 ### Routed and revised by:
