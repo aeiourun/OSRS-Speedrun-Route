@@ -1,18 +1,25 @@
+=*=*=*=*=*=*=*=
+     Notes
+=*=*=*=*=*=*=*=
+
 Introduction
     Welcome to the wonderful world of Oldschool RuneScape speedrunning.
     OSRS offers a surprisingly unique, challenging, and rewarding speedrun.
-    This is currently the fastest known route for the "Champions Guild" category.
-    The goal and endpoint for the run is entering the Champions guild, which requires 32 quest points.
+    We are an aweseme and friendly community, so please ask questions in the Discord.
+    This is note contains the fastest currently known route for the "Champions Guild" category.
     
     Timing starts upon clicking "Accept" on the character creation screen on Tutorial Island. 
-    Timing ends upon entering the Champions' guild. 
-
+    Timing ends upon entering the Champions guild, which requires 32 quest points. 
+    
+    Rules:
+        -Must be an Ironman account.
+        -The account must not login to a Members' only world during the run. 
         -Skippy is not allowed. 
         -Timing must be RTA. 
-        -The account must not login to a Members' Only World during the run. 
         -Mouse cursor must be visible.
-
-    Account type must be Ironman.
+        -Multilogging is allowed at the moment, but must be noted with submission of the run.
+          (Multilogging is any other account having a direct effect on the run that the runner could control.)
+          (I.E. Manipulating NPCs on an alt account, or picking up the ashes from another player's fire)
 
 Terms
     "[BANK]" Deposit all inventory and worn items, withdraw the listed items.
@@ -20,7 +27,7 @@ Terms
     "[Deathwarp]" Kill yourself via the method provided.
     "[numbers in brackets] i.e. [1,2,1,4]" Dialogue options you'll want to select when speaking to an NPC.
     
-Quests
+Abbreviations
     RM: Rune Mysteries
     RG: Restless Ghost
     PT: Pirate's Treasure
@@ -33,10 +40,15 @@ Quests
     ETC: Ernest The Chicken
     BKF: Black Knight's Fortress
     GD: Goblin Diplomacy
+    
+    Reclaim runes: Drop your runes, claim runes from the magic tutor, pickup the dropped runes.
+    Bread: A high quality routing option.
 
 Setup
-    Create an email account for runs, as email verification is required.
-    The best thing you can do is setup a short and memorable gmail account "usernamerun@gmail.com".
+    Each run is started with a new account, with the email address authenticated, and the authenticator setup.
+    However, only one email account is needed to make any number of RuneScape accounts.
+    Create the email address you want to use for this.
+    It is recommended that you setup a short and memorable gmail account "usernamerun@gmail.com".
     When setting up the runescape account, you can use the email "usernamerun+1@gmail.com", and increment it by one each run.
     Your runescape login will be "usernamerun+1@gmail.com" and the authentication email will go to "usernamerun@gmail.com".
     Make a new oldschool runescape account.
@@ -45,15 +57,29 @@ Setup
     Enter the code on the web page to enable authenticator.
     Log in on the client and enter the authenticator code.
 
-Note
-    The first time you change world with this account you will be brought back to the authenticator verification.
-    Hit cancel, and then enter your username and password again.
- 
+General Running Knowledge
+    Note that if you log in, log out without finishing character creation, then log back in:
+        You will no longer have the character creation screen, and the run is considered started here.
+    
+    The first time you change world with this account you will be brought back to the authenticator verification.
+        Hit cancel, and then enter your username and password again.
+
+    Hold spacebar through all dialog.
+    
+    Run depletes faster the more weight you are carrying.
+    Avoid running when carrying a heavy load, and run when you have a light load.
+    
+    Always be in motion. Click doors and be walking on the next game tick. Stay prepared for your next action.
+    
+    There is always a backup strat when something goes wrong. If you are clever enough you might not even lose time.
+
+
+=*=*=*=*=*=*=*=*=*=
+     Run Start
+=*=*=*=*=*=*=*=*=*=
+
 Start
     Timer starts when you press accept on the character creation screen.
-    Note that if you log in, log out without finishing character creation, and then log back in:
-        You will no longer have the character creation screen, and the run is considered started here.
-    Hold spacebar through all dialog.
  
 Tutorial Island
     Talk to the runescape guide [1].
