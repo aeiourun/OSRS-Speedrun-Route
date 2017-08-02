@@ -1,3 +1,9 @@
+Formatting notes
+Whenever BANK: is mentioned, this is telling you the items you want to have in your inventory/equipped after you're done banking.
+I put [Split] where a few of the runners tend to split, but obviously you use whatever splits you want.
+Deathwarp = kill yourself via the method provided.
+Numbers in brackets are the dialogue options you'll want to select when speaking to an NPC. I.E [1,2,1,4]
+
 Setup
 Create an email account for runs, as email verification is required
 The best thing you can do is setup a short and memorable gmail account "usernamerun@gmail.com"
@@ -20,11 +26,15 @@ Tut island
     Drop your items to not run out of run
     Don’t forget to become Ironman [2nd dialogue option]
 
-Lumbridge I (but not visiting wizard's tower)
-    SELL: axe (don't bother selling the rest, we have enough money)
+Lumbridge I
+    Save run energy until after depositing at bank
+    Drop and claim air and mind runes from the magic tutor
+    Drop(while walking around): Pot, arrows, body runes, fishing net, sword, dagger, shield
+    SELL: axe, bow
     BUY: hammer, shears, bucket
     Shear 3 sheep
     Claim Ironman armor from Adam/Paul
+    Walk up south lumby castle stairs
     Spin wool
     Start RM [1,1]
     Grab log from upstairs lumby castle bank
@@ -87,7 +97,7 @@ Lumbridge
 Varrock
     Grab 1 cadava and 4 redberries
     Chronicle teleport
-    Start RJ at JULIET
+    Start RJ at JULIET [1,1]
     WITHDRAW Varrock West: all money, package, bucket, key, beer, love letter
     Buy staff from Zaff
     Talk to Gypsy and start DS [1,3,3, cutscene, 4] (screenshot incantation)
