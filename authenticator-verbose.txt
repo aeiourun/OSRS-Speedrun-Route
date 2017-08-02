@@ -47,12 +47,12 @@ Abbreviations
     BKF: Black Knight's Fortress
     GD: Goblin Diplomacy
     
-    Reclaim runes: Drop your runes, claim runes from the magic tutor, pickup the dropped runes.
+    Reclaim runes: Drop your runes, claim runes from the magic tutor, pick up the dropped runes.
     Bread: A high quality routing option.
 
 Setup
-    Each run is started with a new account, with the email address authenticated, and the authenticator setup.
-    However, only one email account is needed to make any number of RuneScape accounts.
+    Each run is started with a new account, with the email address authenticated, and the authenticator set up.
+    However, only one email address is needed to make any number of RuneScape accounts.
     Create the email address you want to use for this.
     It is recommended that you setup a short and memorable gmail account "usernamerun@gmail.com".
     When setting up the runescape account, you can use the email "usernamerun+1@gmail.com", and increment it by one each run.
