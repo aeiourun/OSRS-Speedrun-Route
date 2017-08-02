@@ -6,11 +6,13 @@ Welcome to the wonderful world of Oldschool RuneScape speedrunning. OSRS offers 
 
 This git repository stores up to date and archived route notes for the most active run category: "Champion's Guild"
 
+http://www.speedrun.com/2007scape#F2P_Champions_Guild
+
 #### Files
 
-**authenticator-basic.txt:** Bare bones route notes. Technically contains all information needed for a run, but not for the uninitiated.
+**authenticator-verbose.txt:** Complete route notes. Recommended for learning the route.
 
-**authenticator-verbose.txt:** More verbose route notes. Recommended for non-experienced runners.
+**authenticator-basic.txt:** Bare bones route notes. Technically contains all information needed for a run, but not for the uninitiated.
 
  **old-route.txt:** Deprecated route notes. Outdated, but neat.
 
