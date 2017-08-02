@@ -3,6 +3,7 @@
 ### Routes:
 
 **authenticator-basic.txt:** Bare bones route notes. Technically contains all information needed for a run, but not for the uninitiated.
+
 **authenticator-verbose.txt:** More verbose route notes. Recommended for non-experienced runners.
 
 
