@@ -1,17 +1,20 @@
 # OSRS-Speedrun-Route
 
-Routed and revised by:
+### Routed and revised by:
 
 TheDarkestUno, Muffyn, aeiou
 
-Notes currently managed by:
+
+### Notes currently managed by:
 
 aeiou
 
-Questions? Suggestions?
+
+### Questions? Suggestions?
 
 aeiourun14@gmail.com
 
-speedrun.com page:
+
+### speedrun.com page:
 
 http://www.speedrun.com/2007scape
