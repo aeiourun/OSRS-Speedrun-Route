@@ -14,10 +14,10 @@ Introduction
     We are an aweseme and friendly community, so please ask questions in the Discord.
     This is note contains the fastest currently known route for the "Champions Guild" category.
     
+Rules
     Timing starts upon clicking "Accept" on the character creation screen on Tutorial Island. 
     Timing ends upon entering the Champions guild, which requires 32 quest points. 
     
-    Rules:
         -Must be an Ironman account.
         -The account must not login to a Members' only world during the run. 
         -Skippy is not allowed. 
@@ -28,10 +28,10 @@ Introduction
           (I.E. Manipulating NPCs on an alt account, or picking up the ashes from another player's fire)
 
 Terms
-    "[BANK]" Deposit all inventory and worn items, withdraw the listed items.
-    "[Split]" Commonly used split locations.
-    "[Deathwarp]" Kill yourself via the method provided.
-    "[numbers in brackets] i.e. [1,2,1,4]" Dialogue options you'll want to select when speaking to an NPC.
+    "[BANK]": Deposit all inventory and worn items, withdraw the listed items.
+    "[Split]": Commonly used split locations.
+    "[Deathwarp]": Kill yourself via the method provided.
+    "[numbers in brackets] i.e. [1,2,1,4]": Dialogue options you'll want to select when speaking to an NPC.
     
 Abbreviations
     RM: Rune Mysteries
@@ -64,21 +64,21 @@ Setup
     Log in on the client and enter the authenticator code.
 
 General Running Knowledge
-    Note that if you log in, log out without finishing character creation, then log back in:
+    If you log in to a new account, log out without finishing character creation, then log back in:
         You will no longer have the character creation screen, and the run is considered started here.
     
-    The first time you change world with this account you will be brought back to the authenticator verification.
+    The first time you change world with an authenticator account you will be brought back to the authenticator verification.
         Hit cancel, and then enter your username and password again.
 
     Hold spacebar through all dialog.
     
     Run depletes faster the more weight you are carrying.
-    Avoid running when carrying a heavy load, and run when you have a light load.
+    Stockpile run energy while carrying a heavy load, and run when you have a light load.
     
     Always be in motion. Click doors and be walking on the next game tick. Stay prepared for your next action.
     
     There is always a backup strat when something goes wrong. If you are clever enough you might not even lose time.
-
+    A lot of this route was built on changes made on the fly when something went wrong.
 
 =*=*=*=*=*=*=*=*=*=
      Run Start
