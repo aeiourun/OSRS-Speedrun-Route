@@ -15,6 +15,8 @@ Speedrun.com: http://www.speedrun.com/2007scape
 
 Discord: https://discord.gg/cS6w8z6
 
+Current world record: http://www.speedrun.com/run/zq6g0r5y
+
 
 ## Routed and revised by:
 
