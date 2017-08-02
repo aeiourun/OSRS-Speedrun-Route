@@ -24,7 +24,7 @@ Lumbridge I (but not visiting wizard's tower)
     !Spin wool
     Start RM [1,1]
     Grab log from upstairs lumby castle bank
-    BANK: put everything away, WITHDRAW air tally
+    BANK: put everything away
     Start RG [3,1]
     Get ghostspeak [2,1]
     Grab leather gloves
@@ -56,14 +56,12 @@ Run to Falador
 Head to Rimmington
     Get 5 onions and 1 cabbage
     Burn meat
-	Fill bucket with water
     Start WP
     Kill rat
     End WP
     Mine copper, tin, and clay (BlessRNG God Ash)
  
 Head to Draynor Village
-	Use water on clay
     Give rum to redbeard
     Start VS [2] and grab garlic
     Talk to Lady Keli in order to make imprint of jail key [1,2,3,1,1]
@@ -91,7 +89,7 @@ Varrock
     Give Dr. Harlow a beer, then buy another
     PT Chest upstairs
     Talk to Aubury [3], Speak again for package
-    Fill bucket at castle fountain
+    Fill bucket at fountain, wet the clay, fill bucket
     Talk to Sir Prysin about the Silverlight [3,1,2,1]
     Get Sir Rovin’s key, he's on the 2nd floor if you go up the northwestern staircase. [3,1,2,2,3,1]
     Get water and pour down drain
@@ -103,32 +101,27 @@ Varrock
 Clan Wars
     Clan wars bank
     WITHDRAW: mage gear, runes, wizard mind bombs, log, tinderbox, mould, copper, tin, milk, egg, flour
-	Start PAR
-    Smelt bronze bar
-	Talk to Osman to learn what to do[1,2]
-	Talk to osman to give bar
+    Smelt bronze bar, give to Osman
     Home teleport
-    Finish Cook's Assistant
+    !Finish Cook's Assistant
     Reclaim runes
     Light fire at chicken coop
     Run to chickens, get 25 bones, sip a mind bomb every time you level up, USE MAGE PRAYER
     !Run to Draynor bank
-    WITHDRAW: coins, onions, red berries, woad leaves, bucket of water, flour, ashes, 3 beers, rope, 3 wool, skirt
+    WITHDRAW: coins, onions, red berries, woad leaves, bucket of water, flour, ashes, 3 beers, rope, 3 wool
     Make all dyes and skin paste, make orange dye, [1,1] for skin paste dialogue
     Have Ned make you a wig [1,2,1], dye yellow
-    Get key from Leela, THEN TALK TO HER AGAIN
+    Get key from Leela
     Give guard beers, tie up Keli, rescue Prince Ali
     Bank at draynor, deposit everything
     WITHDRAW: 25 bones and RM notes
-    Turn in bones upstaris [3,3,2, then re-talk]
-	Turn in notes downstairs
+    Turn in bones and then notes
     Die to wizard
    
 Lumbridge
     Run to finish PAR
-    WITHDRAW Al Kharid: mage gear, all runes, mind bomb, stake, hammer, garlic, coins, chronicle, wines (save 3 spaces) (withdraw money if more runes are needed)
+    WITHDRAW Al Kharid: mage gear, all runes, mind bomb, stake, hammer, garlic, coins, chronicle, wines (save 3 spaces)
     Shantay Pass warp [1, 1, 2, 2]
-	Stop by betty to buy more runes if needed
     Run to Draynor Manor
     Start ETC (fish food, poison, oil can, VS, spade, compost heap, fountain, rubber tube)
     ETC lever puzzle [BA, D, BA, EF, C, E]
@@ -141,7 +134,7 @@ Lumbridge
     Finish PT
     Start BKF
     !Die to a white knight with only chronicle, iron chain, bronze med
-    Chronicle teleport, bank at V West for cadava berries, cabbage, dyes, iron chain, bronze med and a few wines
+    Chronicle teleport, bank at V West for cadava berries, cabbage, dyes, iron chain, bronze med
     Run to BKF
     Hidden route, then door, drop cabbage down hole
     Run through wilderness to GD
