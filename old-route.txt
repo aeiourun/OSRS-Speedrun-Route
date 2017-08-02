@@ -1,4 +1,14 @@
-Old route for archiving purposes, check out the authenticator files for more up to date information.
+#!#!#!#!#!#!#!#!#
+     WARNING
+#!#!#!#!#!#!#!#!#
+
+This is an old route that is now outdated.
+It is kept now just for archiving purposes.
+Check out the "authenticator" route files for more up to date information.
+
+#!#!#!#!#!#!#!#!#
+     WARNING
+#!#!#!#!#!#!#!#!#
 
 Just a note.
 Whenever BANK: is mentioned, this is telling you the items you want to have in your inventory/equipped after you're done banking.
