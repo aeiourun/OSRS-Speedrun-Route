@@ -106,7 +106,7 @@ Tutorial Island
         Clicking that prompt when the poll booth text starts
     Finish the prayer guide segment.
     Don’t forget to become an Ironman [2].
-    Finish the magic guide segment
+    Finish the magic guide segment.
     Teleport off of Tutorial Island.
         [Split]
 
@@ -264,7 +264,7 @@ Clan Wars
     Walk to chicken coop east of Draynor manor.
     Light fire as soon as you get there chicken coop.
     Watch this fire and kill chickens, and pick up the ashes quickly.
-    Kill 25 chickens with magic
+    Kill 25 chickens with magic:
         Pick up 25 bones in the process.
         Use magic prayer.
         Use a mind bomb to start, and then once every level up.
@@ -319,7 +319,7 @@ Lumbridge
         [Split]
     Exit Draynor Manor, grabbing bronze helm on the way out.
     Run to Falador hugging the south Falador wall.
-    Head to Wayne's Chains
+    Head to Wayne's Chains:
         BUY: Iron chainbody
     Bank at fally east.
         [BANK]: Space, chronicle.
@@ -346,12 +346,12 @@ Lumbridge
     Chronicle teleport.
     Make RJ potion at Varrock Apothecary.
     Run to Juliet and give her the potion.
-    Bank at V West
+    Bank at V West.
         [BANK]: 3 DS keys, chronicle, final fight stuff (Armor, shield, cape, gloves, ale, wine, bread)
     Finish RJ by talking to Romeo and watching cutscene.
     Run to Varrock castle.
     Get Silverlight from Sir Prysin. (Chronicle teleport when you get the message that you have it)
-    Fight Delrith
+    Fight Delrith:
         This fight is actually very tricky and difficult
         The fight is an instance that can be freely entered and reset by walking in and out of the circle
         Get to the southeast of the circle and reset the instance as needed to get delrith alone
@@ -362,5 +362,5 @@ Lumbridge
     Run to and enter the Champion's Guild.
     
 Finish
-    Timer stops when dialog appears upon entering Champion's Guild
+    Timer stops when dialog appears upon entering Champion's Guild.
         [Split]
