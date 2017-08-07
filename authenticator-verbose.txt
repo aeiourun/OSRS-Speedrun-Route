@@ -149,7 +149,7 @@ Head to Falador
     Buy 1 Asgarnian Ale and 6 Mind Bombs.
     Buy woad leaves from Wynston in Fally park [1,4].
     Bank at falador east.
-        [BANK]: All coins, pickaxe, air/mind runes, 2 buckets
+        [BANK]: All coins, pickaxe, 2 buckets
     Run down towards Falador Farm.
     Milk a cow in the cow pen.
     Grab egg from chicken pen.
