@@ -28,11 +28,13 @@ Current world record: http://www.speedrun.com/run/zq6g0r5y
 
 ## Routed and revised by:
 
-TheDarkestUno, Muffyn, and aeiou
+TheDarkestUno, Muffyn, and aeiou.
 
 (Big shoutout to Muffyn for putting in work)
 
-## Notes currently managed by:
+## About
+
+#### Notes currently managed by:
 
 aeiou
 
