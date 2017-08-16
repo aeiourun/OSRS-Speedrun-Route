@@ -91,8 +91,9 @@ Tutorial Island
     Talk to the runescape guide [1].
     Click the door to exit the starting building as soon as the guide's first dialogue set has completed.
     (You do not need to talk to him the 2nd time)
+    Talk to the Survival Expert.
     Chop a tree, light a fire, click the exp window. 
-    Talk to the runescape guide.
+    Talk to the Survival Expert.
     Fish two shrimp.
     Cook the first shrimp, then the second. (The first will always burn).
     As you have time running around, enable shift click drop.
