@@ -319,7 +319,7 @@ Lumbridge
     Head to Wayne's Chains:
         BUY: Iron chainbody
     Bank at fally east.
-        [BANK]: Spade, chronicle, Cadava berries, chronicle, cabbage, dyes, iron chain, bronze med and 4 wines
+        [BANK]: Spade, chronicle, cadava berries, cabbage, dyes, iron chain, bronze med and 4 wines
     Finish PT by digging in the park, running away from gardener, digging again.
     Drop spade and chest.
     Run to Fally castle.
