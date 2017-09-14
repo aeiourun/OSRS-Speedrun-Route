@@ -41,7 +41,6 @@ Lumbridge I
         [BANK]: Nothing
     Start RG [3,1].
     Get ghostspeak amulet [2,1].
-    Grab leather gloves. (Optional)
     Clan wars teleport, walk in portal.
     Home teleport.
     Talk to ghost [1].
@@ -63,9 +62,9 @@ Head to Falador
     Milk a cow.
     Grab egg from chickens.
     Run to Port Sarim.
-    Talk to Redbeard to start PT [1,1].
     Run to Betty's magic store.
         BUY: Eye of Newt, Wizard hat, 30 air runes, 40 mind runes, 55 water runes, 65 earth runes
+    Talk to Redbeard to start PT [1,1].
     Travel to Karamja.
         BUY: 3 beers, rum
     Pick 10 bananas.
@@ -155,10 +154,9 @@ Clan Wars
 Lumbridge
     Run to finish PAR.
         [Split]
-    Bank at Al Kharid bank.
-        [BANK]: Mage gear, all runes, mind bomb, stake, hammer, garlic, chronicle, 10 wines. (Coins if more runes are needed)
-    Shantay Pass warp [1, 1, 2, 2].
-    Stop by Betty to buy more runes if needed.
+    Deathwarp on palace guards.
+    Run to Draynor Bank
+        [BANK]: Mage gear, all runes, mind bomb, stake, hammer, garlic, chronicle, ~10 wines.
     Run to Draynor Manor.
     Start ETC (fish food, poison, oil can, VS, spade, compost heap, fountain, rubber tube).
     ETC lever puzzle [BA, D, BA, EF, C, E].
@@ -166,17 +164,13 @@ Lumbridge
     Drop all mage equipment.
     Finish ETC.
         [Split]
-    Exit Draynor Manor, grabbing bronze helm.
+    Exit Draynor Manor, grabbing bronze helm. (Should still have spade on you)
     Run to Falador.
     Buy iron chainbody with ETC coins.
     Bank at Fally east.
-        [BANK]: Space, chronicle.
+        [BANK]: Spade, chronicle, Cadava berries, chronicle, cabbage, dyes, iron chain, bronze med and 4 wines
     Finish PT.
-    Start BKF.
-    Die to a white knight (Max hit 5).
-    Chronicle teleport.
-    Bank at V West.
-        [BANK]: Cadava berries, chronicle, cabbage, dyes, iron chain, bronze med and 4 wines
+    Start BKF [1,1].
     Run to BKF.
     Hidden route, then door, drop cabbage down hole.
     Run through wilderness to GD.
@@ -190,10 +184,11 @@ Lumbridge
     Make potion at Apothecary.
     Run to Juliet.
     Bank at V West
-        [BANK]: 3 DS keys, chronicle, final fight stuff (Armor, shield, cape, gloves, ale, wine, bread)
+        [BANK]: 3 DS keys, chronicle, final fight stuff (Armor, shield, cape, ale, wine, bread)
     Finish RJ.
     Get Silverlight, Chronicle teleport when you get the message that you have it.
     Fight Delrith. (Use pray and ale, turn off pray when killed)
+    Chronicle teleport
     
 Finish
     Timer stops when dialog appears upon entering Champion's Guild
