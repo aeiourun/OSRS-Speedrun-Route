@@ -131,7 +131,6 @@ Lumbridge I
     Start RG by talking to priest at lumby church [3,1].
     Walk to Father Urhney in west lumby swamp.
     Get ghostspeak amulet from him [2,1].
-    Grab leather gloves.
     Clan wars teleport, walk in portal to the west to restore run.
     Home teleport.
     Talk to ghost about skull in lumby graveyard [1].
@@ -154,9 +153,9 @@ Head to Falador
     Milk a cow in the cow pen.
     Grab egg from chicken pen.
     Run to Port Sarim.
-    Talk to Redbeard to start PT [1,1].
     Run to Betty's magic store. (Watch for highwaymen).
         BUY: Eye of Newt, Wizard hat, 30 air runes, 40 mind runes, 55 water runes, 65 earth runes
+    Talk to Redbeard to start PT [1,1].
     Travel to Karamja.
     Head to Karamja bar.
         BUY: 3 beers, rum
@@ -295,12 +294,10 @@ Clan Wars
 Lumbridge
     Run to Al Kharid palace to finish PAR.
         [Split]
-    Bank at Al Kharid bank.
-        [BANK]: Mage gear, all runes, mind bomb, stake, hammer, garlic, chronicle, 10 wines. (Coins if more runes are needed)
-    Run south to Shantay Pass.
-    Talk to Shantay to Shantay Pass warp [1, 1, 2, 2].
-    Pick the jail cell lock.
-    Stop by Betty to buy more runes if needed.
+    Deathwarp on Al Kharid palace guards.
+    Run to Draynor bank.
+    Bank at Draynor bank.
+        [BANK]: Mage gear, all runes, mind bomb, stake, hammer, garlic, chronicle, ~10 wines.
     Run to Draynor Manor.
     Start ETC by talking to veronica outside of manor [1].
     Enter manor and collect in this order:
@@ -322,15 +319,11 @@ Lumbridge
     Head to Wayne's Chains:
         BUY: Iron chainbody
     Bank at fally east.
-        [BANK]: Space, chronicle.
+        [BANK]: Spade, chronicle, Cadava berries, chronicle, cabbage, dyes, iron chain, bronze med and 4 wines
     Finish PT by digging in the park, running away from gardener, digging again.
     Drop spade and chest.
     Run to Fally castle.
-    Start BKF. [1,1]
-    Die to a white knight (Max hit 5).
-    Chronicle teleport.
-    Bank at V West.
-        [BANK]: Cadava berries, chronicle, cabbage, dyes, iron chain, bronze med and 4 wines
+    Start BKF. [1,1].
     Run to BKF.
     Equip bronze helm and iron chainbody.
     Enter castle and follow hidden route to spy at grate.
@@ -359,7 +352,7 @@ Lumbridge
         Pull delrith as far southeast or southwest as you can without exiting the instance to get him alone
     Enter the incantation, and be sure to turn of prayer before you do so.
         If prayer is left on it can bug the ending when your prayer runs out.
-    Run to and enter the Champion's Guild.
+    Chronicle teleport to and enter the Champion's Guild.
     
 Finish
     Timer stops when dialog appears upon entering Champion's Guild.
