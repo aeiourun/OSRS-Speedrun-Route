@@ -168,7 +168,7 @@ Lumbridge
     Run to Falador.
     Buy iron chainbody with ETC coins.
     Bank at Fally east.
-        [BANK]: Spade, chronicle, Cadava berries, chronicle, cabbage, dyes, iron chain, bronze med and 4 wines
+        [BANK]: Spade, chronicle, cadava berries, cabbage, dyes, iron chain, bronze med and 4 wines
     Finish PT.
     Start BKF [1,1].
     Run to BKF.
