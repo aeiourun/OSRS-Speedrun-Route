@@ -40,6 +40,6 @@ aeiou
 
 #### Questions? Suggestions? Mistakes?
 
-Drop by the discord or shoot me an email.
+Submit a pull request, drop by the discord, or shoot me an email.
 
 Email: aeiourun14@gmail.com
