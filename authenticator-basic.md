@@ -1,7 +1,4 @@
-# Champions Guild Authenticator Route, Basic
-Full formatted guide available at:
-
-https://github.com/aeiourun/OSRS-Speedrun-Route/wiki/Champions-Guild-(Basic)
+# Champions Guild Authenticator Route (Basic)
 
 ## Notes
 
