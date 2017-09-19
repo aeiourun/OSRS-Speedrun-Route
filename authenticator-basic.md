@@ -5,7 +5,7 @@
 These are the basic notes, intended for runners with experience with the route.
 
 Please check out the verbose notes for more complete information:
-https://github.com/aeiourun/OSRS-Speedrun-Route/blob/master/authenticator-verbose.txt
+https://github.com/aeiourun/OSRS-Speedrun-Route/blob/master/authenticator-verbose.md
 
 ## Run Start
 
