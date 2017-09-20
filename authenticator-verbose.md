@@ -148,6 +148,7 @@ The openness of the game means there are a huge number of backup strats availabl
 - Buy woad leaves from Wynston in Fally park **[1,4]**.
 - Bank at falador east.
     - **[BANK]**: All coins, pickaxe, 2 buckets
+    - ![bank](https://i.imgur.com/OMXZFpk.png)
 - Run down towards Falador Farm.
 - Milk a cow in the cow pen.
 - Grab egg from chicken pen.
@@ -201,6 +202,7 @@ The openness of the game means there are a huge number of backup strats availabl
 - Use teleport cards on chronicle to store them.
 - Run to Draynor bank.
     - **[BANK]**: Air talisman, chronicle
+    - ![bank](https://i.imgur.com/hA2VvfL.png)
 - Run south to Wizard's tower.
 - Use ladder to go to basement.
 - Talk to Wizard for RM.
@@ -219,6 +221,7 @@ The openness of the game means there are a huge number of backup strats availabl
 - Start RJ at JULIET **[1,1]**.
 - Run to V West bank.
     - **[BANK]**: All coins, package, bucket, key, beer, love letter
+    - ![bank](https://i.imgur.com/7FVJanR.png)
 - Head to Zaff's Staffs
     - BUY: Normal staff
 - Talk to Gypsy and start DS **[1,3,3, cutscene, 4]** (screenshot incantation).
@@ -249,6 +252,7 @@ The openness of the game means there are a huge number of backup strats availabl
 - Restore run energy by entering and exiting clan wars portal to the west.
 - Clan wars bank.
     - **[BANK]**: Wizard hat, staff, all mind/air/water runes, 5 wizard mind bombs, 
+    - ![bank](https://i.imgur.com/CtGxNt9.png)
     - log, tinderbox, mold, copper, tin, milk, egg, flour
 - Walk to Al Kharid Palace.
 - Start PAR **[1]**.
@@ -270,6 +274,7 @@ The openness of the game means there are a huge number of backup strats availabl
     - Drop tinder box, beer glasses, and water runes last. (Keeping 25 bones, ashes, air/mind runes)
 - Run to Draynor bank.
     - **[BANK]**: Coins, onions, red berries, wood leaves, bucket of water, flour, ashes, 3 beers, 3 wool, skirt
+    - ![bank](https://i.imgur.com/heAeHxO.png)
 - Walk north to the house with the witch Aggie.
 - Talk to her to make skin paste **[1,1]**.
 - Use ingredients on her to make: 1 Blue dye, 2 yellow dye, 1 red dye. 
@@ -297,6 +302,7 @@ The openness of the game means there are a huge number of backup strats availabl
 - Run to Draynor bank.
 - Bank at Draynor bank.
     - **[BANK]**: Mage gear, all runes, mind bomb, stake, hammer, garlic, chronicle, ~10 wines.
+    - ![bank](https://i.imgur.com/KrK9bSw.png)
 - Run to Draynor Manor.
 - Start ETC by talking to veronica outside of manor **[1]**.
 - Enter manor and collect in this order:
@@ -319,6 +325,7 @@ The openness of the game means there are a huge number of backup strats availabl
     - BUY: Iron chainbody
 - Bank at fally east.
     - **[BANK]**: Spade, chronicle, cadava berries, cabbage, dyes, iron chain, bronze med and 4 wines
+    - ![bank](https://i.imgur.com/3pZc9Bb.png)
 - Finish PT by digging in the park, running away from gardener, digging again.
 - Drop spade and chest.
 - Run to Fally castle.
@@ -340,6 +347,7 @@ The openness of the game means there are a huge number of backup strats availabl
 - Run to Juliet and give her the potion.
 - Bank at V West.
     - **[BANK]**: 3 DS keys, chronicle, final fight stuff (Armor, shield, cape, gloves, ale, wine, bread)
+    - ![bank](https://i.imgur.com/lbrd7Vt.png)
 - Finish RJ by talking to Romeo and watching cutscene.
 - Run to Varrock castle.
 - Get Silverlight from Sir Prysin. (Chronicle teleport when you get the message that you have it)
