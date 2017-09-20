@@ -52,6 +52,7 @@ https://github.com/aeiourun/OSRS-Speedrun-Route/blob/master/authenticator-verbos
 - Buy wood leaves **[1,4]**.
 - Bank at Falador east.
     - **[BANK]**: All coins, pickaxe, 2 buckets
+    - ![bank](https://i.imgur.com/OMXZFpk.png)
 - Run down towards Falador Farm.
 - Milk a cow.
 - Grab egg from chickens.
@@ -89,6 +90,7 @@ https://github.com/aeiourun/OSRS-Speedrun-Route/blob/master/authenticator-verbos
     - **[BANK]**: All coins
 - Buy ~20 wines and chronicle + 5 teleports
     - **[BANK]**: Air talisman, chronicle
+    - ![bank](https://i.imgur.com/hA2VvfL.png)
 - Run to Wizard's tower.
 - Talk to Wizard for RM.
 - Grab skull.
@@ -105,6 +107,7 @@ https://github.com/aeiourun/OSRS-Speedrun-Route/blob/master/authenticator-verbos
 - Start RJ at JULIET **[1,1]**.
 - Run to V West bank.
     - **[BANK]**: All coins, package, bucket, key, beer, love letter
+    - ![bank](https://i.imgur.com/7FVJanR.png)
 - Buy staff from Zaff.
 - Talk to Gypsy and start DS **[1,3,3, cutscene, 4]**. (screenshot incantation)
 - Talk to Romeo.
@@ -125,6 +128,7 @@ https://github.com/aeiourun/OSRS-Speedrun-Route/blob/master/authenticator-verbos
 - Restore run energy in portal.
 - Clan wars bank.
     - **[BANK]**: Mage gear, mind/air/water runes, wizard mind bombs, log, tinderbox, mold, copper, tin, milk, egg, flour
+    - ![bank](https://i.imgur.com/CtGxNt9.png)
 - Start PAR.
 - Smelt bronze bar.
 - Talk to Osman to learn what to do **[1,2]**.
@@ -136,6 +140,7 @@ https://github.com/aeiourun/OSRS-Speedrun-Route/blob/master/authenticator-verbos
 - Kill chickens, get 25 bones, sip a mind bomb every time you level up, use magic prayer.
 - Run to Draynor bank.
     - **[BANK]**: Coins, onions, red berries, woad leaves, bucket of water, flour, ashes, 3 beers, 3 wool, skirt
+    - ![bank](https://i.imgur.com/heAeHxO.png)
 - Make all dyes and skin paste,**[1,1]** for skin paste dialogue, mix orange dye.
 - Have Ned make you a wig **[1,2,1]**, dye yellow.
 - Buy a rope from Ned.
@@ -153,6 +158,7 @@ https://github.com/aeiourun/OSRS-Speedrun-Route/blob/master/authenticator-verbos
 - Deathwarp on palace guards.
 - Run to Draynor Bank
     - **[BANK]**: Mage gear, all runes, mind bomb, stake, hammer, garlic, chronicle, ~10 wines.
+    - ![bank](https://i.imgur.com/KrK9bSw.png)
 - Run to Draynor Manor.
 - Start ETC (fish food, poison, oil can, VS, spade, compost heap, fountain, rubber tube).
 - ETC lever puzzle **[BA, D, BA, EF, C, E]**.
@@ -165,6 +171,7 @@ https://github.com/aeiourun/OSRS-Speedrun-Route/blob/master/authenticator-verbos
 - Buy iron chainbody with ETC coins.
 - Bank at Fally east.
     - **[BANK]**: Spade, chronicle, cadava berries, cabbage, dyes, iron chain, bronze med and 4 wines
+    - ![bank](https://i.imgur.com/3pZc9Bb.png)
 - Finish PT.
 - Start BKF **[1,1]**.
 - Run to BKF.
@@ -181,6 +188,7 @@ https://github.com/aeiourun/OSRS-Speedrun-Route/blob/master/authenticator-verbos
 - Run to Juliet.
 - Bank at V West
     - **[BANK]**: 3 DS keys, chronicle, final fight stuff (Armor, shield, cape, ale, wine, bread)
+    - ![bank](https://i.imgur.com/lbrd7Vt.png)
 - Finish RJ.
 - Get Silverlight, Chronicle teleport when you get the message that you have it.
 - Fight Delrith. (Use pray and ale, turn off pray when killed)
