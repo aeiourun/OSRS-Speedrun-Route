@@ -26,7 +26,7 @@ Timing ends upon entering the Champions guild, which requires 32 quest points.
 
 **[Split]**: Commonly used split locations.
 
-**[Deathwarp]**: Kill yourself via the method provided.
+**[Deathwarp]**: Take an intentional death via the mentioned enemy.
 
 **[Numbers in brackets]** i.e. **[1,2,1,4]**: Dialogue options you'll want to select when speaking to an NPC.
     
