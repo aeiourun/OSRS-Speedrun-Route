@@ -197,7 +197,7 @@ The openness of the game means there are a huge number of backup strats availabl
 - Run to Draynor bank.
     - **[BANK]**: All coins
 - Head to Draynor Square
-    - BUY: ~20 wines from Fortunato. (Switch worlds as needed)
+    - BUY: ~20 wines from Fortunato. (Switch worlds as needed. 20 is not a hard set number, you can leave with a few less if buying is not going well.)
     - BUY: Chronicle and 5 teleports from Django.
 - Use teleport cards on chronicle to store them.
 - Run to Draynor bank.
@@ -248,7 +248,7 @@ The openness of the game means there are a huge number of backup strats availabl
 - Clan wars teleport.
     - **[Split]**
    
-### Clan Wars
+### Al Kharid
 - Restore run energy by entering and exiting clan wars portal to the west.
 - Clan wars bank.
     - **[BANK]**: Wizard hat, staff, all mind/air/water runes, 5 wizard mind bombs, 
@@ -324,7 +324,7 @@ The openness of the game means there are a huge number of backup strats availabl
 - Head to Wayne's Chains:
     - BUY: Iron chainbody
 - Bank at fally east.
-    - **[BANK]**: Spade, chronicle, cadava berries, cabbage, dyes, iron chain, bronze med and 4 wines
+    - **[BANK]**: Spade, chronicle, cadava berries, cabbage, dyes, iron chain, bronze med and ~3 wines
     - ![bank](https://i.imgur.com/3pZc9Bb.png)
 - Finish PT by digging in the park, running away from gardener, digging again.
 - Drop spade and chest.
