@@ -68,7 +68,7 @@ Your runescape login will be "usernamerun+1@gmail.com" and the authentication em
 - Log in on the client and enter the authenticator code.
 
 ### General Running Knowledge
-If you log in to a new account, log out without finishing character creation, then log back in. (You will no longer have the character creation screen, and the run is considered started here.)
+If you log in to a new account, log out without finishing character creation, then log back in - You will no longer have the character creation screen, and the run is considered started here.
     
 The first time you change world with an authenticator account you will be brought back to the authenticator verification. Hit cancel, and then enter your username and password again.
 
