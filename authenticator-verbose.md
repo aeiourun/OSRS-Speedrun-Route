@@ -90,7 +90,7 @@ The openness of the game means there are a huge number of backup strats availabl
 ### Tutorial Island
 - Talk to the runescape guide **[1]**.
 - Click the door to exit the starting building as soon as the guide's first dialogue set has completed.
-- (You do not need to talk to him the 2nd time)
+    - You do not need to talk to him the 2nd time.
 - Talk to the Survival Expert.
 - Chop a tree, light a fire, click the exp window. 
 - Talk to the Survival Expert.
@@ -111,11 +111,11 @@ The openness of the game means there are a huge number of backup strats availabl
     - **[Split]**
 
 ### Lumbridge I
-- Keep run energy at about 70% until after depositing all items at bank.
+- Keep run energy at about 65% until after depositing all items at bank.
 - Drop and "Reclaim" air and mind runes from the magic tutor.
-    - If you drop your runes a few tiles or more away from the magic tutor;
-    - Then every 30 minutes you can claim more runes.
-    - So here we drop them, claim runes, and then pick the runes back up.
+    - Drop your runes a few tiles or more away from the magic tutor.
+    - Claim runes from the magic tutor.
+    - Pick the dropped runes back up.
 - Drop(while walking around lumby): Pot, arrows, body runes, fishing net, sword, dagger, shield.
 - Walk to lumby general store.
     - SELL: Axe, bow
@@ -123,7 +123,7 @@ The openness of the game means there are a huge number of backup strats availabl
 - Shear 3 sheep in the nearby sheep pen.
 - Walk back to claim Ironman armor from Adam/Paul/Juan.
 - Walk up south lumby castle stairs.
-- Spin wool.
+- Spin all three wool.
 - Start RM by speaking to the duke **[1,1]**.
 - Grab log from upstairs lumby castle.
 - Deposit all items at upstairs bank.
@@ -133,7 +133,7 @@ The openness of the game means there are a huge number of backup strats availabl
 - Get ghostspeak amulet from him **[2,1]**.
 - Clan wars teleport, walk in portal to the west to restore run.
 - Home teleport.
-- Talk to ghost about skull in lumby graveyard **[1]**.
+- Talk to ghost in lumby graveyard **[1]**.
 - Teleport to the Stronghold of Security by talking to Count Check **[4,1]**.
    
 ### Stronghold of Security
@@ -161,8 +161,8 @@ The openness of the game means there are a huge number of backup strats availabl
 - Head to Karamja bar.
     - BUY: 3 beers, rum
 - Pick 10 bananas at the plantation.
-- Walk east to Luthas.
-- Get a job with Luthas: 
+- Walk east to Luthas and talk to him for a job.
+- Complete the job and stash the rum in the banana crate: 
     - Fill banana crate
     - Deposit rum in crate
     - Claim payment from Luthas
@@ -175,8 +175,8 @@ The openness of the game means there are a huge number of backup strats availabl
  
 ### Rimmington
 - Head to Rimmington mine.
-- Mine 1 copper, 1 tin, and 1 clay. (Note, this mining can be difficult due to bots. Switch worlds as needed.)
-- Walk northeast to farming patch.
+- Mine 1 copper, 1 tin, and 1 clay. (Note: This mining can be difficult due to bots. Switch worlds as needed.)
+- Walk northwest to farming patch.
 - Pick 5 onions and 1 cabbage.
 - Walk southeast to the house in Rimmington with both a sink and range.
 - Burn the meat. (If it cooks successfully, use it on the range again)
@@ -223,12 +223,12 @@ The openness of the game means there are a huge number of backup strats availabl
 - Run to V West bank.
     - **[BANK]**: All coins, package, bucket, key, beer, love letter
     - ![bank](https://i.imgur.com/7FVJanR.png)
-- Head to Zaff's Staffs
+- Head to Zaff's Staffs.
     - BUY: Normal staff
 - Talk to Gypsy and start DS **[1,3,3, cutscene, 4]** (screenshot incantation).
 - Talk to Romeo.
 - Head to Varrock Clothes store.
-    - BUY: pink skirt and red cape
+    - BUY: Pink skirt and red cape
 - Run to Varrock bar south of general store.
 - Talk to Dr. Harlow about Morgan **[2]**.
 - Give Dr. Harlow a beer to get stake.
@@ -252,20 +252,19 @@ The openness of the game means there are a huge number of backup strats availabl
 ### Al Kharid
 - Restore run energy by entering and exiting clan wars portal to the west.
 - Clan wars bank.
-    - **[BANK]**: Wizard hat, staff, all mind/air/water runes, 5 wizard mind bombs, 
+    - **[BANK]**: Wizard hat, staff, all mind/air/water runes, 5 wizard mind bombs, log, tinderbox, mold, copper, tin, milk, egg, flour
     - ![bank](https://i.imgur.com/CtGxNt9.png)
-    - log, tinderbox, mold, copper, tin, milk, egg, flour
 - Walk to Al Kharid Palace.
 - Start PAR **[1]**.
 - Smelt bronze bar in furnace to the west.
 - Talk to Osman to learn what to do **[1,2]**.
-- Talk to Osman to give bar and mold.
+- Talk to Osman again to give bar and mold.
 - Home teleport.
 - Start CA by talking to cook in Lumby Kitchen.
 - Finish CA by talking to cook again.
 - Reclaim runes at magic tutor.
 - Walk to chicken coop east of Draynor manor.
-- Light fire as soon as you get there chicken coop.
+- Light fire as soon as you get in the chicken coop.
 - Watch this fire and kill chickens, and pick up the ashes quickly.
 - Kill 25 chickens with magic:
     - Pick up 25 bones in the process.
@@ -309,9 +308,9 @@ The openness of the game means there are a huge number of backup strats availabl
 - Enter manor and collect in this order:
     - Fish food on the 2nd floor
     - Poison in the kitchen
-    - Oil can in the basement **[BA, D, BA, EF, C, E]**
+    - Oil can in the basement, solution to the level puzzle is: **[BA, D, BA, EF, C, E]**
 - Complete VS by killing Count Draynor.
-- Drop all mage equipment as you walk. (Wizard hat, staff, runes)
+- Drop all mage equipment and wines as you walk.
 - Exit manor in east room, collecting the spade before you do so.
 - Use spade on compost heap to west of manor for key.
 - Use poisoned fish food on fountain to southwest of manor, then search fountain.
