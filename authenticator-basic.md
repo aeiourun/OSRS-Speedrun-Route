@@ -124,7 +124,7 @@ https://github.com/aeiourun/OSRS-Speedrun-Route/blob/master/authenticator-verbos
 - Clan wars teleport.
     - **[Split]**
    
-### Clan Wars
+### Al Kharid
 - Restore run energy in portal.
 - Clan wars bank.
     - **[BANK]**: Mage gear, mind/air/water runes, wizard mind bombs, log, tinderbox, mold, copper, tin, milk, egg, flour
@@ -170,7 +170,7 @@ https://github.com/aeiourun/OSRS-Speedrun-Route/blob/master/authenticator-verbos
 - Run to Falador.
 - Buy iron chainbody with ETC coins.
 - Bank at Fally east.
-    - **[BANK]**: Spade, chronicle, cadava berries, cabbage, dyes, iron chain, bronze med and 4 wines
+    - **[BANK]**: Spade, chronicle, cadava berries, cabbage, dyes, iron chain, bronze med and ~3 wines
     - ![bank](https://i.imgur.com/3pZc9Bb.png)
 - Finish PT.
 - Start BKF **[1,1]**.
