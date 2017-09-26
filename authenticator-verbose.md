@@ -16,8 +16,8 @@ Timing ends upon entering the Champions guild, which requires 32 quest points.
 - Skippy is not allowed. 
 - Timing must be RTA. 
 - Mouse cursor must be visible.
-- Multilogging is allowed at the moment, but must be noted with submission of the run.
 - Must use the official game client.
+- Multilogging is allowed at the moment, but must be noted with submission of the run.
 
 (Multilogging is any other account having a direct effect on the run that the runner could control, I.E. Manipulating NPCs on an alt account, or picking up the ashes from another player's fire.)
 
