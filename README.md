@@ -8,13 +8,13 @@ This git repository stores up to date and archived route notes for the most acti
 
 http://www.speedrun.com/2007scape#F2P_Champions_Guild
 
-#### Files
+### Files
 
-**authenticator-verbose.md:** Complete route notes. Recommended for learning the route.
+**[authenticator-verbose.md](https://github.com/aeiourun/OSRS-Speedrun-Route/blob/master/authenticator-verbose.md):** Complete route notes. Recommended for learning the route.
 
-**authenticator-basic.md:** Bare bones route notes. Technically contains all information needed for a run, but not for the uninitiated.
+**[authenticator-basic.md](https://github.com/aeiourun/OSRS-Speedrun-Route/blob/master/authenticator-basic.md):** Bare bones route notes. Technically contains all information needed for a run, but not for the uninitiated.
 
- **old-route.txt:** Deprecated route notes. Outdated, but neat.
+**[old-route.txt](https://github.com/aeiourun/OSRS-Speedrun-Route/blob/master/old-route.txt):** Deprecated route notes. Outdated, but neat.
 
 
 ## Links:
@@ -23,14 +23,19 @@ Speedrun.com: http://www.speedrun.com/2007scape
 
 Discord: https://discord.gg/cS6w8z6
 
-Current world record: http://www.speedrun.com/run/zq6g0r5y
+Current world record: https://www.speedrun.com/run/y45g5ldm
 
 
-## Routed and revised by:
+## Shoutouts:
 
-TheDarkestUno, Muffyn, and aeiou.
+A lot of people have put work into routing and refining this run. To many to mention, thank you everyone.
 
-(Big shoutout to Muffyn for putting in work)
+#### Big Shoutouts to:
+
+TheDarkestUno
+Muffyn
+Metruption
+Dahun
 
 ## About
 
@@ -40,6 +45,6 @@ aeiou
 
 #### Questions? Suggestions? Mistakes?
 
-Submit a pull request, drop by the discord, or shoot me an email.
+Drop by the discord, or shoot me twitter message.
 
-Email: aeiourun14@gmail.com
+https://twitter.com/aeioufootball
