@@ -146,7 +146,7 @@ The openness of the game means there are a huge number of backup strats availabl
 ### Falador
 - Run to Fally bar.
 - Buy 1 Asgarnian Ale and 6 Mind Bombs.
-- Buy woad leaves from Wynston in Fally park **[1,4]**.
+- Buy 2 woad leaves from Wynson in Fally park **[1,4]**.
 - Bank at falador east.
     - **[BANK]**: All coins, pickaxe, 2 buckets
     - ![bank](https://i.imgur.com/OMXZFpk.png)
