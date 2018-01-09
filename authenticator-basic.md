@@ -49,7 +49,7 @@ https://github.com/aeiourun/OSRS-Speedrun-Route/blob/master/authenticator-verbos
  
 ### Falador
 - Buy 1 Asgarnian Ale and 6 Mind Bombs.
-- Buy wood leaves **[1,4]**.
+- Buy 2 woad leaves **[1,4]**.
 - Bank at Falador east.
     - **[BANK]**: All coins, pickaxe, 2 buckets
     - ![bank](https://i.imgur.com/OMXZFpk.png)
