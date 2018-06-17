@@ -88,6 +88,7 @@ The openness of the game means there are a huge number of backup strats availabl
 - Timer starts when you press accept on the character creation screen.
  
 ### Tutorial Island
+*I would recommend checking out the tut. island world record for general ideas of how to do this section: https://www.speedrun.com/2007scape#Tutorial_Island*
 - Talk to the runescape guide **[1]**.
 - Click the door to exit the starting building as soon as the guide's first dialogue set has completed.
     - You do not need to talk to him the 2nd time.
@@ -105,7 +106,8 @@ The openness of the game means there are a huge number of backup strats availabl
     - Clicking the poll both, keeping a "Open Door" prompt open
     - Clicking that prompt when the poll booth text starts
 - Finish the prayer guide segment.
-- Don’t forget to become an Ironman **[2]**.
+- Become an ironman by talking to Paul **[2]**.
+    - Select the "Standard Iron Man" option, and permanent
 - Finish the magic guide segment.
 - Teleport off of Tutorial Island.
     - **[Split]**
@@ -157,20 +159,21 @@ The openness of the game means there are a huge number of backup strats availabl
 - Run to Betty's magic store. (Watch for highwaymen).
     - BUY: Eye of Newt, Wizard hat, 30 air runes, 40 mind runes, 55 water runes, 65 earth runes
 - Talk to Redbeard to start PT **[1,1]**.
-- Travel to Karamja.
+- Travel to Karamja **[1]**.
 - Head to Karamja bar.
     - BUY: 3 beers, rum
 - Pick 10 bananas at the plantation.
-- Walk east to Luthas and talk to him for a job.
+- Walk east to Luthas and talk to him for a job **[1]**.
 - Complete the job and stash the rum in the banana crate: 
     - Fill banana crate
     - Deposit rum in crate
     - Claim payment from Luthas
-- Travel back to the mainland.
+- Travel back to the mainland **[1,2,1]**.
     - **[Split]**
 - Grab white apron from fishing store.
 - Walk south to food store.
 - BUY: 2 pots of flour, raw meat.
+- Talk to Wydin to get a job **[1]**.
 - Equip apron, to enter back room and grab rum from banana crate.
  
 ### Rimmington
@@ -184,7 +187,7 @@ The openness of the game means there are a huge number of backup strats availabl
 - Start WP by talking to witch in house to the south.**[1,1]**
 - Air strike a rat in the archery shop and pick up the tail.
 - Turn in everything to complete WP.
-- Walk to redbeard
+- Walk to redbeard and talk to him to get key.
  
 ### Draynor Village
 - Use water on clay.
@@ -206,7 +209,7 @@ The openness of the game means there are a huge number of backup strats availabl
     - ![bank](https://i.imgur.com/hA2VvfL.png)
 - Run south to Wizard's tower.
 - Use ladder to go to basement.
-- Talk to Wizard for RM.
+- Talk to Wizard for RM **[3,1,1]**.
 - Grab skull from basement.
 - **[Deathwarp]** on wizard with package, skull, chronicle.
     - **[Split]**
@@ -232,7 +235,7 @@ The openness of the game means there are a huge number of backup strats availabl
 - Run to Varrock bar south of general store.
 - Talk to Dr. Harlow about Morgan **[2]**.
 - Give Dr. Harlow a beer to get stake.
-- Buy a beer from the bartender.
+- Buy a beer from the bartender **[1]**.
 - Get message from PT Chest upstairs in the bar.
 - Talk to Aubury in the rune shop **[3]**, speak again for package.
 - Run to Varrock castle.
@@ -260,7 +263,7 @@ The openness of the game means there are a huge number of backup strats availabl
 - Talk to Osman to learn what to do **[1,2]**.
 - Talk to Osman again to give bar and mold.
 - Home teleport.
-- Start CA by talking to cook in Lumby Kitchen.
+- Start CA by talking to cook in Lumby Kitchen **[1,1,1]**.
 - Finish CA by talking to cook again.
 - Reclaim runes at magic tutor.
 - Walk to chicken coop east of Draynor manor.
@@ -285,7 +288,7 @@ The openness of the game means there are a huge number of backup strats availabl
 - Walk east to Leela, who is northwest of the jail.
 - Talk to Leela to get key.
 - Enter Draynor jail, minding the guards.
-- Give guard that you can talk to beers.
+- Give guard that you can talk to beers **[1]**.
 - Use rope on Keli to tie her up.
 - Enter the jail cell and talk to Prince Ali to rescue him.
 - Bank at Draynor.
@@ -343,7 +346,7 @@ The openness of the game means there are a huge number of backup strats availabl
     - **[Split]**
 - Go upstairs and die to a white knight.
 - Chronicle teleport.
-- Make RJ potion at Varrock Apothecary.
+- Make RJ potion at Varrock Apothecary **[3,1]**.
 - Run to Juliet and give her the potion.
 - Bank at V West.
     - **[BANK]**: 3 DS keys, chronicle, final fight stuff (Armor, shield, cape, gloves, ale, wine, bread)
