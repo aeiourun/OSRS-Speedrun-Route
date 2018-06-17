@@ -60,15 +60,16 @@ https://github.com/aeiourun/OSRS-Speedrun-Route/blob/master/authenticator-verbos
 - Run to Betty's magic store.
     - BUY: Eye of Newt, Wizard hat, 30 air runes, 40 mind runes, 55 water runes, 65 earth runes
 - Talk to Redbeard to start PT **[1,1]**.
-- Travel to Karamja.
+- Travel to Karamja **[1]**.
     - BUY: 3 beers, rum
 - Pick 10 bananas.
-- Get a job with Luthas, fill banana crate, deposit rum in crate, claim payment from Luthas.
-- Travel back to the mainland.
+- Get a job with Luthas **[1]**, fill banana crate, deposit rum in crate, claim payment from Luthas.
+- Travel back to the mainland **[1,2,1]**.
     - **[Split]**
 - Grab white apron.
 - Wyndin's food store.
     - BUY: 2 pot of flour, raw meat.
+- Talk to Wydin to get a job **[1]**.
 - Grab rum.
 - Head to Rimmington mine
  
@@ -80,7 +81,7 @@ https://github.com/aeiourun/OSRS-Speedrun-Route/blob/master/authenticator-verbos
 - Start WP.
 - Kill rat.
 - End WP.
-- Head to Redbeard
+- Head to Redbeard and talk to him to get key.
  
 ### Draynor Village
 - Use water on clay.
@@ -92,7 +93,7 @@ https://github.com/aeiourun/OSRS-Speedrun-Route/blob/master/authenticator-verbos
     - **[BANK]**: Air talisman, chronicle
     - ![bank](https://i.imgur.com/hA2VvfL.png)
 - Run to Wizard's tower.
-- Talk to Wizard for RM.
+- Talk to Wizard for RM **[3,1,1]**.
 - Grab skull.
 - **[Deathwarp]** on wizard with package, skull, chronicle.
     - **[Split]**
@@ -112,7 +113,7 @@ https://github.com/aeiourun/OSRS-Speedrun-Route/blob/master/authenticator-verbos
 - Talk to Gypsy and start DS **[1,3,3, cutscene, 4]**. (screenshot incantation)
 - Talk to Romeo.
 - Buy pink skirt and red cape.
-- Give Dr. Harlow a beer, then buy another.
+- Give Dr. Harlow a beer, then buy another from bartender **[1]**.
 - PT Chest upstairs.
 - Talk to Aubury **[3]**, speak again for package.
 - Talk to Sir Prysin about the Silverlight **[3,1,2,1]**.
@@ -134,7 +135,7 @@ https://github.com/aeiourun/OSRS-Speedrun-Route/blob/master/authenticator-verbos
 - Talk to Osman to learn what to do **[1,2]**.
 - Talk to Osman to give bar and mold.
 - Home teleport.
-- Finish CA.
+- Finish CA **[1,1,1]** then talk again.
 - Reclaim runes.
 - Light fire at chicken coop.
 - Kill chickens, get 25 bones, sip a mind bomb every time you level up, use magic prayer.
@@ -145,7 +146,7 @@ https://github.com/aeiourun/OSRS-Speedrun-Route/blob/master/authenticator-verbos
 - Have Ned make you a wig **[1,2,1]**, dye yellow.
 - Buy a rope from Ned.
 - Get key from Leela.
-- Give guard beers, tie up Keli, rescue Prince Ali.
+- Give guard beers **[1]**, tie up Keli, rescue Prince Ali.
 - Bank at draynor.
     - **[BANK]**: 25 bones and RM notes
 - Turn in bones upstairs **[3,3,2, then re-talk]**.
@@ -184,7 +185,7 @@ https://github.com/aeiourun/OSRS-Speedrun-Route/blob/master/authenticator-verbos
     - **[Split]**
 - Die to a white knight.
 - Chronicle teleport.
-- Make potion at Apothecary.
+- Make potion at Apothecary **[3,1]**.
 - Run to Juliet.
 - Bank at V West
     - **[BANK]**: 3 DS keys, chronicle, final fight stuff (Armor, shield, cape, ale, wine, bread)
