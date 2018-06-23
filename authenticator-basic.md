@@ -78,7 +78,7 @@ https://github.com/aeiourun/OSRS-Speedrun-Route/blob/master/authenticator-verbos
 - Pick 5 onions and 1 cabbage.
 - Burn meat.
 - Fill bucket with water.
-- Start WP.
+- Start WP [1,1].
 - Kill rat.
 - End WP.
 - Head to Redbeard and talk to him to get key.
@@ -174,7 +174,7 @@ https://github.com/aeiourun/OSRS-Speedrun-Route/blob/master/authenticator-verbos
     - **[BANK]**: Spade, chronicle, cadava berries, cabbage, dyes, iron chain, bronze med and ~3 wines
     - ![bank](https://i.imgur.com/3pZc9Bb.png)
 - Finish PT.
-- Start BKF **[1,1]**.
+- Start BKF **[1,1,1]**.
 - Run to BKF.
 - Hidden route, then door, drop cabbage down hole.
 - Run through wilderness to GD.
@@ -185,7 +185,7 @@ https://github.com/aeiourun/OSRS-Speedrun-Route/blob/master/authenticator-verbos
     - **[Split]**
 - Die to a white knight.
 - Chronicle teleport.
-- Make potion at Apothecary **[3,1]**.
+- Make potion at Apothecary **[2,1]**.
 - Run to Juliet.
 - Bank at V West
     - **[BANK]**: 3 DS keys, chronicle, final fight stuff (Armor, shield, cape, ale, wine, bread)
