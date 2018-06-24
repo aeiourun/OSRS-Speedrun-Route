@@ -332,7 +332,7 @@ The openness of the game means there are a huge number of backup strats availabl
 - Finish PT by digging in the park, running away from gardener, digging again.
 - Drop spade and chest.
 - Run to Fally castle.
-- Start BKF. **[1,1]**.
+- Start BKF. **[1,1,1]**.
 - Run to BKF.
 - Equip bronze helm and iron chainbody.
 - Enter castle and follow hidden route to spy at grate.
@@ -346,7 +346,7 @@ The openness of the game means there are a huge number of backup strats availabl
     - **[Split]**
 - Go upstairs and die to a white knight.
 - Chronicle teleport.
-- Make RJ potion at Varrock Apothecary **[3,1]**.
+- Make RJ potion at Varrock Apothecary **[2,1]**.
 - Run to Juliet and give her the potion.
 - Bank at V West.
     - **[BANK]**: 3 DS keys, chronicle, final fight stuff (Armor, shield, cape, gloves, ale, wine, bread)
