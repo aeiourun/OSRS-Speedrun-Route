@@ -107,7 +107,8 @@ The openness of the game means there are a huge number of backup strats availabl
     - Clicking that prompt when the poll booth text starts
 - Finish the prayer guide segment.
 - Become an ironman by talking to Paul **[2]**.
-    - Select the "Standard Iron Man" option, and permanent
+    - Select the "Standard Iron Man" option, and setup bank pin now
+    - You will need to enter a bank pin twice here, and the pin cannot be too simple or it will be rejected
 - Finish the magic guide segment.
 - Teleport off of Tutorial Island.
     - **[Split]**
@@ -130,6 +131,7 @@ The openness of the game means there are a huge number of backup strats availabl
 - Grab log from upstairs lumby castle.
 - Deposit all items at upstairs bank.
     - **[BANK]**: Nothing
+    - Delete bank pin by talking to banking tutor **[3]**
 - Start RG by talking to priest at lumby church **[3,1]**.
 - Walk to Father Urhney in west lumby swamp.
 - Get ghostspeak amulet from him **[2,1]**.
@@ -163,7 +165,7 @@ The openness of the game means there are a huge number of backup strats availabl
 - Head to Karamja bar.
     - BUY: 3 beers, rum
 - Pick 10 bananas at the plantation.
-- Walk east to Luthas and talk to him for a job **[1]**.
+- Equip white apron and click on back store door **[1]**.
 - Complete the job and stash the rum in the banana crate: 
     - Fill banana crate
     - Deposit rum in crate
@@ -263,7 +265,7 @@ The openness of the game means there are a huge number of backup strats availabl
 - Talk to Osman to learn what to do **[1,2]**.
 - Talk to Osman again to give bar and mold.
 - Home teleport.
-- Start CA by talking to cook in Lumby Kitchen **[1,1,1]**.
+- Start CA by talking to cook in Lumby Kitchen **[1,1]**.
 - Finish CA by talking to cook again.
 - Reclaim runes at magic tutor.
 - Walk to chicken coop east of Draynor manor.
@@ -303,7 +305,7 @@ The openness of the game means there are a huge number of backup strats availabl
     - **[Split]**
 - Deathwarp on Al Kharid palace guards.
 - Run to Draynor bank.
-- Bank at Draynor bank.
+- Bank at Draynor bank. (Optionally, skip running to Draynor bank by logging into pvp world and using lumby chest bank)
     - **[BANK]**: Mage gear, all runes, mind bomb, stake, hammer, garlic, chronicle, ~10 wines.
     - ![bank](https://i.imgur.com/KrK9bSw.png)
 - Run to Draynor Manor.
