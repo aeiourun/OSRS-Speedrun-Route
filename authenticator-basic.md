@@ -15,7 +15,7 @@ https://github.com/aeiourun/OSRS-Speedrun-Route/blob/master/authenticator-verbos
 ### Tutorial Island
 - Runescape guide **[1]**.
 - Enable shift-drop, drop your items as you can.
-- Become an Ironman **[2]**.
+- Become an Ironman/Set Bank Pin **[2]**.
     - **[Split]**
 
 ### Lumbridge I
@@ -32,6 +32,7 @@ https://github.com/aeiourun/OSRS-Speedrun-Route/blob/master/authenticator-verbos
 - Grab log from upstairs lumby castle.
 - Deposit all items at upstairs bank.
     - **[BANK]**: Nothing
+    - Delete bank pin by talking to banking tutor **[3]**
 - Start RG **[3,1]**.
 - Get ghostspeak amulet **[2,1]**.
 - Clan wars teleport, walk in portal.
@@ -69,7 +70,7 @@ https://github.com/aeiourun/OSRS-Speedrun-Route/blob/master/authenticator-verbos
 - Grab white apron.
 - Wyndin's food store.
     - BUY: 2 pot of flour, raw meat.
-- Talk to Wydin to get a job **[1]**.
+- Equip white apron and click on back store door **[1]**.
 - Grab rum.
 - Head to Rimmington mine
  
@@ -79,7 +80,7 @@ https://github.com/aeiourun/OSRS-Speedrun-Route/blob/master/authenticator-verbos
 - Burn meat.
 - Fill bucket with water.
 - Start WP [1,1].
-- Kill rat.
+- Air strike rat for tail.
 - End WP.
 - Head to Redbeard and talk to him to get key.
  
@@ -135,7 +136,7 @@ https://github.com/aeiourun/OSRS-Speedrun-Route/blob/master/authenticator-verbos
 - Talk to Osman to learn what to do **[1,2]**.
 - Talk to Osman to give bar and mold.
 - Home teleport.
-- Finish CA **[1,1,1]** then talk again.
+- Finish CA **[1,1]** then talk again.
 - Reclaim runes.
 - Light fire at chicken coop.
 - Kill chickens, get 25 bones, sip a mind bomb every time you level up, use magic prayer.
@@ -157,7 +158,7 @@ https://github.com/aeiourun/OSRS-Speedrun-Route/blob/master/authenticator-verbos
 - Run to finish PAR.
     - **[Split]**
 - Deathwarp on palace guards.
-- Run to Draynor Bank
+- Run to Draynor Bank (Optionally, skip running to Draynor bank by logging into pvp world and using lumby chest bank)
     - **[BANK]**: Mage gear, all runes, mind bomb, stake, hammer, garlic, chronicle, ~10 wines.
     - ![bank](https://i.imgur.com/KrK9bSw.png)
 - Run to Draynor Manor.
