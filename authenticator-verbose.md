@@ -301,7 +301,7 @@ The openness of the game means there are a huge number of backup strats availabl
 - Die to wizard.
    
 ### Lumbridge III
-- Run to Al Kharid palace to finish PAR.
+- Run to Al Kharid palace to finish PAR **[1]**.
     - **[Split]**
 - Deathwarp on Al Kharid palace guards.
 - Run to Draynor bank.
