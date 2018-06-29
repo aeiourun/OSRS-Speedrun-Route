@@ -10,7 +10,7 @@ http://www.speedrun.com/2007scape#F2P_Champions_Guild
 
 ### Files
 
-**[authenticator-verbose.md](https://github.com/aeiourun/OSRS-Speedrun-Route/blob/master/authenticator-verbose.md):** Complete route notes. Recommended for learning the route.
+**[authenticator-verbose.md](https://github.com/aeiourun/OSRS-Speedrun-Route/blob/master/authenticator-verbose.md):** Complete route notes. **START WITH THIS GUIDE**
 
 **[authenticator-basic.md](https://github.com/aeiourun/OSRS-Speedrun-Route/blob/master/authenticator-basic.md):** Bare bones route notes. Technically contains all information needed for a run, but not for the uninitiated.
 
