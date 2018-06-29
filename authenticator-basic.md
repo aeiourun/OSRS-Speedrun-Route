@@ -155,10 +155,10 @@ https://github.com/aeiourun/OSRS-Speedrun-Route/blob/master/authenticator-verbos
 - Die to wizard.
    
 ### Lumbridge III
-- Run to finish PAR.
+- Run to finish PAR **[1]**.
     - **[Split]**
 - Deathwarp on palace guards.
-- Run to Draynor Bank (Optionally, skip running to Draynor bank by logging into pvp world and using lumby chest bank)
+- Run to Draynor Bank (Optionally, use lumby pvp world bank chest)
     - **[BANK]**: Mage gear, all runes, mind bomb, stake, hammer, garlic, chronicle, ~10 wines.
     - ![bank](https://i.imgur.com/KrK9bSw.png)
 - Run to Draynor Manor.
