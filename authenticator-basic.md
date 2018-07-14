@@ -131,7 +131,7 @@ https://github.com/aeiourun/OSRS-Speedrun-Route/blob/master/authenticator-verbos
 - Clan wars bank.
     - **[BANK]**: Mage gear, mind/air/water runes, wizard mind bombs, log, tinderbox, mold, copper, tin, milk, egg, flour
     - ![bank](https://i.imgur.com/CtGxNt9.png)
-- Start PAR.
+- Start PAR **[1]**.
 - Smelt bronze bar.
 - Talk to Osman to learn what to do **[1,2]**.
 - Talk to Osman to give bar and mold.
