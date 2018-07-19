@@ -69,8 +69,6 @@ Your runescape login will be "usernamerun+1@gmail.com" and the authentication em
 
 ### General Running Knowledge
 If you log in to a new account, log out without finishing character creation, then log back in - You will no longer have the character creation screen, and the run is considered started here.
-    
-The first time you change world with an authenticator account you will be brought back to the authenticator verification. Hit cancel, and then enter your username and password again.
 
 Hold spacebar through all dialogue.
 
@@ -110,7 +108,7 @@ The openness of the game means there are a huge number of backup strats availabl
     - Select the "Standard Iron Man" option, and setup bank pin now
     - You will need to enter a bank pin twice here, and the pin cannot be too simple or it will be rejected
 - Finish the magic guide segment.
-- Teleport off of Tutorial Island.
+- Teleport off of Tutorial Island **[1]**.
     - **[Split]**
 
 ### Lumbridge I
