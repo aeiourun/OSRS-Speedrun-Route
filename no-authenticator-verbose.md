@@ -13,12 +13,13 @@ https://github.com/aeiourun/OSRS-Speedrun-Route/blob/master/README.md
 Timing starts upon clicking "Accept" on the character creation screen on Tutorial Island. 
 Timing ends upon entering the Champions guild, which requires 32 quest points. 
 - Must be an Ironman account.
-- The account must not login to a Members' only world during the run. 
+- The account must not log in to a Members' only world during the run. 
 - Skippy is not allowed. 
 - Timing must be RTA. 
 - Mouse cursor must be visible.
 - Must use the official game client.
-- Multilogging is allowed at the moment, but must be noted with submission of the run.
+- Multilogging is allowed, but must be noted with submission of the run.
+	- If multilogging is used the run will be marked as using it on the leaderboard.
 
 (Multilogging is any other account having a direct effect on the run that the runner could control, I.E. Manipulating NPCs on an alt account, or picking up the ashes from another player's fire.)
 
