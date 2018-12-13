@@ -1,4 +1,4 @@
-# Champions Guild Authenticator Route (Verbose)
+# Champions Guild No Authenticator Route (Verbose)
 
 ## Notes
 
