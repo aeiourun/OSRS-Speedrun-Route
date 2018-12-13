@@ -208,7 +208,7 @@ The openness of the game means there are a huge number of backup strats availabl
 - Go upstairs and open the PT chest
 - Read the message and drop it
 - Walk to Juliet on the second floor of the house west of Varrock
-- Talk to Juliet to start RAG **[1,1]**
+- Talk to Juliet to start RJ **[1,1]**
 - Walk to Zaff's Staffs
 - BUY: 1 normal staff
 - Talk to Gypsey Aris ***[1,3,3,cutscene]*
@@ -236,7 +236,7 @@ The openness of the game means there are a huge number of backup strats availabl
 - Talk to Juliet and watch the cutscene
 - Walk to Varrock west bank and deposit everything using the deposit box
 - Walk to Romeo
-- Talk to him to complete RAG
+- Talk to him to complete RJ
 - Switch to a PVP world
 - Deathwarp using a guard
 
