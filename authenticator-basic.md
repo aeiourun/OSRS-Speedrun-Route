@@ -1,3 +1,12 @@
+# WARNING
+
+This is an old route that is now outdated.
+It is kept now just for archiving purposes.
+Check out the "no authenticator" route files for more up to date information.
+https://github.com/aeiourun/OSRS-Speedrun-Route/blob/master/no-authenticator-verbose.md
+
+#  WARNING
+
 # Champions Guild Authenticator Route (Basic)
 
 ## Notes
