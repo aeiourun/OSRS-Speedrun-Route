@@ -10,9 +10,11 @@ http://www.speedrun.com/2007scape#F2P_Champions_Guild
 
 ### Files
 
-**[authenticator-verbose.md](https://github.com/aeiourun/OSRS-Speedrun-Route/blob/master/authenticator-verbose.md):** Complete route notes. **START WITH THIS GUIDE**
+**[no-authenticator-verbose.md](https://github.com/aeiourun/OSRS-Speedrun-Route/blob/master/no-authenticator-verbose.md):** Complete route notes for the current World Record route. **START WITH THIS GUIDE**
 
-**[authenticator-basic.md](https://github.com/aeiourun/OSRS-Speedrun-Route/blob/master/authenticator-basic.md):** Bare bones route notes. Technically contains all information needed for a run, but not for the uninitiated.
+**[authenticator-verbose.md](https://github.com/aeiourun/OSRS-Speedrun-Route/blob/master/authenticator-verbose.md):** Complete route notes for the old route that used authenticator.
+
+**[authenticator-basic.md](https://github.com/aeiourun/OSRS-Speedrun-Route/blob/master/authenticator-basic.md):** Bare bones route notes for the old route that used authenticator.. Technically contains all information needed for a run, but not for the uninitiated.
 
 **[old-route.txt](https://github.com/aeiourun/OSRS-Speedrun-Route/blob/master/old-route.txt):** Deprecated route notes. Outdated, but neat.
 
