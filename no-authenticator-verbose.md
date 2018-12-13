@@ -3,8 +3,9 @@
 ## Notes
 
 ### Introduction
-These are the verbose notes for the F2P Champions' Guild Ironman category. The goal of this category is to enter the champions guild, which requires 32 quest points.
-Please see the README.md file for complete introduction information. This route is currently the fastest known route, and was the culmination of a lot of work by the OSRS speedrunning community - with special notice to crasset.
+These are the verbose notes for the F2P Champions' Guild Ironman category. The goal of this category is to enter the champions guild, which requires 32 quest points. This route is currently the fastest known route, and was the culmination of a lot of work by the OSRS speedrunning community - with special notice to crasset.
+
+Please see the README.md file for complete speedrunning introduction information and links.
 
 https://github.com/aeiourun/OSRS-Speedrun-Route/blob/master/README.md
     
