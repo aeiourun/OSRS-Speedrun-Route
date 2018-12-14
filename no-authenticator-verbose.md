@@ -315,7 +315,7 @@ The openness of the game means there are a huge number of backup strats availabl
 - Deathwarp using the skeleton on the first floor
 - Switch to a PVP world
 - Use the PVP world bank chest
-	- WITHDRAW: Cronicle 2 wine, all coins, ashes, 3 beers, 2 flour, bucket of water, bucket of milk, 3 wool balls, yellow dye, pink skirt, red berry, egg
+	- BANK: Cronicle 2 wine, all coins, ashes, 3 beers, 2 flour, bucket of water, bucket of milk, 3 wool balls, yellow dye, pink skirt, red berry, egg
 - Switch to a non-PVP world
 - Complete Cook's Assistance
 - Walk to Draynor Village
