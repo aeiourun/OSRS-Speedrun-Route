@@ -135,7 +135,8 @@ The openness of the game means there are a huge number of backup strats availabl
 - Talk to the Doctor on the third floor to finish ETC **[1,2, re-talk]**
 - Minigame teleport to Clan Wars
 - Bank at the Clan Wars chest
-	- BANK: 1 Onion, all but one coins
+	- **[BANK]** 1 Onion, all but one coins
+	- ![bank](https://i.imgur.com/vVcFDHi.png)
 - Enter the Clan Wars portal and home teleport
 - Walk through the castle and out the back door
 - Walk to Draynor Village
@@ -178,7 +179,8 @@ The openness of the game means there are a huge number of backup strats availabl
 ### Falador 1
 - Try to take damage from guards on your way as you will be death warping soon
 - Walk to falador east bank 
-	- BANK: 20 coins, 1 tin, 1 copper
+	- **[BANK]** 20 coins, 1 tin, 1 copper
+	- ![bank](https://i.imgur.com/R58MG8o.png)
 - Walk to Wyson in falador park and buy 2 woad leaves **[1,4]**
 - Walk to the Furnace and smelt a bronze bar
 - Deathwarp using a guards
@@ -195,7 +197,8 @@ The openness of the game means there are a huge number of backup strats availabl
 - Switch to a PVP world
 - Deathwarp using a wizard
 - Use the pvp world chest
-	- BANK: All coins, the package, chest key, clay, 2 buckets, all mind and air runes
+	- **[BANK]** All coins, the package, chest key, clay, 2 buckets, all mind and air runes
+	- ![bank](https://i.imgur.com/uWFticx.png)
 - Switch to a non PVP world
 - Walk north to the east lumbridge cow pens
 - Milk a cow
@@ -244,7 +247,8 @@ The openness of the game means there are a huge number of backup strats availabl
 
 ### Draynor 2
 - Use the Lumbridge PVP world chest
-	- BANK: All but 9 coins, clay, spade, woad leaves, 3 redberries, 4 onions
+	- **[BANK]** All but 9 coins, clay, spade, woad leaves, 3 redberries, 4 onions
+	- ![bank](https://i.imgur.com/rRelsQG.png)
 - Walk to Draynor Village
 - Talk to Lady Keli to make a key imprint **[1,2,3,1,1,]**
 - Use your onions, redberries, and woad leaves on aggie to make 4 dyes
@@ -262,7 +266,8 @@ The openness of the game means there are a huge number of backup strats availabl
 
 ### Ice Mountain Area 1
 - Use the PVP world chest
-	- BANK: All dyes, all but one coins, bronze med helm, iron chainbody, cabbage, ghostspeak amulet, 3 wools, wine, shrimp, key imprinted clay
+	- **[BANK]** All dyes, all but one coins, bronze med helm, iron chainbody, cabbage, ghostspeak amulet, 3 wools, wine, shrimp, key imprinted clay
+	- ![bank](https://i.imgur.com/sTnmnzW.png)
 - Switch back to a normal world
 - Equip your ghostspeak amulet and talk to the ghost in the Lumbridge crypt **[1]**
 - Talk to Count Check to warp to Barbarian Village **[4,1]**
@@ -287,7 +292,8 @@ The openness of the game means there are a huge number of backup strats availabl
 ### Al Kharid 1
 - Enter and exit Clan Wars to restore run energy
 - Use the Clan Wars bank chest
-	- BANK: 1400 coins, staff, key imprint, bronze bar
+	- **[BANK]** 1400 coins, staff, key imprint, bronze bar
+	- ![bank](https://i.imgur.com/4RaVzML.png)
 - Walk to Prince Hassan and start PAR **[1]**
 - Talk to Osman to give him the bronze bar and key imprint **[1]**
 - Talk to Shantay to get send to Jail **[1,1,2,2]**
@@ -302,7 +308,8 @@ The openness of the game means there are a huge number of backup strats availabl
     - Use water strike while you have the runes, then air strike, then melee if needed.
 	- Drop your water runes if you need inventory spacebar
 - Walk to Draynor bank
-	- BANK: All air earth and mind runes, staff, hammer, stake, 1070 coins, garlic, closet key, mind bomb
+	- **[BANK]** All air earth and mind runes, staff, hammer, stake, 1070 coins, garlic, closet key, mind bomb
+	- ![bank](https://i.imgur.com/K8oRWaq.png)
 - Buy 5 wines from the wine shop
 - Buy a chronicle and 4 cards from Diango
 - Walk to Draynor manner
@@ -315,7 +322,8 @@ The openness of the game means there are a huge number of backup strats availabl
 - Deathwarp using the skeleton on the first floor
 - Switch to a PVP world
 - Use the PVP world bank chest
-	- BANK: Cronicle 2 wine, all coins, ashes, 3 beers, 2 flour, bucket of water, bucket of milk, 3 wool balls, yellow dye, pink skirt, red berry, egg
+	- **[BANK]** Cronicle 2 wine, all coins, ashes, 3 beers, 2 flour, bucket of water, bucket of milk, 3 wool balls, yellow dye, pink skirt, red berry, egg
+	- ![bank](https://i.imgur.com/rBgrGrf.png)
 - Switch to a non-PVP world
 - Complete Cook's Assistance
 - Walk to Draynor Village
@@ -328,7 +336,8 @@ The openness of the game means there are a huge number of backup strats availabl
 - Talk to Prince Ali
 - Buy roughly 14 wines from Fortunato
 - Use Draynor bank
-	- BANK: RM notes and 25 bones
+	- **[BANK]** RM notes and 25 bones
+	- ![bank](https://i.imgur.com/mig4tJc.png)
 - Walk to the Wizards Tower
 - Talk to to get the DS key **[3,3,2,retalk]**
 - Talk to Sedridor to complete RM
@@ -343,7 +352,9 @@ Pick up the skull from the altar
 - Deathwarp using Palace Guards
 - Switch to a PVP world
 - Use the PVP world bank chest
-	- BANK: Three DS keys, 1 beer, cronicle, all wines
+	- **[BANK]** Three DS keys, 1 beer, cronicle, all wines
+	- ![bank](https://i.imgur.com/xKdpeLk.png)
+- (Optional) Get the Ironman armor set and equip it
 - Cronicle teleport
 - Walk to Varrock Palace
 - Talk to Sir Prysin to get Silverlight
