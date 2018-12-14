@@ -195,7 +195,7 @@ The openness of the game means there are a huge number of backup strats availabl
 - Switch to a PVP world
 - Deathwarp using a wizard
 - Use the pvp world chest
-	- Withdraw: All coins, the package, the key, clay, 2 buckets, all mind and air runes
+	- BANK: All coins, the package, chest key, clay, 2 buckets, all mind and air runes
 - Switch to a non PVP world
 - Walk north to the east lumbridge cow pens
 - Milk a cow
@@ -302,7 +302,7 @@ The openness of the game means there are a huge number of backup strats availabl
     - Use water strike while you have the runes, then air strike, then melee if needed.
 	- Drop your water runes if you need inventory spacebar
 - Walk to Draynor bank
-	- BANK: All air earth and mind runes, staff, hammer, stake, 1070 coins, garlic, key, mind bomb
+	- BANK: All air earth and mind runes, staff, hammer, stake, 1070 coins, garlic, closet key, mind bomb
 - Buy 5 wines from the wine shop
 - Buy a chronicle and 4 cards from Diango
 - Walk to Draynor manner
