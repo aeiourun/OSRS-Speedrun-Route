@@ -262,7 +262,7 @@ The openness of the game means there are a huge number of backup strats availabl
 
 ### Ice Mountain Area 1
 - Use the PVP world chest
-- WITHDRAW: All dyes, all but one coins, bronze med helm, iron chainbody, cabbage, ghostspeak amulet, 3 wools, wine, shrimp, key imprinted clay
+	- BANK: All dyes, all but one coins, bronze med helm, iron chainbody, cabbage, ghostspeak amulet, 3 wools, wine, shrimp, key imprinted clay
 - Switch back to a normal world
 - Equip your ghostspeak amulet and talk to the ghost in the Lumbridge crypt **[1]**
 - Talk to Count Check to warp to Barbarian Village **[4,1]**
