@@ -113,7 +113,7 @@ The openness of the game means there are a huge number of backup strats availabl
 	- SELL: Bronze sword, wooden shield, bow, earth rune, water rune
 	- BUY: Sheers, hammer
 - Walk to the sheep pen and sheer 3 sheep
-- Walk around the east of the sheep pen and pick 3 onions from behind farmer fred's house
+- Walk around the east of the sheep pen and pick 4 onions from behind farmer fred's house
 
 ### Draynor 1
 - Walk to Draynor Manor
@@ -134,7 +134,8 @@ The openness of the game means there are a huge number of backup strats availabl
 - Pick up the tube from the locked skeleton room behind the stairs
 - Talk to the Doctor on the third floor to finish ETC **[1,2, re-talk]**
 - Minigame teleport to Clan Wars
-- Bank at the Clan Wars chest and withdraw an onion and all but one coins
+- Bank at the Clan Wars chest
+	- BANK: Onion, all but one coins
 - Enter the Clan Wars portal and home teleport
 - Walk through the castle and out the back door
 - Walk to Draynor Village
@@ -176,7 +177,8 @@ The openness of the game means there are a huge number of backup strats availabl
 
 ### Falador 1
 - Try to take damage from guards on your way as you will be death warping soon
-- Walk to falador east bank and withdraw: 20 coins, 1 tin, 1 copper
+- Walk to falador east bank 
+	- BANK: 20 coins, 1 tin, 1 copper
 - Walk to Wyson in falador park and buy 2 woad leaves **[1,4]**
 - Walk to the Furnace and smelt a bronze bar
 - Deathwarp using a guards
@@ -202,16 +204,16 @@ The openness of the game means there are a huge number of backup strats availabl
 ### Varrock 1
 - Walk north to pick 1 cadava berry and 4 red berries
 - Run to the east varrock enterance
-- Talk to Aubry for RM 3, **[retalk]**
+- Talk to Aubry for RM **[3,retalk]**
 - Walk to the blue moon inn and talk to the bartender to buy 1 beer **[1]**
-- Talk to Morgan to get the stake [talk, retalk]
+- Talk to Harlow to get the stake [3,retalk]
 - Go upstairs and open the PT chest
 - Read the message and drop it
 - Walk to Juliet on the second floor of the house west of Varrock
 - Talk to Juliet to start RJ **[1,1]**
 - Walk to Zaff's Staffs
 - BUY: 1 normal staff
-- Talk to Gypsey Aris ***[1,3,3,cutscene]*
+- Talk to Gypsey Aris **[1,3,3,cutscene]**
 - Remember the delrith incantaction
 - Fill up your bucket with water from the center fountain
 - Use the water with your dry clay
@@ -231,7 +233,7 @@ The openness of the game means there are a huge number of backup strats availabl
 - Walk to the fancy cloths shop
 - BUY: Pink skirt
 - Walk to the apothecary
-- Get the cadava potion **[2]**
+- Get the cadava potion **[2,1]**
 - Walk to Juliet
 - Talk to Juliet and watch the cutscene
 - Walk to Varrock west bank and deposit everything using the deposit box
@@ -248,7 +250,7 @@ The openness of the game means there are a huge number of backup strats availabl
 - Use your onions, redberries, and woad leaves on aggie to make 4 dyes
 - Use your red dye on your yellow dye to make an orange dye
 
-# Falador 1
+### Falador 1
 - Walk through Falador farm to Falador park
 - Dig in the center of the park, walk away to de-spawn the gardener, and dig again to complete PT
 - Drop the chest and your spade
@@ -285,7 +287,7 @@ The openness of the game means there are a huge number of backup strats availabl
 ### Al Kharid 1
 - Enter and exit Clan Wars to restore run energy
 - Use the Clan Wars bank chest
-	- Withdraw: 1400 coins, staff, key imprint, bronze bar
+	- BANK: 1400 coins, staff, key imprint, bronze bar
 - Walk to Prince Hassan and start PAR **[1]**
 - Talk to Osman to give him the bronze bar and key imprint **[1]**
 - Talk to Shantay to get send to Jail **[1,1,2,2]**
@@ -300,7 +302,7 @@ The openness of the game means there are a huge number of backup strats availabl
     - Use water strike while you have the runes, then air strike, then melee if needed.
 	- Drop your water runes if you need inventory spacebar
 - Walk to Draynor bank
-	- WITHDRAW: All air earth and mind runes, staff, hammer, stake, 1070 coins, garlic, key, mind bomb
+	- BANK: All air earth and mind runes, staff, hammer, stake, 1070 coins, garlic, key, mind bomb
 - Buy 5 wines from the wine shop
 - Buy a chronicle and 4 cards from Diango
 - Walk to Draynor manner
@@ -326,7 +328,7 @@ The openness of the game means there are a huge number of backup strats availabl
 - Talk to Prince Ali
 - Buy roughly 14 wines from Fortunato
 - Use Draynor bank
-	- WITHDRAW: RM notes and 25 bones
+	- BANK: RM notes and 25 bones
 - Walk to the Wizards Tower
 - Talk to to get the DS key **[3,3,2,retalk]**
 - Talk to Sedridor to complete RM
@@ -341,7 +343,7 @@ Pick up the skull from the altar
 - Deathwarp using Palace Guards
 - Switch to a PVP world
 - Use the PVP world bank chest
-	- WITHDRAW: Three DS keys, 1 beer, cronicle, all wines
+	- BANK: Three DS keys, 1 beer, cronicle, all wines
 - Cronicle teleport
 - Walk to Varrock Palace
 - Talk to Sir Prysin to get Silverlight
