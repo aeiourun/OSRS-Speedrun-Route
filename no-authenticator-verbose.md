@@ -79,7 +79,8 @@ The openness of the game means there are a huge number of backup strats availabl
 ## Run Start
 
 ### Start
-- Create your account name an submit it.
+- Log in.
+- Create your account name and submit it.
 - Timer starts when you press accept on the character creation screen.
  
 ### Tutorial Island
