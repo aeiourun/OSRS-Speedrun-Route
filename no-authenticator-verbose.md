@@ -113,7 +113,7 @@ The openness of the game means there are a huge number of backup strats availabl
 	- SELL: Bronze sword, wooden shield, bow, earth rune, water rune
 	- BUY: Sheers, hammer
 - Walk to the sheep pen and sheer 3 sheep
-- Walk around the east of the sheep pen and pick 4 onions from behind farmer fred's house
+- Walk around the east of the sheep pen and pick 5 onions from behind farmer fred's house
 
 ### Draynor 1
 - Walk to Draynor Manor
@@ -135,7 +135,7 @@ The openness of the game means there are a huge number of backup strats availabl
 - Talk to the Doctor on the third floor to finish ETC **[1,2, re-talk]**
 - Minigame teleport to Clan Wars
 - Bank at the Clan Wars chest
-	- BANK: Onion, all but one coins
+	- BANK: 1 Onion, all but one coins
 - Enter the Clan Wars portal and home teleport
 - Walk through the castle and out the back door
 - Walk to Draynor Village
