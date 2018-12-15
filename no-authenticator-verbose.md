@@ -1,4 +1,4 @@
-# Champions Guild No Authenticator Route (Verbose)
+- Talk to the runescape guide# Champions Guild No Authenticator Route (Verbose)
 
 ## Notes
 
@@ -85,9 +85,10 @@ The openness of the game means there are a huge number of backup strats availabl
  
 ### Tutorial Island
 *I would recommend checking out the tut. island world record for general ideas of how to do this section quickly: https://www.speedrun.com/2007scape#Tutorial_Island*
-- Talk to the runescape guide **[1]**.
-- Click the door to exit the starting building as soon as the guide's first dialogue set has completed.
-    - You do not need to talk to him the 2nd time.
+- Talk to the runescape guide **[1]**
+- Click the settings panel
+- Talk to the runescape guide again
+- Click the door to exit the starting building
 - Complete the Survival Expert segment
 - Restart if your shrimp burns.
 - As you have time running around, enable shift click drop.
@@ -124,7 +125,7 @@ The openness of the game means there are a huge number of backup strats availabl
 - Pick up the fish food from the second floor
 - Pick up the poison from the first floor kitchen
 - Combine fish food and poison
-- Go to the basement and light your logs to let them burn while you do the lever puzzle
+- Go to the basement and light your logs to let them burn while you do the lever puzzle, I would reccomend burning them after hitting B and A the first time
 - Complete the basement level puzzle to get the oil can **[BA, D, BA, EF, C, E]**
 - Don't forget to pick up your ashes AS SOON as your fire goes out
 - Pick up a bucket, bronze med helm, and spade by the mansion back door
@@ -319,11 +320,11 @@ The openness of the game means there are a huge number of backup strats availabl
 	- Use Water Strike otherwise
 	- Get him next to the skeleton on the southern wall
 	- Safespot him by walking to the west
-- Drop everything but 2 wines and the cronicle and the key
+- Drop everything but 2 wines and the chronicle and the key
 - Deathwarp using the skeleton on the first floor
 - Switch to a PVP world
 - Use the PVP world bank chest
-	- **[BANK]** Cronicle 2 wine, all coins, ashes, 3 beers, 2 flour, bucket of water, bucket of milk, 3 wool balls, yellow dye, pink skirt, red berry, egg
+	- **[BANK]** chronicle 2 wine, all coins, ashes, 3 beers, 2 flour, bucket of water, bucket of milk, 3 wool balls, yellow dye, pink skirt, red berry, egg
 	- ![bank](https://i.imgur.com/rBgrGrf.png)
 - Switch to a non-PVP world
 - Complete Cook's Assistance
@@ -353,10 +354,10 @@ Pick up the skull from the altar
 - Deathwarp using Palace Guards
 - Switch to a PVP world
 - Use the PVP world bank chest
-	- **[BANK]** Three DS keys, 1 beer, cronicle, all wines
+	- **[BANK]** Three DS keys, 1 beer, chronicle, all wines
 	- ![bank](https://i.imgur.com/xKdpeLk.png)
 - (Optional) Get the Ironman armor set and equip it
-- Cronicle teleport
+- chronicle teleport
 - Walk to Varrock Palace
 - Talk to Sir Prysin to get Silverlight
 	- Teleport as soon as the sword appears equipped to you
