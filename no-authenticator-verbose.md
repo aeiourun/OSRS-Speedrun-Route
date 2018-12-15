@@ -283,7 +283,7 @@ The openness of the game means there are a huge number of backup strats availabl
 - Run directly west from the fortress through wilderness to the goblin village.
 - Pick up 3 goblin mail, locations: Up ladder, in mid-left hut, behind generals’ (right side).
 - Dye 1 mail blue and 1 mail orange.
-- Start GD by talking to generals **[2]**
+- Start GD by talking to generals **[3,3]**
 - Use the armor on the generals and watch the cutscenes - orange, then blue, then brown.
 - Drop the gold bar
 - Walk to Falador
