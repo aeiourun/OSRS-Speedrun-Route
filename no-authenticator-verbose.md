@@ -211,9 +211,9 @@ The openness of the game means there are a huge number of backup strats availabl
 - Run to the east varrock enterance
 - Talk to Aubry for RM **[3,retalk]**
 - Walk to the blue moon inn and talk to the bartender to buy 1 beer **[1]**
-- Talk to Harlow to get the stake [3,retalk]
 - Go upstairs and open the PT chest
 - Read the message and drop it
+- Talk to Harlow to get the stake [3,retalk]
 - Walk to Juliet on the second floor of the house west of Varrock
 - Talk to Juliet to start RJ **[1,1]**
 - Walk to Zaff's Staffs
@@ -342,7 +342,7 @@ The openness of the game means there are a huge number of backup strats availabl
 - Walk to the Wizards Tower
 - Talk to to get the DS key **[3,3,2,retalk]**
 - Talk to Sedridor to complete RM
-Pick up the skull from the altar
+- Pick up the skull from the altar
 - Deathwarp using a Wizard
 
 ### Varrock 2
