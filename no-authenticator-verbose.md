@@ -1,4 +1,4 @@
-- Talk to the runescape guide# Champions Guild No Authenticator Route (Verbose)
+# Champions Guild No Authenticator Route (Verbose)
 
 ## Notes
 
