@@ -263,7 +263,6 @@ The openness of the game means there are a huge number of backup strats availabl
 - Walk to Falador castle
 - Talk to Sir Amik Varze on the third floor of the castle **[1,1,1]**
 - Switch to a PVP world
-- DROP all coins
 - Deathwarp using the two white knights on the top floor of the castle
 
 ### Ice Mountain Area 1
@@ -297,7 +296,7 @@ The openness of the game means there are a huge number of backup strats availabl
 	- **[BANK]** 1400 coins, staff, key imprint, bronze bar
 	- ![bank](https://i.imgur.com/4RaVzML.png)
 - Walk to Prince Hassan and start PAR **[1]**
-- Talk to Osman to give him the bronze bar and key imprint **[1]**
+- Talk to Osman to give him the bronze bar and key imprint **[1,2,Re-talk]**
 - Talk to Shantay to get send to Jail **[1,1,2,2]**
 
 ### Draynor 3
