@@ -144,6 +144,7 @@ The openness of the game means there are a huge number of backup strats availabl
 - Walk to Draynor Village
 - Talk to Morgan to start VS **[2]**
 - Go upstairs in Morgan's house and get 1 garlic from the Cabinet
+    - **[Split]**
 
 ### Port Sarim 1
 - Walk to Port Sarim
@@ -186,6 +187,7 @@ The openness of the game means there are a huge number of backup strats availabl
 - Walk to Wyson in falador park and buy 2 woad leaves **[1,4]**
 - Walk to the Furnace and smelt a bronze bar
 - Deathwarp using a guards
+    - **[Split]**
 
 ### Lumbridge 2
 - Walk to the 2nd floor of the castle
@@ -202,11 +204,12 @@ The openness of the game means there are a huge number of backup strats availabl
 	- **[BANK]** All coins, the package, chest key, clay, 2 buckets, all mind and air runes
 	- ![bank](https://i.imgur.com/uWFticx.png)
 - Switch to a non PVP world
-- Walk north to the east lumbridge cow pens
-- Milk a cow
-- Pick up an egg from the chicken pen to the west of these cow pens
+- Walk north to the east Lumbridge cow pens
+    - **[Split]**
 
 ### Varrock 1
+- Milk a cow in the east Lumbridge cow pens
+- Pick up an egg from the chicken pen to the west of these cow pens
 - Walk north to pick 1 cadava berry and 4 red berries
 - Run to the east varrock enterance
 - Talk to Aubry for RM **[3,retalk]**
@@ -246,6 +249,7 @@ The openness of the game means there are a huge number of backup strats availabl
 - Talk to him to complete RJ
 - Switch to a PVP world
 - Deathwarp using a guard
+    - **[Split]**
 
 ### Draynor 2
 - Use the Lumbridge PVP world chest
@@ -264,6 +268,7 @@ The openness of the game means there are a huge number of backup strats availabl
 - Talk to Sir Amik Varze on the third floor of the castle **[1,1,1]**
 - Switch to a PVP world
 - Deathwarp using the two white knights on the top floor of the castle
+    - **[Split]**
 
 ### Ice Mountain Area 1
 - Use the PVP world chest
@@ -289,6 +294,7 @@ The openness of the game means there are a huge number of backup strats availabl
 - Talk to Emily to but 1 Asgarnian Ale and 1 Wizards Mind Bomb
 - Speak to Sir Amik Varze to complete BKF
 - Mini game teleport to Clan Wars
+    - **[Split]**
 
 ### Al Kharid 1
 - Enter and exit Clan Wars to restore run energy
@@ -320,8 +326,11 @@ The openness of the game means there are a huge number of backup strats availabl
 	- Get him next to the skeleton on the southern wall
 	- Safespot him by walking to the west
 - Drop everything but 2 wines and the chronicle and the key
-- Deathwarp using the skeleton on the first floor
 - Switch to a PVP world
+- Deathwarp using the skeleton on the first floor
+    - **[Split]**
+
+### Draynor 4
 - Use the PVP world bank chest
 	- **[BANK]** chronicle 2 wine, all coins, ashes, 3 beers, 2 flour, bucket of water, bucket of milk, 3 wool balls, yellow dye, pink skirt, red berry, egg
 	- ![bank](https://i.imgur.com/rBgrGrf.png)
@@ -335,7 +344,7 @@ The openness of the game means there are a huge number of backup strats availabl
 - Talk to Joe in Draynor Jail
 - Use the rope on Lady Keeli
 - Talk to Prince Ali
-- Buy roughly 14 wines from Fortunato
+- Buy wines from Fortunato if you do not have 2 in the bank leftover from the Count Draynor fight
 - Use Draynor bank
 	- **[BANK]** RM notes and 25 bones
 	- ![bank](https://i.imgur.com/mig4tJc.png)
@@ -344,14 +353,18 @@ The openness of the game means there are a huge number of backup strats availabl
 - Talk to Sedridor to complete RM
 - Pick up the skull from the altar
 - Deathwarp using a Wizard
+    - **[Split]**
 
-### Varrock 2
+### Al Kharid 2
 - Place the skull in the Lumbridge crypt casket to complete RM
 - Walk to Al Kharid Palace
 - Complete PAR by talking to Hassan
 - Drop the coins you get as a reward
-- Deathwarp using Palace Guards
 - Switch to a PVP world
+- Deathwarp using Palace Guards
+    - **[Split]**
+
+### Varrock 2
 - Use the PVP world bank chest
 	- **[BANK]** Three DS keys, 1 beer, chronicle, all wines
 	- ![bank](https://i.imgur.com/xKdpeLk.png)
@@ -359,19 +372,25 @@ The openness of the game means there are a huge number of backup strats availabl
 - chronicle teleport
 - Walk to Varrock Palace
 - Talk to Sir Prysin to get Silverlight
-	- Teleport as soon as the sword appears equipped to you
+	- Teleport as soon as the sword appears equipped to you 
 - Walk into the Wizard's circle and beat Delrith
-    - This fight is actually very tricky and difficult
+    - This fight is trick, difficult, and frustrating since it is at the very end of the run
 	- Use the Aggresive attack style
-	- Use attack and strength prayer
+	- Use attack and strength prayer through quick prayer
+    - I would reccomend watching a run VOD to get an idea how to effectively trap Delrith
     - The fight is an instance that can be freely entered and reset by walking in and out of the circle
-    - Get to the southeast of the circle and reset the instance as needed to get delrith alone
-    - You DO NOT want a wizard aggro'd on you
-    - Pull delrith as far southeast or southwest as you can without exiting the instance to get him alone
-	- Wine will sap your strength and attack, so be careful using it
+    - Get to the southeast of the circle and reset the instance as needed to set up the fight
+    - Grab delrith's aggro by attacking him and pulling him to the south stone
+    - Pull him to the east or west of this stone, so you can step out of his reach when needed
+    	- This is tricky to set up, as the wizards will try to attack you first
+    - Wine will sap your strength and attack
+        - I would reccomend only using your bread and two wines for the fight, after any more wines it becomes almost impossible to hit Delrith due to the loss of attack levels
+	- If you run out of food use the stone he is stuck behind to flinch him
+	- You can flinch him by: Attacking, stepping out of his reach, waiting for the HP bars to disappear, attacking again while quickly stepping out of his reach, then repeating.
 - Enter the incantation, and be sure to turn of prayer before you do so.
     - If prayer is left on it can bug the ending when your prayer runs out.
 - Chronicle teleport to and enter the Champion's Guild.
 
 ### Finish
 - Timer stops when dialog appears upon entering Champion's Guild.
+    - **[Final Split]**
