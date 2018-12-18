@@ -369,14 +369,15 @@ The openness of the game means there are a huge number of backup strats availabl
 	- **[BANK]** Three DS keys, 1 beer, chronicle, all wines
 	- ![bank](https://i.imgur.com/xKdpeLk.png)
 - (Optional) Get the Ironman armor set and equip it
-- chronicle teleport
+- Chronicle teleport
 - Walk to Varrock Palace
 - Talk to Sir Prysin to get Silverlight
 	- Teleport as soon as the sword appears equipped to you 
 - Walk into the Wizard's circle and beat Delrith
-    - This fight is trick, difficult, and frustrating since it is at the very end of the run
+    - This fight is difficult and often frustrating since it is at the very end of the run
 	- Use the Aggresive attack style
 	- Use attack and strength prayer through quick prayer
+	- Take a deep breath, you are at the end of the run so your next run will now be all the easier
     - I would reccomend watching a run VOD to get an idea how to effectively trap Delrith
     - The fight is an instance that can be freely entered and reset by walking in and out of the circle
     - Get to the southeast of the circle and reset the instance as needed to set up the fight
