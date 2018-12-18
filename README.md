@@ -2,7 +2,7 @@
 
 ## Overview:
 
-Welcome to the wonderful world of Oldschool RuneScape speedrunning. OSRS offers a surprisingly unique, challenging, and rewarding speedrun. We are an fun and friendly community, so please ask questions in the Discord.
+Welcome to the wonderful world of Old School RuneScape speedrunning. OSRS offers a surprisingly unique, challenging, and rewarding speedrun. We are an fun and friendly community, so please ask questions in the Discord.
 
 This git repository stores up to date and archived route notes for the most active run category: "Champion's Guild"
 
