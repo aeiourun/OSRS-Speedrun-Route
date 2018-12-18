@@ -114,14 +114,14 @@ https://github.com/aeiourun/OSRS-Speedrun-Route/blob/master/no-authenticator-ver
 - Talk to Sedridor in the basement **[3,1,1]**
 - Switch to a PVP world
 - Deathwarp using a wizard
+    - **[Split]**
+
+### Varrock 1
 - Use the pvp world chest
 	- **[BANK]** All coins, the package, chest key, clay, 2 buckets, all mind and air runes
 	- ![bank](https://i.imgur.com/uWFticx.png)
 - Switch to a non PVP world
 - Walk north to the east Lumbridge cow pens
-    - **[Split]**
-
-### Varrock 1
 - Milk a cow in the east Lumbridge cow pens
 - Pick up an egg from the chicken pen to the west of these cow pens
 - Walk north to pick 1 cadava berry and 4 red berries
