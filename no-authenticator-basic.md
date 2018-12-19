@@ -67,7 +67,7 @@ https://github.com/aeiourun/OSRS-Speedrun-Route/blob/master/no-authenticator-ver
 - Walk to Port Sarim
 - Talk to Redbeard Frank to start PT **[1,1]**
 - Take the boat to Karamja **[1]**
-- Buy 3 bears, 1 wine, 1 rum from Zanbu
+- Buy 3 beers, 1 wine, 1 rum from Zanbu
 - Pick 10 bananas from the plantation
 - Talk to Luthas **[1]**
 - Right click and "Fill" the crate with bananas
