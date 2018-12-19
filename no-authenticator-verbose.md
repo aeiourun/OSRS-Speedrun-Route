@@ -151,7 +151,7 @@ The openness of the game means there are a huge number of backup strats availabl
 - Talk to Redbeard Frank to start PT **[1,1]**
 - You can leave this dialouge after submiting the second option
 - Take the boat to Karamja **[1]**
-- Buy 3 bears, 1 wine, 1 rum from Zanbu
+- Buy 3 beers, 1 wine, 1 rum from Zanbu
 - Pick 10 bananas from the plantation
 - Talk to Luthas **[1]**
 - Right click and "Fill" the crate with bananas
