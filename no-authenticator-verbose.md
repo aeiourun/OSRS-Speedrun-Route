@@ -260,7 +260,7 @@ The openness of the game means there are a huge number of backup strats availabl
 - Use your onions, redberries, and woad leaves on aggie to make 4 dyes
 - Use your red dye on your yellow dye to make an orange dye
 
-### Falador 1
+### Falador 2
 - Walk through Falador farm to Falador park
 - Dig in the center of the park, walk away to de-spawn the gardener, and dig again to complete PT
 - Drop the chest and your spade
