@@ -253,7 +253,7 @@ The openness of the game means there are a huge number of backup strats availabl
 
 ### Draynor 2
 - Use the Lumbridge PVP world chest
-	- **[BANK]** All but 9 coins, clay, spade, woad leaves, 3 redberries, 4 onions
+	- **[BANK]** 20 coins, clay, spade, woad leaves, 3 redberries, 4 onions
 	- ![bank](https://i.imgur.com/rRelsQG.png)
 - Walk to Draynor Village
 - Talk to Lady Keli to make a key imprint **[1,2,3,1,1,]**
