@@ -174,7 +174,7 @@ https://github.com/aeiourun/OSRS-Speedrun-Route/blob/master/no-authenticator-ver
 - Use your onions, redberries, and woad leaves on aggie to make 4 dyes
 - Use your red dye on your yellow dye to make an orange dye
 
-### Falador 1
+### Falador 2
 - Walk through Falador farm to Falador park
 - Dig in the center of the park, de-spawn the gardener, and dig again
 - Drop the chest and your spade
