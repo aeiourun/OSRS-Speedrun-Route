@@ -67,7 +67,7 @@ https://github.com/aeiourun/OSRS-Speedrun-Route/blob/master/no-authenticator-ver
 - Walk to Port Sarim
 - Talk to Redbeard Frank to start PT **[1,1]**
 - Take the boat to Karamja **[1]**
-- Buy 3 beers, 1 wine, 1 rum from Zanbu
+	- Buy 3 beers, 1 wine, 1 rum from Zanbu
 - Pick 10 bananas from the plantation
 - Talk to Luthas **[1]**
 - Right click and "Fill" the crate with bananas
@@ -82,7 +82,7 @@ https://github.com/aeiourun/OSRS-Speedrun-Route/blob/master/no-authenticator-ver
 - Drop the white apron
 - Talk to Redbeard Frank again and trade your rum for a key
 - Walk to Betty's Magic Emporium
-	- But 1 Eye of newt
+	- BUY: 1 Eye of newt
 - Walk to Rimmington
 - Burn your meat on the range
 - Pick up a pickaxe from this same house
@@ -96,12 +96,12 @@ https://github.com/aeiourun/OSRS-Speedrun-Route/blob/master/no-authenticator-ver
 
 ### Falador 1
 - Try to take damage from guards
-- Walk to falador east bank 
+- Walk to Falador east bank 
 	- **[BANK]** 20 coins, 1 tin, 1 copper
 	- ![bank](https://i.imgur.com/R58MG8o.png)
-- Walk to Wyson in falador park and buy 2 woad leaves **[1,4]**
-- Walk to the Furnace and smelt a bronze bar
-- Deathwarp using a guards
+- Walk to Wyson in Falador park and buy 2 woad leaves **[1,4]**
+- Walk to the furnace and smelt a bronze bar
+- Deathwarp using guards
     - **[Split]**
 
 ### Lumbridge 2
@@ -109,7 +109,7 @@ https://github.com/aeiourun/OSRS-Speedrun-Route/blob/master/no-authenticator-ver
 - Start RM by talking to Duke Horacio **[1,1]**
 - Walk to Father Urhney's shack in Lumbridge swamp
 - Talk to him to get the ghostspeak amulet **[2,1]**
-- Walk to the wizards tower
+- Walk to the Wizards' Tower
 - Try to take some wizard damage
 - Talk to Sedridor in the basement **[3,1,1]**
 - Switch to a PVP world
@@ -117,7 +117,7 @@ https://github.com/aeiourun/OSRS-Speedrun-Route/blob/master/no-authenticator-ver
     - **[Split]**
 
 ### Varrock 1
-- Use the pvp world chest
+- Use the PVP world chest
 	- **[BANK]** All coins, the package, chest key, clay, 2 buckets, all mind and air runes
 	- ![bank](https://i.imgur.com/uWFticx.png)
 - Switch to a non PVP world
@@ -126,8 +126,8 @@ https://github.com/aeiourun/OSRS-Speedrun-Route/blob/master/no-authenticator-ver
 - Pick up an egg from the chicken pen to the west of these cow pens
 - Walk north to pick 1 cadava berry and 4 red berries
 - Run to the east varrock enterance
-- Talk to Aubry for RM **[3,retalk]**
-- Walk to the blue moon inn and talk to the bartender to buy 1 beer **[1]**
+- Talk to Aubury for RM **[3,retalk]**
+- Walk to the Blue Moon Inn and talk to the bartender to buy 1 beer **[1]**
 - Go upstairs and open the PT chest
 - Read the message and drop it
 - Talk to Harlow to get the stake [3,retalk]
@@ -135,8 +135,8 @@ https://github.com/aeiourun/OSRS-Speedrun-Route/blob/master/no-authenticator-ver
 - Talk to Juliet to start RJ **[1,1]**
 - Walk to Zaff's Staffs
 - BUY: 1 normal staff
-- Talk to Gypsey Aris **[1,3,3,cutscene]**
-- Remember the delrith incantaction
+- Talk to Gypsy Aris **[1,3,3,cutscene]**
+- Remember the Delrith incantaction
 - Fill up your bucket with water from the center fountain
 - Use the water with your dry clay
 - Talk to Romeo to deliver the letter
@@ -147,7 +147,7 @@ https://github.com/aeiourun/OSRS-Speedrun-Route/blob/master/no-authenticator-ver
 - Fill up your bucket of water from the kitchen sink and poor it down the drain 
 - Fill it back up from the kitchen sink
 - Walk to Varrock church
-- Talk to father Lawrence
+- Talk to Father Lawrence
 - Walk to the sewers
 - Pick up the DS key from the sewers
 - Walk to Horvik's Armor shop
@@ -158,7 +158,8 @@ https://github.com/aeiourun/OSRS-Speedrun-Route/blob/master/no-authenticator-ver
 - Get the cadava potion **[2,1]**
 - Walk to Juliet
 - Talk to Juliet and watch the cutscene
-- Walk to Varrock west bank and deposit everything using the deposit box
+- Walk to the Varrock west bank deposit box
+	- **[BANK]** Deposit everything
 - Walk to Romeo
 - Talk to him to complete RJ
 - Switch to a PVP world
@@ -193,21 +194,21 @@ https://github.com/aeiourun/OSRS-Speedrun-Route/blob/master/no-authenticator-ver
 - Talk to Count Check to warp to Barbarian Village **[4,1]**
 - Spin your three wool on the spinning wheel
 - Equip your bronze med helm and iron chainbody
-- Walk to the black knights fortress
-- Eat food as needed in the black knights fortress
+- Walk to the black knights' fortress
+- Eat food as needed in the black knights' fortress
 - Enter castle and follow hidden route through the north wall to spy at grate.
 - Go back to the main entrance and follow east path to drop cabbage in hole.
 - Drop your bronze med helm and iron chainbody
-- Run directly west from the fortress through wilderness to the goblin village.
+- Run directly west from the fortress through the wilderness to the goblin village.
 - Pick up 3 goblin mail, locations: Up ladder, in mid-left hut, behind generals’ (right side).
 - Dye 1 mail blue and 1 mail orange.
 - Start GD by talking to generals **[3,3]**
 - Use the armor on the generals and watch the cutscenes - orange, then blue, then brown.
 - Drop the gold bar
 - Walk to Falador
-- Talk to Emily to but 1 Asgarnian Ale and 1 Wizards Mind Bomb
+- Talk to Emily to buy 1 Asgarnian Ale and 1 Wizards Mind Bomb
 - Speak to Sir Amik Varze to complete BKF
-- Mini game teleport to Clan Wars
+- Minigame teleport to Clan Wars
     - **[Split]**
 
 ### Al Kharid 1
@@ -217,13 +218,13 @@ https://github.com/aeiourun/OSRS-Speedrun-Route/blob/master/no-authenticator-ver
 	- ![bank](https://i.imgur.com/4RaVzML.png)
 - Walk to Prince Hassan and start PAR **[1]**
 - Talk to Osman to give him the bronze bar and key imprint **[1,2,Re-talk]**
-- Talk to Shantay to get send to Jail **[1,1,2,2]**
+- Talk to Shantay to get sent to jail **[1,1,2,2]**
 
 ### Draynor 3
 - Pick the jail lock (Click it once and wait)
-- Walk to Betties Magic Emporium
+- Walk to Betty's Magic Emporium
 	- BUY: 100 air earth and mind runes, 60 water runes
-- Walk to falador farm
+- Walk to Falador farm
 - Kill 25 chickens with magic:
     - Pick up 25 bones in the process.
     - Use water strike while you have the runes, then air strike, then melee if needed.
@@ -231,34 +232,35 @@ https://github.com/aeiourun/OSRS-Speedrun-Route/blob/master/no-authenticator-ver
 - Walk to Draynor bank
 	- **[BANK]** All air earth and mind runes, staff, hammer, stake, 1070 coins, garlic, closet key, mind bomb
 	- ![bank](https://i.imgur.com/K8oRWaq.png)
-- Buy 5 wines from the wine shop
-- Buy a chronicle and 4 cards from Diango
-- Walk to Draynor manner
+- Walk to Draynor square
+	- BUY: 5 wines from the wine shop
+	- BUY: Chronicle and 4 cards from Diango
+- Walk to Draynor manor
 - Kill Count Draynor using safespot
-- Drop everything but 2 wines and the chronicle and the key
+- Drop everything but 2 wines, the chronicle and the key
 - Switch to a PVP world
 - Deathwarp using the skeleton on the first floor
     - **[Split]**
 
 ### Draynor 4
 - Use the PVP world bank chest
-	- **[BANK]** chronicle 2 wine, all coins, ashes, 3 beers, 2 flour, bucket of water, bucket of milk, 3 wool balls, yellow dye, pink skirt, red berry, egg
+	- **[BANK]** chronicle, 2 wines, all coins, ashes, 3 beers, 2 flour, bucket of water, bucket of milk, 3 wool balls, yellow dye, pink skirt, red berry, egg
 	- ![bank](https://i.imgur.com/rBgrGrf.png)
 - Switch to a non-PVP world
-- Complete Cook's Assistance
+- Complete Cook's Assistant
 - Walk to Draynor Village
-- Buy a rope from Ned
+	- BUY: Rope from Ned
 - Talk to Ned to make a wig **[1,2,1]**
 - Talk to Aggie to make skin paste **[1,1]**
 - Talk to Leela
 - Talk to Joe in Draynor Jail
 - Use the rope on Lady Keeli
 - Talk to Prince Ali
-- Buy wines from Fortunato if you do not have 2 in the bank leftover from the Count Draynor fight
+	- BUY: wines from Fortunato (Only if you do not have 2 in the bank leftover from the Count Draynor fight)
 - Use Draynor bank
 	- **[BANK]** RM notes and 25 bones
 	- ![bank](https://i.imgur.com/mig4tJc.png)
-- Walk to the Wizards Tower
+- Walk to the Wizards' Tower
 - Talk to to get the DS key **[3,3,2,retalk]**
 - Talk to Sedridor to complete RM
 - Pick up the skull from the altar
@@ -285,7 +287,7 @@ https://github.com/aeiourun/OSRS-Speedrun-Route/blob/master/no-authenticator-ver
 	- Teleport as soon as the sword appears equipped to you 
 - Walk into the Wizard's circle and beat Delrith
   - Drink 2 wines, then flinch
-- Enter the incantation, and be sure to turn of prayer before you do so.
+- Enter the incantation, and be sure to turn off prayer before you do so.
     - If prayer is left on it can bug the ending when your prayer runs out.
 - Chronicle teleport to and enter the Champion's Guild.
 
