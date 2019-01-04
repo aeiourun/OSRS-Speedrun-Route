@@ -47,7 +47,7 @@ Timing ends upon entering the Champions guild, which requires 32 quest points.
     PAR: Prince Ali Rescue
     CA:  Cook's Assistant
     ETC: Ernest The Chicken
-    BKF: Black Knight's Fortress
+    BKF: Black Knights' Fortress
     GD:  Goblin Diplomacy
 
 ### Setup
@@ -125,7 +125,7 @@ The openness of the game means there are a huge number of backup strats availabl
 - Pick up the fish food from the second floor
 - Pick up the poison from the first floor kitchen
 - Combine fish food and poison
-- Go to the basement and light your logs to let them burn while you do the lever puzzle, I would reccomend burning them after hitting B and A the first time
+- Go to the basement and light your logs to let them burn while you do the lever puzzle, I would recommend burning them after hitting B and A the first time
 - Complete the basement level puzzle to get the oil can **[BA, D, BA, EF, C, E]**
 - Don't forget to pick up your ashes AS SOON as your fire goes out
 - Pick up a bucket, bronze med helm, and spade by the mansion back door
@@ -167,7 +167,7 @@ The openness of the game means there are a huge number of backup strats availabl
 - Drop the white apron
 - Talk to Redbeard Frank again and trade your rum for a key
 - Walk to Betty's Magic Emporium
-	- But 1 Eye of newt
+	- BUY: 1 Eye of newt
 - Walk to Rimmington
 - Burn your meat on the range (Cook it again if it cooks successfully)
 - Pick up a pickaxe from this same house
@@ -181,12 +181,12 @@ The openness of the game means there are a huge number of backup strats availabl
 
 ### Falador 1
 - Try to take damage from guards on your way as you will be death warping soon
-- Walk to falador east bank 
+- Walk to Falador east bank 
 	- **[BANK]** 20 coins, 1 tin, 1 copper
 	- ![bank](https://i.imgur.com/R58MG8o.png)
-- Walk to Wyson in falador park and buy 2 woad leaves **[1,4]**
-- Walk to the Furnace and smelt a bronze bar
-- Deathwarp using a guards
+- Walk to Wyson in Falador park and buy 2 woad leaves **[1,4]**
+- Walk to the furnace and smelt a bronze bar
+- Deathwarp using guards
     - **[Split]**
 
 ### Lumbridge 2
@@ -195,7 +195,7 @@ The openness of the game means there are a huge number of backup strats availabl
 - Exit out the west side of Lumbridge Castle
 - Walk to Father Urhney's shack in Lumbridge swamp
 - Talk to him to get the ghostspeak amulet **[2,1]**
-- Walk to the wizards tower
+- Walk to the Wizards' Tower
 - Try to take some wizard damage as you will be death warping soon
 - Talk to Sedridor in the basement **[3,1,1]**
 - Switch to a PVP world
@@ -203,7 +203,7 @@ The openness of the game means there are a huge number of backup strats availabl
     - **[Split]**
 
 ### Varrock 1
-- Use the pvp world chest
+- Use the PVP world chest
 	- **[BANK]** All coins, the package, chest key, clay, 2 buckets, all mind and air runes
 	- ![bank](https://i.imgur.com/uWFticx.png)
 - Switch to a non PVP world
@@ -211,18 +211,18 @@ The openness of the game means there are a huge number of backup strats availabl
 - Milk a cow in the east Lumbridge cow pens
 - Pick up an egg from the chicken pen to the west of these cow pens
 - Walk north to pick 1 cadava berry and 4 red berries
-- Run to the east varrock enterance
-- Talk to Aubry for RM **[3,retalk]**
-- Walk to the blue moon inn and talk to the bartender to buy 1 beer **[1]**
+- Run to the east Varrock entrance
+- Talk to Aubury for RM **[3,retalk]**
+- Walk to the Blue Moon Inn and talk to the bartender to buy 1 beer **[1]**
 - Go upstairs and open the PT chest
 - Read the message and drop it
 - Talk to Harlow to get the stake [3,retalk]
 - Walk to Juliet on the second floor of the house west of Varrock
 - Talk to Juliet to start RJ **[1,1]**
 - Walk to Zaff's Staffs
-- BUY: 1 normal staff
-- Talk to Gypsey Aris **[1,3,3,cutscene]**
-- Remember the delrith incantaction
+	- BUY: 1 normal staff
+- Talk to Gypsy Aris **[1,3,3,cutscene]**
+- Remember the Delrith incantaction
 - Fill up your bucket with water from the center fountain
 - Use the water with your dry clay
 - Talk to Romeo to deliver the letter
@@ -233,18 +233,19 @@ The openness of the game means there are a huge number of backup strats availabl
 - Fill up your bucket of water from the kitchen sink and poor it down the drain 
 - Fill it back up from the kitchen sink
 - Walk to Varrock church
-- Talk to father Lawrence
+- Talk to Father Lawrence
 - Walk to the sewers
 - Pick up the DS key from the sewers
 - Walk to Horvik's Armor shop
-- BUY: Iron chainbody
+	- BUY: Iron chainbody
 - Walk to the fancy cloths shop
-- BUY: Pink skirt
+	- BUY: Pink skirt
 - Walk to the apothecary
 - Get the cadava potion **[2,1]**
 - Walk to Juliet
 - Talk to Juliet and watch the cutscene
-- Walk to Varrock west bank and deposit everything using the deposit box
+- Walk to the Varrock west bank deposit box
+	- **[BANK]** Deposit everything
 - Walk to Romeo
 - Talk to him to complete RJ
 - Switch to a PVP world
@@ -279,21 +280,21 @@ The openness of the game means there are a huge number of backup strats availabl
 - Talk to Count Check to warp to Barbarian Village **[4,1]**
 - Spin your three wool on the spinning wheel
 - Equip your bronze med helm and iron chainbody
-- Walk to the black knights fortress
-- Eat food as needed in the black knights fortress
+- Walk to the black knights' fortress
+- Eat food as needed in the black knights' fortress
 - Enter castle and follow hidden route through the north wall to spy at grate.
 - Go back to the main entrance and follow east path to drop cabbage in hole.
 - Drop your bronze med helm and iron chainbody
-- Run directly west from the fortress through wilderness to the goblin village.
+- Run directly west from the fortress through the wilderness to the goblin village.
 - Pick up 3 goblin mail, locations: Up ladder, in mid-left hut, behind generals’ (right side).
 - Dye 1 mail blue and 1 mail orange.
 - Start GD by talking to generals **[3,3]**
 - Use the armor on the generals and watch the cutscenes - orange, then blue, then brown.
 - Drop the gold bar
 - Walk to Falador
-- Talk to Emily to but 1 Asgarnian Ale and 1 Wizards Mind Bomb
+- Talk to Emily to buy 1 Asgarnian Ale and 1 Wizards Mind Bomb
 - Speak to Sir Amik Varze to complete BKF
-- Mini game teleport to Clan Wars
+- Minigame teleport to Clan Wars
     - **[Split]**
 
 ### Al Kharid 1
@@ -303,13 +304,13 @@ The openness of the game means there are a huge number of backup strats availabl
 	- ![bank](https://i.imgur.com/4RaVzML.png)
 - Walk to Prince Hassan and start PAR **[1]**
 - Talk to Osman to give him the bronze bar and key imprint **[1,2,Re-talk]**
-- Talk to Shantay to get send to Jail **[1,1,2,2]**
+- Talk to Shantay to get sent to jail **[1,1,2,2]**
 
 ### Draynor 3
 - Pick the jail lock (Click it once and wait)
-- Walk to Betties Magic Emporium
+- Walk to Betty's Magic Emporium
 	- BUY: 100 air earth and mind runes, 60 water runes
-- Walk to falador farm
+- Walk to Falador farm
 - Kill 25 chickens with magic:
     - Pick up 25 bones in the process.
     - Use water strike while you have the runes, then air strike, then melee if needed.
@@ -319,23 +320,23 @@ The openness of the game means there are a huge number of backup strats availabl
 	- ![bank](https://i.imgur.com/K8oRWaq.png)
 - Buy 5 wines from the wine shop
 - Buy a chronicle and 4 cards from Diango
-- Walk to Draynor manner
+- Walk to Draynor manor
 - Kill Count Draynor
-	- Drink your mindbomb to be able to use Earth Strike if needed
-	- Use Water Strike otherwise
+	- Drink your mind bomb to be able to use earth strike if needed
+	- Use water strike otherwise
 	- Get him next to the skeleton on the southern wall
 	- Safespot him by walking to the west
-- Drop everything but 2 wines and the chronicle and the key
+- Drop everything but 2 wines, the chronicle and the key
 - Switch to a PVP world
 - Deathwarp using the skeleton on the first floor
     - **[Split]**
 
 ### Draynor 4
 - Use the PVP world bank chest
-	- **[BANK]** chronicle 2 wine, all coins, ashes, 3 beers, 2 flour, bucket of water, bucket of milk, 3 wool balls, yellow dye, pink skirt, red berry, egg
+	- **[BANK]** chronicle, 2 wines, the chronicle, all coins, ashes, 3 beers, 2 flour, bucket of water, bucket of milk, 3 wool balls, yellow dye, pink skirt, red berry, egg
 	- ![bank](https://i.imgur.com/rBgrGrf.png)
 - Switch to a non-PVP world
-- Complete Cook's Assistance
+- Complete Cook's Assistant
 - Walk to Draynor Village
 - Buy a rope from Ned
 - Talk to Ned to make a wig **[1,2,1]**
@@ -348,7 +349,7 @@ The openness of the game means there are a huge number of backup strats availabl
 - Use Draynor bank
 	- **[BANK]** RM notes and 25 bones
 	- ![bank](https://i.imgur.com/mig4tJc.png)
-- Walk to the Wizards Tower
+- Walk to the Wizards' Tower
 - Talk to to get the DS key **[3,3,2,retalk]**
 - Talk to Sedridor to complete RM
 - Pick up the skull from the altar
@@ -378,17 +379,17 @@ The openness of the game means there are a huge number of backup strats availabl
 	- Use the Aggresive attack style
 	- Use attack and strength prayer through quick prayer
 	- Take a deep breath, you are at the end of the run so your next run will now be all the easier
-    - I would reccomend watching a run VOD to get an idea how to effectively trap Delrith
+    - I would recommend watching a run VOD to get an idea how to effectively trap Delrith
     - The fight is an instance that can be freely entered and reset by walking in and out of the circle
     - Get to the southeast of the circle and reset the instance as needed to set up the fight
-    - Grab delrith's aggro by attacking him and pulling him to the south stone
+    - Grab Delrith's aggro by attacking him and pulling him to the south stone
     - Pull him to the east or west of this stone, so you can step out of his reach when needed
     	- This is tricky to set up, as the wizards will try to attack you first
     - Wine will sap your strength and attack
-        - I would reccomend only using your bread and two wines for the fight, after any more wines it becomes almost impossible to hit Delrith due to the loss of attack levels
+        - I would recommend only using your bread and two wines for the fight, after any more wines it becomes almost impossible to hit Delrith due to the loss of attack levels
 	- If you run out of food use the stone he is stuck behind to flinch him
 	- You can flinch him by: Attacking, stepping out of his reach, waiting for the HP bars to disappear, attacking again while quickly stepping out of his reach, then repeating.
-- Enter the incantation, and be sure to turn of prayer before you do so.
+- Enter the incantation, and be sure to turn off prayer before you do so.
     - If prayer is left on it can bug the ending when your prayer runs out.
 - Chronicle teleport to and enter the Champion's Guild.
 
