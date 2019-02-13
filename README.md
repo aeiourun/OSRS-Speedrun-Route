@@ -23,7 +23,7 @@ http://www.speedrun.com/2007scape#F2P_Champions_Guild
 
 Speedrun.com: http://www.speedrun.com/2007scape
 
-Discord: https://discord.gg/cS6w8z6
+Discord: https://discord.gg/JcaS8WF
 
 Current world record: https://www.speedrun.com/run/y45g5ldm
 
