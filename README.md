@@ -3,7 +3,7 @@
 # WARNING PLEASE READ
 
 These notes are no longer maintained, and only exist for legacy purposes. Please see the guides on the wiki for up to date information:
-https://oldschool.runescape.wiki/w/User:Aeioufootball/speedrunning_guide
+https://oldschool.runescape.wiki/w/Speedrunning_guide
 
 # WARNING PLEASE READ
 
